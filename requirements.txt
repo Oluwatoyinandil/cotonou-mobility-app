@@ -1,7 +1,7 @@
-pandas
-numpy
-matplotlib
-seaborn
-folium
 streamlit
+pandas
+scikit-learn
+joblib
+folium
+streamlit-folium
 geopandas
