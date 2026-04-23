@@ -1,0 +1,11 @@
+Variable,Type,Rôle,Logique métier (Cotonou)
+point_A,Catégorie,Feature,"Origine (ex: Akpakpa, carrefour des trois banques)."
+point_B,Catégorie,Feature,"Destination (ex: Cadjehoun, aéroport)."
+heure_depart,Entier,Feature,0 à 23. Crucial pour les embouteillages.
+jour_semaine,Catégorie,Feature,Lundi-Vendredi vs Weekend (trafic différent).
+meteo,Catégorie,Feature,Impacte la vitesse et la sécurité (Pluie = danger).
+moyen_transport,Catégorie,Feature,"Zem, Voiture, Bus."
+distance_km,Flottant,Feature,Distance à vol d'oiseau entre A et B.
+indice_trafic,Flottant,Feature,Niveau de saturation (1.0 à 4.5).
+duree_min,Flottant,Cible (Y1),Le temps que l'on veut prédire.
+prob_accident,Flottant,Cible (Y2),Le score de sécurité à minimiser.

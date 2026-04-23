@@ -1,0 +1,2082 @@
+point_A,point_B,heure_depart,jour_semaine,meteo,moyen_transport,distance_km,indice_trafic,duree_min,prob_accident
+Etoile,Cadjehoun,11,Semaine,Pluie Légère,Voiture,4.18,1.29,9.0,0.01
+Fidjrosse,Cadjehoun,7,Semaine,Pluie Légère,Bus,3.92,2.23,21.9,0.005
+Zongo,Akpakpa,3,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Fidjrosse,Akpakpa,12,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Fidjrosse,Akpakpa,17,Weekend,Forte Pluie,Zem,10.0,1.0,34.3,0.16
+Zongo,Akpakpa,1,Semaine,Pluie Légère,Voiture,3.38,1.33,7.5,0.01
+Etoile,Fidjrosse,12,Semaine,Pluie Légère,Bus,7.91,1.11,22.0,0.005
+Calavi,Etoile,21,Semaine,Ensoleillé,Bus,12.72,1.39,35.2,0.005
+Zongo,Calavi,14,Semaine,Ensoleillé,Voiture,12.45,1.35,22.5,0.01
+Calavi,Cadjehoun,2,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Cadjehoun,Fidjrosse,2,Semaine,Ensoleillé,Voiture,3.92,1.52,8.0,0.01
+Etoile,Calavi,21,Semaine,Ensoleillé,Voiture,12.72,1.39,23.6,0.01
+Zongo,Fidjrosse,13,Semaine,Forte Pluie,Zem,6.66,1.26,28.8,0.16
+Akpakpa,Calavi,7,Semaine,Ensoleillé,Bus,14.46,3.13,90.5,0.005
+Cadjehoun,Zongo,3,Weekend,Ensoleillé,Bus,2.81,1.0,5.6,0.005
+Calavi,Etoile,19,Semaine,Pluie Légère,Zem,12.72,3.46,94.3,0.04
+Zongo,Cadjehoun,10,Semaine,Ensoleillé,Bus,2.81,1.15,6.4,0.005
+Akpakpa,Cadjehoun,1,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Fidjrosse,Calavi,16,Weekend,Ensoleillé,Voiture,9.53,1.0,12.7,0.01
+Fidjrosse,Cadjehoun,8,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Cadjehoun,Zongo,1,Semaine,Forte Pluie,Zem,2.81,1.41,13.6,0.16
+Etoile,Fidjrosse,23,Semaine,Pluie Légère,Zem,7.91,1.56,26.4,0.04
+Etoile,Calavi,14,Semaine,Ensoleillé,Voiture,12.72,1.25,21.2,0.01
+Calavi,Cadjehoun,15,Semaine,Ensoleillé,Zem,11.27,1.41,27.3,0.04
+Fidjrosse,Calavi,8,Weekend,Pluie Légère,Bus,9.53,1.0,23.8,0.005
+Etoile,Fidjrosse,4,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Akpakpa,Calavi,12,Semaine,Pluie Légère,Bus,14.46,1.51,54.6,0.005
+Fidjrosse,Akpakpa,6,Semaine,Forte Pluie,Voiture,10.0,1.36,36.2,0.02
+Zongo,Cadjehoun,2,Semaine,Pluie Légère,Voiture,2.81,1.46,6.8,0.01
+Akpakpa,Fidjrosse,4,Semaine,Ensoleillé,Zem,10.0,1.26,21.5,0.04
+Etoile,Fidjrosse,11,Semaine,Ensoleillé,Zem,7.91,1.25,17.0,0.04
+Akpakpa,Cadjehoun,6,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Etoile,Calavi,8,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Calavi,Etoile,5,Semaine,Pluie Légère,Bus,12.72,1.43,45.6,0.005
+Zongo,Akpakpa,20,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Cadjehoun,Zongo,3,Semaine,Pluie Légère,Voiture,2.81,1.45,6.8,0.01
+Etoile,Calavi,9,Semaine,Pluie Légère,Voiture,12.72,3.89,82.4,0.01
+Etoile,Akpakpa,4,Semaine,Ensoleillé,Voiture,2.12,1.21,3.4,0.01
+Etoile,Calavi,21,Semaine,Pluie Légère,Zem,12.72,1.33,36.4,0.04
+Zongo,Akpakpa,9,Semaine,Ensoleillé,Zem,3.38,2.65,15.3,0.04
+Fidjrosse,Calavi,11,Semaine,Pluie Légère,Voiture,9.53,1.14,18.1,0.01
+Akpakpa,Calavi,12,Semaine,Ensoleillé,Zem,14.46,1.3,32.3,0.04
+Etoile,Zongo,10,Semaine,Ensoleillé,Zem,1.45,1.29,3.2,0.04
+Cadjehoun,Etoile,21,Semaine,Forte Pluie,Zem,4.18,1.24,17.7,0.16
+Etoile,Fidjrosse,15,Semaine,Pluie Légère,Voiture,7.91,1.25,16.5,0.01
+Cadjehoun,Fidjrosse,7,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Calavi,Akpakpa,7,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Calavi,Akpakpa,12,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Cadjehoun,Zongo,1,Semaine,Ensoleillé,Voiture,2.81,1.28,4.8,0.01
+Etoile,Zongo,11,Semaine,Ensoleillé,Zem,1.45,1.59,4.0,0.04
+Calavi,Cadjehoun,9,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Cadjehoun,Etoile,14,Semaine,Ensoleillé,Bus,4.18,1.49,12.5,0.005
+Etoile,Akpakpa,15,Semaine,Pluie Légère,Voiture,2.12,1.14,4.0,0.01
+Cadjehoun,Etoile,16,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Cadjehoun,Zongo,1,Semaine,Pluie Légère,Zem,2.81,1.54,9.3,0.04
+Calavi,Etoile,17,Semaine,Ensoleillé,Voiture,12.72,3.34,56.6,0.01
+Calavi,Etoile,18,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Calavi,Zongo,22,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Etoile,Calavi,17,Semaine,Pluie Légère,Voiture,12.72,3.8,80.6,0.01
+Akpakpa,Etoile,16,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Calavi,Cadjehoun,5,Semaine,Pluie Légère,Voiture,11.27,1.27,23.9,0.01
+Zongo,Etoile,2,Semaine,Forte Pluie,Bus,1.45,1.33,7.7,0.01
+Cadjehoun,Calavi,5,Semaine,Pluie Légère,Zem,11.27,1.55,37.4,0.04
+Cadjehoun,Fidjrosse,0,Semaine,Ensoleillé,Zem,3.92,1.24,8.3,0.04
+Akpakpa,Calavi,12,Semaine,Ensoleillé,Zem,14.46,1.56,38.6,0.04
+Etoile,Cadjehoun,20,Semaine,Ensoleillé,Voiture,4.18,1.51,8.4,0.01
+Etoile,Fidjrosse,12,Semaine,Ensoleillé,Voiture,7.91,1.59,16.8,0.01
+Zongo,Fidjrosse,3,Semaine,Pluie Légère,Zem,6.66,1.26,18.0,0.04
+Akpakpa,Zongo,6,Weekend,Pluie Légère,Bus,3.38,1.0,8.4,0.005
+Zongo,Fidjrosse,21,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Zongo,Cadjehoun,9,Semaine,Pluie Légère,Zem,2.81,2.62,15.8,0.04
+Akpakpa,Cadjehoun,6,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Akpakpa,Cadjehoun,14,Semaine,Ensoleillé,Zem,6.19,1.27,13.4,0.04
+Akpakpa,Calavi,14,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Etoile,Fidjrosse,3,Semaine,Ensoleillé,Voiture,7.91,1.58,16.6,0.01
+Fidjrosse,Cadjehoun,22,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Fidjrosse,Zongo,22,Semaine,Pluie Légère,Zem,6.66,1.27,18.1,0.04
+Fidjrosse,Akpakpa,19,Semaine,Ensoleillé,Zem,10.0,3.22,55.2,0.04
+Akpakpa,Fidjrosse,4,Semaine,Pluie Légère,Zem,10.0,1.3,27.9,0.04
+Fidjrosse,Zongo,19,Weekend,Forte Pluie,Bus,6.66,1.0,26.6,0.01
+Zongo,Akpakpa,11,Semaine,Pluie Légère,Bus,3.38,1.3,11.0,0.005
+Cadjehoun,Etoile,0,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Cadjehoun,Calavi,7,Semaine,Ensoleillé,Zem,11.27,2.55,49.2,0.04
+Akpakpa,Calavi,0,Semaine,Ensoleillé,Zem,14.46,1.37,33.9,0.04
+Etoile,Fidjrosse,4,Semaine,Pluie Légère,Zem,7.91,1.52,25.8,0.04
+Akpakpa,Etoile,21,Semaine,Ensoleillé,Voiture,2.12,1.12,3.2,0.01
+Etoile,Akpakpa,5,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Cadjehoun,Etoile,20,Semaine,Pluie Légère,Zem,4.18,1.54,13.8,0.04
+Akpakpa,Etoile,2,Semaine,Ensoleillé,Zem,2.12,1.43,5.2,0.04
+Calavi,Akpakpa,14,Semaine,Forte Pluie,Zem,14.46,1.41,69.8,0.16
+Fidjrosse,Etoile,23,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Calavi,Zongo,17,Semaine,Pluie Légère,Voiture,12.45,3.33,69.0,0.01
+Fidjrosse,Etoile,15,Weekend,Pluie Légère,Voiture,7.91,1.0,13.2,0.01
+Fidjrosse,Etoile,5,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Akpakpa,Etoile,23,Semaine,Ensoleillé,Voiture,2.12,1.25,3.5,0.01
+Fidjrosse,Calavi,13,Semaine,Pluie Légère,Zem,9.53,1.31,26.7,0.04
+Zongo,Cadjehoun,23,Semaine,Pluie Légère,Zem,2.81,1.5,9.0,0.04
+Calavi,Zongo,7,Semaine,Ensoleillé,Voiture,12.45,2.75,45.7,0.01
+Fidjrosse,Etoile,6,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Akpakpa,Calavi,7,Semaine,Pluie Légère,Voiture,14.46,3.05,73.4,0.01
+Cadjehoun,Fidjrosse,5,Semaine,Forte Pluie,Bus,3.92,1.11,17.4,0.01
+Calavi,Fidjrosse,17,Semaine,Forte Pluie,Bus,9.53,3.52,134.2,0.01
+Fidjrosse,Etoile,1,Semaine,Ensoleillé,Zem,7.91,1.31,17.7,0.04
+Akpakpa,Calavi,7,Semaine,Pluie Légère,Bus,14.46,3.15,113.7,0.005
+Cadjehoun,Calavi,10,Semaine,Ensoleillé,Voiture,11.27,1.16,17.4,0.01
+Cadjehoun,Zongo,0,Semaine,Pluie Légère,Voiture,2.81,1.6,7.5,0.01
+Etoile,Zongo,21,Semaine,Ensoleillé,Zem,1.45,1.25,3.1,0.04
+Zongo,Calavi,5,Semaine,Pluie Légère,Voiture,12.45,1.42,29.4,0.01
+Fidjrosse,Zongo,15,Semaine,Ensoleillé,Zem,6.66,1.39,15.9,0.04
+Akpakpa,Calavi,19,Semaine,Ensoleillé,Voiture,14.46,3.61,69.7,0.01
+Etoile,Cadjehoun,11,Semaine,Ensoleillé,Zem,4.18,1.25,8.9,0.04
+Zongo,Calavi,10,Semaine,Ensoleillé,Voiture,12.45,1.48,24.5,0.01
+Etoile,Fidjrosse,9,Semaine,Ensoleillé,Zem,7.91,2.89,39.2,0.04
+Calavi,Zongo,2,Semaine,Ensoleillé,Zem,12.45,1.31,27.9,0.04
+Zongo,Calavi,12,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Zongo,Calavi,2,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Fidjrosse,Zongo,14,Weekend,Pluie Légère,Zem,6.66,1.0,14.3,0.04
+Zongo,Cadjehoun,15,Semaine,Pluie Légère,Zem,2.81,1.44,8.6,0.04
+Etoile,Cadjehoun,12,Weekend,Forte Pluie,Voiture,4.18,1.0,11.1,0.02
+Fidjrosse,Akpakpa,2,Semaine,Ensoleillé,Voiture,10.0,1.49,19.9,0.01
+Fidjrosse,Zongo,19,Semaine,Ensoleillé,Zem,6.66,3.4,38.8,0.04
+Calavi,Zongo,10,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Etoile,Cadjehoun,20,Semaine,Forte Pluie,Zem,4.18,1.55,22.2,0.16
+Cadjehoun,Zongo,21,Weekend,Ensoleillé,Voiture,2.81,1.0,3.7,0.01
+Calavi,Zongo,15,Semaine,Pluie Légère,Zem,12.45,1.24,33.1,0.04
+Akpakpa,Cadjehoun,20,Semaine,Pluie Légère,Voiture,6.19,1.55,16.0,0.01
+Calavi,Zongo,21,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Etoile,Akpakpa,13,Semaine,Pluie Légère,Zem,2.12,1.17,5.3,0.04
+Etoile,Fidjrosse,23,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Etoile,Akpakpa,17,Semaine,Pluie Légère,Zem,2.12,3.39,15.4,0.04
+Calavi,Fidjrosse,3,Semaine,Pluie Légère,Zem,9.53,1.37,28.1,0.04
+Calavi,Zongo,22,Semaine,Pluie Légère,Voiture,12.45,1.35,28.0,0.01
+Fidjrosse,Etoile,14,Semaine,Ensoleillé,Zem,7.91,1.26,17.0,0.04
+Cadjehoun,Zongo,10,Semaine,Ensoleillé,Zem,2.81,1.35,6.5,0.04
+Etoile,Cadjehoun,2,Semaine,Pluie Légère,Zem,4.18,1.18,10.6,0.04
+Akpakpa,Calavi,2,Semaine,Ensoleillé,Zem,14.46,1.28,31.8,0.04
+Calavi,Etoile,15,Semaine,Pluie Légère,Zem,12.72,1.15,31.3,0.04
+Akpakpa,Cadjehoun,4,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Akpakpa,Etoile,20,Weekend,Pluie Légère,Voiture,2.12,1.0,3.5,0.01
+Akpakpa,Etoile,9,Semaine,Ensoleillé,Zem,2.12,3.23,11.7,0.04
+Fidjrosse,Cadjehoun,18,Semaine,Ensoleillé,Voiture,3.92,2.37,12.4,0.01
+Calavi,Fidjrosse,3,Semaine,Pluie Légère,Zem,9.53,1.18,24.1,0.04
+Etoile,Zongo,10,Semaine,Pluie Légère,Zem,1.45,1.14,3.5,0.04
+Zongo,Etoile,1,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Akpakpa,Zongo,9,Semaine,Ensoleillé,Voiture,3.38,2.89,13.0,0.01
+Fidjrosse,Calavi,10,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Calavi,Cadjehoun,19,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Fidjrosse,Zongo,15,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Akpakpa,Cadjehoun,18,Semaine,Forte Pluie,Zem,6.19,3.72,78.8,0.16
+Calavi,Zongo,22,Semaine,Forte Pluie,Zem,12.45,1.55,66.3,0.16
+Zongo,Akpakpa,23,Semaine,Ensoleillé,Voiture,3.38,1.14,5.1,0.01
+Fidjrosse,Akpakpa,13,Semaine,Ensoleillé,Voiture,10.0,1.42,18.9,0.01
+Cadjehoun,Akpakpa,1,Semaine,Ensoleillé,Zem,6.19,1.44,15.3,0.04
+Etoile,Akpakpa,22,Semaine,Ensoleillé,Zem,2.12,1.37,5.0,0.04
+Fidjrosse,Akpakpa,4,Semaine,Forte Pluie,Zem,10.0,1.43,49.1,0.16
+Calavi,Cadjehoun,4,Semaine,Ensoleillé,Zem,11.27,1.22,23.5,0.04
+Akpakpa,Etoile,18,Semaine,Ensoleillé,Voiture,2.12,3.08,8.7,0.01
+Etoile,Zongo,20,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Calavi,Cadjehoun,17,Semaine,Ensoleillé,Zem,11.27,2.9,56.1,0.04
+Akpakpa,Cadjehoun,3,Semaine,Ensoleillé,Zem,6.19,1.14,12.1,0.04
+Etoile,Zongo,9,Semaine,Pluie Légère,Zem,1.45,3.33,10.3,0.04
+Calavi,Etoile,19,Semaine,Ensoleillé,Zem,12.72,3.09,67.4,0.04
+Cadjehoun,Fidjrosse,5,Semaine,Pluie Légère,Zem,3.92,1.24,10.4,0.04
+Fidjrosse,Cadjehoun,13,Semaine,Ensoleillé,Voiture,3.92,1.34,7.0,0.01
+Akpakpa,Fidjrosse,10,Weekend,Pluie Légère,Voiture,10.0,1.0,16.7,0.01
+Zongo,Calavi,10,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Fidjrosse,Etoile,21,Semaine,Pluie Légère,Bus,7.91,1.49,29.4,0.005
+Akpakpa,Zongo,17,Semaine,Pluie Légère,Voiture,3.38,3.64,20.5,0.01
+Cadjehoun,Fidjrosse,23,Semaine,Ensoleillé,Zem,3.92,1.42,9.6,0.04
+Cadjehoun,Zongo,22,Semaine,Pluie Légère,Voiture,2.81,1.33,6.2,0.01
+Calavi,Akpakpa,20,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Akpakpa,Zongo,4,Semaine,Pluie Légère,Zem,3.38,1.39,10.0,0.04
+Calavi,Akpakpa,8,Semaine,Ensoleillé,Voiture,14.46,2.89,55.8,0.01
+Cadjehoun,Zongo,21,Semaine,Ensoleillé,Voiture,2.81,1.16,4.4,0.01
+Zongo,Fidjrosse,9,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Etoile,Fidjrosse,21,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Cadjehoun,Akpakpa,18,Semaine,Ensoleillé,Voiture,6.19,2.89,23.9,0.01
+Calavi,Zongo,0,Semaine,Ensoleillé,Voiture,12.45,1.37,22.7,0.01
+Fidjrosse,Zongo,3,Semaine,Ensoleillé,Voiture,6.66,1.4,12.4,0.01
+Fidjrosse,Cadjehoun,0,Semaine,Ensoleillé,Bus,3.92,1.57,12.3,0.005
+Akpakpa,Calavi,14,Semaine,Ensoleillé,Voiture,14.46,1.49,28.7,0.01
+Calavi,Etoile,7,Semaine,Pluie Légère,Voiture,12.72,2.47,52.4,0.01
+Zongo,Fidjrosse,11,Semaine,Ensoleillé,Zem,6.66,1.19,13.6,0.04
+Cadjehoun,Fidjrosse,21,Semaine,Ensoleillé,Zem,3.92,1.15,7.7,0.04
+Calavi,Fidjrosse,17,Semaine,Ensoleillé,Zem,9.53,3.53,57.6,0.04
+Calavi,Etoile,14,Semaine,Ensoleillé,Zem,12.72,1.45,31.7,0.04
+Akpakpa,Fidjrosse,13,Semaine,Ensoleillé,Voiture,10.0,1.59,21.2,0.01
+Akpakpa,Cadjehoun,13,Weekend,Forte Pluie,Voiture,6.19,1.0,16.5,0.02
+Etoile,Zongo,17,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Fidjrosse,Zongo,19,Semaine,Ensoleillé,Voiture,6.66,3.14,27.9,0.01
+Zongo,Calavi,15,Semaine,Ensoleillé,Zem,12.45,1.51,32.3,0.04
+Fidjrosse,Cadjehoun,0,Semaine,Pluie Légère,Zem,3.92,1.39,11.7,0.04
+Etoile,Calavi,22,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Fidjrosse,Akpakpa,14,Semaine,Ensoleillé,Voiture,10.0,1.54,20.5,0.01
+Etoile,Akpakpa,11,Semaine,Ensoleillé,Zem,2.12,1.46,5.3,0.04
+Fidjrosse,Akpakpa,7,Semaine,Pluie Légère,Bus,10.0,3.36,83.9,0.005
+Fidjrosse,Cadjehoun,19,Semaine,Ensoleillé,Zem,3.92,3.22,21.6,0.04
+Etoile,Akpakpa,2,Semaine,Ensoleillé,Zem,2.12,1.46,5.3,0.04
+Akpakpa,Calavi,12,Semaine,Pluie Légère,Zem,14.46,1.31,40.6,0.04
+Akpakpa,Etoile,12,Semaine,Ensoleillé,Voiture,2.12,1.15,3.2,0.01
+Cadjehoun,Calavi,1,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Fidjrosse,Akpakpa,16,Semaine,Ensoleillé,Voiture,10.0,1.12,14.9,0.01
+Etoile,Akpakpa,5,Semaine,Ensoleillé,Zem,2.12,1.34,4.9,0.04
+Akpakpa,Cadjehoun,1,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Akpakpa,Calavi,3,Semaine,Ensoleillé,Zem,14.46,1.4,34.7,0.04
+Calavi,Cadjehoun,10,Semaine,Ensoleillé,Bus,11.27,1.14,25.7,0.005
+Cadjehoun,Zongo,7,Semaine,Ensoleillé,Zem,2.81,2.72,13.1,0.04
+Fidjrosse,Etoile,11,Weekend,Pluie Légère,Bus,7.91,1.0,19.8,0.005
+Cadjehoun,Fidjrosse,10,Weekend,Ensoleillé,Bus,3.92,1.0,7.8,0.005
+Akpakpa,Cadjehoun,21,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Etoile,Calavi,19,Semaine,Pluie Légère,Zem,12.72,2.78,75.8,0.04
+Etoile,Zongo,7,Semaine,Forte Pluie,Voiture,1.45,3.21,12.4,0.02
+Akpakpa,Zongo,7,Semaine,Pluie Légère,Zem,3.38,2.7,19.5,0.04
+Cadjehoun,Etoile,16,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Akpakpa,Cadjehoun,19,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Calavi,Fidjrosse,19,Semaine,Ensoleillé,Zem,9.53,2.37,38.7,0.04
+Etoile,Cadjehoun,22,Semaine,Ensoleillé,Voiture,4.18,1.18,6.6,0.01
+Zongo,Akpakpa,15,Semaine,Forte Pluie,Voiture,3.38,1.19,10.7,0.02
+Zongo,Cadjehoun,13,Weekend,Pluie Légère,Bus,2.81,1.0,7.0,0.005
+Fidjrosse,Akpakpa,10,Semaine,Forte Pluie,Zem,10.0,1.52,52.2,0.16
+Akpakpa,Fidjrosse,15,Semaine,Pluie Légère,Bus,10.0,1.24,31.1,0.005
+Fidjrosse,Calavi,12,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Fidjrosse,Etoile,14,Semaine,Pluie Légère,Zem,7.91,1.46,24.7,0.04
+Fidjrosse,Cadjehoun,23,Semaine,Ensoleillé,Voiture,3.92,1.38,7.2,0.01
+Etoile,Akpakpa,15,Semaine,Ensoleillé,Voiture,2.12,1.59,4.5,0.01
+Calavi,Cadjehoun,20,Semaine,Pluie Légère,Voiture,11.27,1.24,23.2,0.01
+Akpakpa,Calavi,22,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Fidjrosse,Calavi,8,Semaine,Ensoleillé,Zem,9.53,2.49,40.6,0.04
+Akpakpa,Etoile,2,Semaine,Pluie Légère,Voiture,2.12,1.13,4.0,0.01
+Etoile,Zongo,18,Semaine,Pluie Légère,Zem,1.45,2.63,8.2,0.04
+Calavi,Etoile,19,Semaine,Pluie Légère,Voiture,12.72,3.43,72.7,0.01
+Etoile,Fidjrosse,4,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Fidjrosse,Akpakpa,16,Semaine,Pluie Légère,Bus,10.0,1.14,28.6,0.005
+Calavi,Zongo,14,Semaine,Ensoleillé,Zem,12.45,1.22,26.1,0.04
+Akpakpa,Fidjrosse,22,Semaine,Pluie Légère,Voiture,10.0,1.53,25.5,0.01
+Fidjrosse,Cadjehoun,7,Semaine,Ensoleillé,Voiture,3.92,3.25,17.0,0.01
+Akpakpa,Calavi,14,Semaine,Ensoleillé,Bus,14.46,1.13,32.8,0.005
+Zongo,Akpakpa,20,Semaine,Ensoleillé,Voiture,3.38,1.12,5.1,0.01
+Cadjehoun,Etoile,13,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Calavi,Akpakpa,19,Semaine,Ensoleillé,Bus,14.46,2.31,66.8,0.005
+Cadjehoun,Zongo,20,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Calavi,Zongo,22,Semaine,Ensoleillé,Voiture,12.45,1.57,26.1,0.01
+Fidjrosse,Calavi,11,Weekend,Forte Pluie,Voiture,9.53,1.0,25.4,0.02
+Akpakpa,Calavi,16,Semaine,Forte Pluie,Zem,14.46,1.52,75.6,0.16
+Etoile,Calavi,9,Semaine,Ensoleillé,Voiture,12.72,3.72,63.1,0.01
+Akpakpa,Calavi,18,Semaine,Ensoleillé,Voiture,14.46,3.86,74.5,0.01
+Akpakpa,Fidjrosse,10,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Zongo,Calavi,17,Semaine,Ensoleillé,Voiture,12.45,3.11,51.6,0.01
+Etoile,Fidjrosse,6,Semaine,Pluie Légère,Voiture,7.91,1.22,16.1,0.01
+Fidjrosse,Akpakpa,11,Semaine,Ensoleillé,Zem,10.0,1.3,22.3,0.04
+Akpakpa,Calavi,1,Semaine,Pluie Légère,Zem,14.46,1.46,45.2,0.04
+Akpakpa,Etoile,19,Semaine,Ensoleillé,Zem,2.12,3.78,13.7,0.04
+Etoile,Zongo,17,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Fidjrosse,Zongo,5,Weekend,Forte Pluie,Zem,6.66,1.0,22.8,0.16
+Fidjrosse,Cadjehoun,23,Semaine,Ensoleillé,Zem,3.92,1.32,8.9,0.04
+Calavi,Cadjehoun,9,Semaine,Ensoleillé,Zem,11.27,3.16,61.1,0.04
+Calavi,Zongo,19,Weekend,Pluie Légère,Voiture,12.45,1.0,20.7,0.01
+Calavi,Zongo,14,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Calavi,Etoile,4,Semaine,Ensoleillé,Zem,12.72,1.57,34.1,0.04
+Calavi,Fidjrosse,19,Weekend,Pluie Légère,Bus,9.53,1.0,23.8,0.005
+Calavi,Cadjehoun,2,Semaine,Ensoleillé,Zem,11.27,1.15,22.3,0.04
+Zongo,Fidjrosse,4,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Fidjrosse,Etoile,7,Semaine,Ensoleillé,Bus,7.91,3.75,59.4,0.005
+Calavi,Zongo,7,Semaine,Ensoleillé,Zem,12.45,2.49,53.1,0.04
+Fidjrosse,Calavi,7,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Cadjehoun,Zongo,23,Semaine,Ensoleillé,Voiture,2.81,1.34,5.0,0.01
+Calavi,Akpakpa,7,Weekend,Forte Pluie,Voiture,14.46,1.0,38.6,0.02
+Akpakpa,Fidjrosse,10,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Etoile,Calavi,13,Weekend,Pluie Légère,Zem,12.72,1.0,27.3,0.04
+Akpakpa,Fidjrosse,7,Semaine,Ensoleillé,Voiture,10.0,2.59,34.6,0.01
+Etoile,Calavi,9,Semaine,Forte Pluie,Zem,12.72,3.29,143.3,0.16
+Zongo,Etoile,6,Semaine,Ensoleillé,Voiture,1.45,1.38,2.7,0.01
+Fidjrosse,Akpakpa,16,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Etoile,Zongo,3,Semaine,Ensoleillé,Voiture,1.45,1.29,2.5,0.01
+Fidjrosse,Cadjehoun,12,Semaine,Ensoleillé,Zem,3.92,1.53,10.3,0.04
+Akpakpa,Cadjehoun,3,Semaine,Ensoleillé,Voiture,6.19,1.43,11.8,0.01
+Etoile,Zongo,3,Semaine,Ensoleillé,Zem,1.45,1.46,3.6,0.04
+Calavi,Fidjrosse,17,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Zongo,Akpakpa,5,Semaine,Ensoleillé,Bus,3.38,1.18,7.9,0.005
+Calavi,Etoile,23,Semaine,Forte Pluie,Bus,12.72,1.54,78.4,0.01
+Zongo,Fidjrosse,23,Semaine,Pluie Légère,Voiture,6.66,1.18,13.1,0.01
+Calavi,Cadjehoun,22,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Fidjrosse,Cadjehoun,21,Semaine,Ensoleillé,Zem,3.92,1.21,8.1,0.04
+Etoile,Fidjrosse,1,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Zongo,Cadjehoun,10,Semaine,Ensoleillé,Zem,2.81,1.16,5.6,0.04
+Akpakpa,Calavi,4,Weekend,Pluie Légère,Bus,14.46,1.0,36.1,0.005
+Calavi,Fidjrosse,5,Weekend,Ensoleillé,Voiture,9.53,1.0,12.7,0.01
+Zongo,Fidjrosse,9,Semaine,Pluie Légère,Zem,6.66,2.99,42.7,0.04
+Fidjrosse,Cadjehoun,7,Semaine,Ensoleillé,Zem,3.92,3.8,25.6,0.04
+Etoile,Akpakpa,13,Semaine,Forte Pluie,Zem,2.12,1.23,8.9,0.16
+Akpakpa,Zongo,23,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Etoile,Akpakpa,2,Semaine,Pluie Légère,Zem,2.12,1.29,5.8,0.04
+Zongo,Etoile,11,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Zongo,Etoile,15,Weekend,Pluie Légère,Voiture,1.45,1.0,2.4,0.01
+Akpakpa,Calavi,22,Semaine,Ensoleillé,Zem,14.46,1.52,37.7,0.04
+Fidjrosse,Cadjehoun,16,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Akpakpa,Cadjehoun,22,Semaine,Ensoleillé,Voiture,6.19,1.41,11.6,0.01
+Cadjehoun,Calavi,9,Semaine,Pluie Légère,Voiture,11.27,3.55,66.7,0.01
+Calavi,Etoile,22,Semaine,Pluie Légère,Zem,12.72,1.21,32.9,0.04
+Cadjehoun,Akpakpa,9,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Fidjrosse,Calavi,20,Semaine,Ensoleillé,Voiture,9.53,1.46,18.5,0.01
+Cadjehoun,Akpakpa,1,Semaine,Ensoleillé,Voiture,6.19,1.21,10.0,0.01
+Calavi,Cadjehoun,8,Semaine,Ensoleillé,Zem,11.27,3.98,76.8,0.04
+Cadjehoun,Zongo,21,Semaine,Ensoleillé,Zem,2.81,1.38,6.6,0.04
+Fidjrosse,Akpakpa,12,Semaine,Ensoleillé,Zem,10.0,1.45,24.8,0.04
+Cadjehoun,Etoile,15,Semaine,Ensoleillé,Zem,4.18,1.16,8.3,0.04
+Cadjehoun,Fidjrosse,17,Weekend,Forte Pluie,Zem,3.92,1.0,13.5,0.16
+Cadjehoun,Fidjrosse,18,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Akpakpa,Calavi,11,Semaine,Ensoleillé,Zem,14.46,1.23,30.4,0.04
+Akpakpa,Fidjrosse,7,Weekend,Pluie Légère,Bus,10.0,1.0,25.0,0.005
+Akpakpa,Zongo,16,Semaine,Pluie Légère,Voiture,3.38,1.17,6.6,0.01
+Fidjrosse,Cadjehoun,14,Semaine,Ensoleillé,Zem,3.92,1.3,8.7,0.04
+Calavi,Etoile,9,Semaine,Pluie Légère,Zem,12.72,2.71,73.9,0.04
+Cadjehoun,Etoile,14,Semaine,Ensoleillé,Voiture,4.18,1.47,8.2,0.01
+Cadjehoun,Etoile,22,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Fidjrosse,Cadjehoun,6,Semaine,Ensoleillé,Zem,3.92,1.15,7.8,0.04
+Cadjehoun,Calavi,12,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Akpakpa,Fidjrosse,16,Semaine,Ensoleillé,Zem,10.0,1.48,25.3,0.04
+Zongo,Cadjehoun,8,Weekend,Pluie Légère,Voiture,2.81,1.0,4.7,0.01
+Etoile,Zongo,7,Semaine,Ensoleillé,Voiture,1.45,2.28,4.4,0.01
+Cadjehoun,Calavi,19,Semaine,Ensoleillé,Zem,11.27,2.56,49.5,0.04
+Akpakpa,Zongo,20,Semaine,Ensoleillé,Zem,3.38,1.5,8.7,0.04
+Etoile,Calavi,17,Semaine,Ensoleillé,Zem,12.72,3.54,77.1,0.04
+Etoile,Cadjehoun,15,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Akpakpa,Calavi,8,Semaine,Forte Pluie,Zem,14.46,3.06,151.6,0.16
+Calavi,Etoile,11,Semaine,Ensoleillé,Zem,12.72,1.12,24.5,0.04
+Fidjrosse,Akpakpa,18,Semaine,Ensoleillé,Voiture,10.0,3.3,44.0,0.01
+Etoile,Zongo,6,Semaine,Ensoleillé,Zem,1.45,1.3,3.2,0.04
+Cadjehoun,Etoile,2,Weekend,Pluie Légère,Bus,4.18,1.0,10.4,0.005
+Cadjehoun,Akpakpa,15,Semaine,Ensoleillé,Voiture,6.19,1.26,10.4,0.01
+Calavi,Etoile,17,Semaine,Pluie Légère,Zem,12.72,3.35,91.4,0.04
+Fidjrosse,Zongo,15,Semaine,Forte Pluie,Zem,6.66,1.32,30.1,0.16
+Akpakpa,Calavi,22,Semaine,Ensoleillé,Zem,14.46,1.15,28.4,0.04
+Cadjehoun,Fidjrosse,6,Semaine,Ensoleillé,Voiture,3.92,1.56,8.2,0.01
+Calavi,Zongo,3,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Zongo,Cadjehoun,7,Semaine,Ensoleillé,Bus,2.81,3.6,20.2,0.005
+Calavi,Etoile,12,Semaine,Pluie Légère,Voiture,12.72,1.13,23.9,0.01
+Cadjehoun,Etoile,12,Semaine,Pluie Légère,Zem,4.18,1.36,12.2,0.04
+Cadjehoun,Calavi,16,Semaine,Ensoleillé,Voiture,11.27,1.14,17.2,0.01
+Calavi,Cadjehoun,16,Semaine,Ensoleillé,Zem,11.27,1.52,29.3,0.04
+Akpakpa,Calavi,4,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Etoile,Cadjehoun,5,Semaine,Ensoleillé,Voiture,4.18,1.41,7.8,0.01
+Cadjehoun,Fidjrosse,18,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Calavi,Etoile,12,Semaine,Ensoleillé,Zem,12.72,1.19,25.9,0.04
+Calavi,Etoile,13,Semaine,Pluie Légère,Voiture,12.72,1.11,23.5,0.01
+Etoile,Akpakpa,3,Semaine,Pluie Légère,Bus,2.12,1.12,5.9,0.005
+Zongo,Calavi,6,Semaine,Ensoleillé,Zem,12.45,1.35,28.9,0.04
+Akpakpa,Fidjrosse,7,Semaine,Pluie Légère,Zem,10.0,3.52,75.5,0.04
+Zongo,Calavi,12,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Etoile,Zongo,5,Semaine,Pluie Légère,Voiture,1.45,1.16,2.8,0.01
+Etoile,Calavi,23,Semaine,Ensoleillé,Zem,12.72,1.21,26.4,0.04
+Zongo,Cadjehoun,20,Weekend,Pluie Légère,Voiture,2.81,1.0,4.7,0.01
+Etoile,Calavi,2,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Calavi,Zongo,2,Semaine,Ensoleillé,Zem,12.45,1.26,27.0,0.04
+Zongo,Etoile,12,Weekend,Forte Pluie,Zem,1.45,1.0,5.0,0.16
+Etoile,Fidjrosse,21,Semaine,Ensoleillé,Voiture,7.91,1.21,12.7,0.01
+Calavi,Zongo,1,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Fidjrosse,Etoile,15,Semaine,Ensoleillé,Zem,7.91,1.3,17.6,0.04
+Etoile,Calavi,21,Semaine,Pluie Légère,Zem,12.72,1.38,37.6,0.04
+Zongo,Akpakpa,5,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Cadjehoun,Akpakpa,7,Semaine,Pluie Légère,Voiture,6.19,3.43,35.4,0.01
+Etoile,Cadjehoun,22,Semaine,Ensoleillé,Zem,4.18,1.58,11.3,0.04
+Cadjehoun,Etoile,7,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Calavi,Akpakpa,5,Semaine,Pluie Légère,Voiture,14.46,1.57,37.7,0.01
+Akpakpa,Etoile,2,Semaine,Forte Pluie,Voiture,2.12,1.39,7.8,0.02
+Etoile,Fidjrosse,2,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Cadjehoun,Akpakpa,11,Semaine,Ensoleillé,Voiture,6.19,1.47,12.1,0.01
+Cadjehoun,Etoile,16,Semaine,Ensoleillé,Zem,4.18,1.58,11.3,0.04
+Zongo,Calavi,4,Semaine,Forte Pluie,Zem,12.45,1.14,48.7,0.16
+Cadjehoun,Zongo,19,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Zongo,Akpakpa,8,Semaine,Ensoleillé,Voiture,3.38,2.21,9.9,0.01
+Calavi,Akpakpa,20,Semaine,Ensoleillé,Bus,14.46,1.11,32.2,0.005
+Akpakpa,Calavi,19,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Zongo,Etoile,21,Semaine,Ensoleillé,Zem,1.45,1.38,3.4,0.04
+Akpakpa,Fidjrosse,3,Semaine,Forte Pluie,Zem,10.0,1.48,50.8,0.16
+Cadjehoun,Calavi,12,Semaine,Forte Pluie,Zem,11.27,1.28,49.6,0.16
+Cadjehoun,Calavi,12,Semaine,Forte Pluie,Voiture,11.27,1.37,41.3,0.02
+Akpakpa,Etoile,9,Semaine,Pluie Légère,Bus,2.12,3.13,16.6,0.005
+Cadjehoun,Fidjrosse,17,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Calavi,Akpakpa,16,Semaine,Ensoleillé,Zem,14.46,1.15,28.4,0.04
+Calavi,Cadjehoun,19,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Akpakpa,Zongo,19,Semaine,Ensoleillé,Zem,3.38,2.78,16.1,0.04
+Zongo,Akpakpa,12,Weekend,Pluie Légère,Voiture,3.38,1.0,5.6,0.01
+Zongo,Etoile,16,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Akpakpa,Zongo,21,Semaine,Pluie Légère,Zem,3.38,1.11,8.0,0.04
+Zongo,Cadjehoun,3,Semaine,Forte Pluie,Zem,2.81,1.16,11.1,0.16
+Zongo,Cadjehoun,0,Semaine,Pluie Légère,Zem,2.81,1.51,9.1,0.04
+Calavi,Fidjrosse,0,Weekend,Forte Pluie,Voiture,9.53,1.0,25.4,0.02
+Etoile,Akpakpa,16,Semaine,Ensoleillé,Zem,2.12,1.51,5.5,0.04
+Cadjehoun,Calavi,23,Semaine,Ensoleillé,Zem,11.27,1.5,29.0,0.04
+Fidjrosse,Calavi,7,Weekend,Forte Pluie,Zem,9.53,1.0,32.7,0.16
+Zongo,Calavi,17,Semaine,Pluie Légère,Voiture,12.45,3.51,72.8,0.01
+Calavi,Zongo,12,Semaine,Ensoleillé,Voiture,12.45,1.5,24.8,0.01
+Akpakpa,Calavi,22,Semaine,Ensoleillé,Bus,14.46,1.44,41.5,0.005
+Zongo,Akpakpa,13,Semaine,Pluie Légère,Zem,3.38,1.43,10.4,0.04
+Calavi,Fidjrosse,7,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Etoile,Zongo,7,Semaine,Forte Pluie,Zem,1.45,3.4,16.9,0.16
+Zongo,Fidjrosse,14,Semaine,Ensoleillé,Zem,6.66,1.36,15.5,0.04
+Akpakpa,Zongo,12,Semaine,Ensoleillé,Voiture,3.38,1.28,5.8,0.01
+Calavi,Fidjrosse,6,Semaine,Ensoleillé,Voiture,9.53,1.47,18.6,0.01
+Calavi,Cadjehoun,4,Semaine,Ensoleillé,Voiture,11.27,1.25,18.8,0.01
+Calavi,Fidjrosse,16,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Etoile,Calavi,15,Weekend,Forte Pluie,Zem,12.72,1.0,43.6,0.16
+Zongo,Cadjehoun,22,Semaine,Ensoleillé,Bus,2.81,1.37,7.7,0.005
+Etoile,Fidjrosse,1,Semaine,Ensoleillé,Zem,7.91,1.32,17.9,0.04
+Cadjehoun,Zongo,21,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Cadjehoun,Zongo,17,Semaine,Ensoleillé,Bus,2.81,2.7,15.2,0.005
+Calavi,Zongo,17,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Calavi,Cadjehoun,13,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Cadjehoun,Etoile,12,Semaine,Ensoleillé,Zem,4.18,1.59,11.4,0.04
+Cadjehoun,Calavi,10,Semaine,Pluie Légère,Voiture,11.27,1.23,23.1,0.01
+Calavi,Cadjehoun,20,Semaine,Ensoleillé,Voiture,11.27,1.25,18.9,0.01
+Zongo,Etoile,20,Semaine,Pluie Légère,Voiture,1.45,1.18,2.8,0.01
+Etoile,Calavi,15,Semaine,Ensoleillé,Zem,12.72,1.51,33.0,0.04
+Etoile,Fidjrosse,16,Semaine,Forte Pluie,Voiture,7.91,1.39,29.4,0.02
+Cadjehoun,Akpakpa,7,Semaine,Pluie Légère,Voiture,6.19,3.3,34.1,0.01
+Cadjehoun,Akpakpa,18,Semaine,Ensoleillé,Voiture,6.19,3.68,30.3,0.01
+Fidjrosse,Etoile,19,Semaine,Forte Pluie,Zem,7.91,2.82,76.4,0.16
+Cadjehoun,Calavi,14,Semaine,Pluie Légère,Voiture,11.27,1.2,22.5,0.01
+Zongo,Calavi,19,Semaine,Ensoleillé,Zem,12.45,2.56,54.6,0.04
+Zongo,Calavi,9,Semaine,Pluie Légère,Voiture,12.45,3.52,73.0,0.01
+Cadjehoun,Etoile,20,Semaine,Ensoleillé,Zem,4.18,1.41,10.1,0.04
+Akpakpa,Etoile,22,Semaine,Ensoleillé,Zem,2.12,1.2,4.4,0.04
+Etoile,Akpakpa,19,Semaine,Forte Pluie,Voiture,2.12,2.46,13.9,0.02
+Fidjrosse,Etoile,0,Semaine,Ensoleillé,Zem,7.91,1.16,15.7,0.04
+Etoile,Akpakpa,19,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Cadjehoun,Zongo,21,Semaine,Pluie Légère,Voiture,2.81,1.41,6.6,0.01
+Fidjrosse,Calavi,14,Semaine,Ensoleillé,Voiture,9.53,1.1,14.0,0.01
+Akpakpa,Cadjehoun,11,Semaine,Ensoleillé,Zem,6.19,1.11,11.8,0.04
+Akpakpa,Calavi,2,Semaine,Pluie Légère,Voiture,14.46,1.29,31.2,0.01
+Zongo,Calavi,10,Semaine,Pluie Légère,Zem,12.45,1.45,38.6,0.04
+Fidjrosse,Etoile,1,Semaine,Ensoleillé,Voiture,7.91,1.45,15.3,0.01
+Zongo,Etoile,8,Semaine,Ensoleillé,Zem,1.45,2.97,7.4,0.04
+Etoile,Calavi,14,Semaine,Ensoleillé,Zem,12.72,1.45,31.5,0.04
+Fidjrosse,Cadjehoun,11,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Akpakpa,Calavi,0,Semaine,Ensoleillé,Voiture,14.46,1.36,26.2,0.01
+Akpakpa,Cadjehoun,12,Semaine,Pluie Légère,Zem,6.19,1.59,21.1,0.04
+Cadjehoun,Akpakpa,13,Semaine,Ensoleillé,Bus,6.19,1.18,14.6,0.005
+Fidjrosse,Zongo,7,Semaine,Ensoleillé,Voiture,6.66,3.28,29.1,0.01
+Etoile,Calavi,7,Weekend,Ensoleillé,Bus,12.72,1.0,25.4,0.005
+Zongo,Etoile,11,Semaine,Ensoleillé,Zem,1.45,1.35,3.3,0.04
+Zongo,Akpakpa,0,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Etoile,Zongo,10,Semaine,Pluie Légère,Voiture,1.45,1.2,2.9,0.01
+Calavi,Etoile,7,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Cadjehoun,Fidjrosse,9,Semaine,Ensoleillé,Zem,3.92,3.55,23.9,0.04
+Zongo,Etoile,18,Weekend,Pluie Légère,Voiture,1.45,1.0,2.4,0.01
+Fidjrosse,Cadjehoun,10,Semaine,Pluie Légère,Voiture,3.92,1.24,8.1,0.01
+Cadjehoun,Zongo,0,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Zongo,Etoile,20,Semaine,Pluie Légère,Zem,1.45,1.29,4.0,0.04
+Cadjehoun,Akpakpa,7,Semaine,Pluie Légère,Zem,6.19,2.87,38.1,0.04
+Cadjehoun,Fidjrosse,22,Semaine,Ensoleillé,Zem,3.92,1.22,8.2,0.04
+Akpakpa,Etoile,17,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Etoile,Zongo,5,Semaine,Forte Pluie,Zem,1.45,1.32,6.5,0.16
+Zongo,Cadjehoun,12,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Cadjehoun,Etoile,18,Semaine,Pluie Légère,Zem,4.18,3.05,27.3,0.04
+Zongo,Calavi,21,Semaine,Pluie Légère,Voiture,12.45,1.47,30.5,0.01
+Fidjrosse,Akpakpa,7,Semaine,Ensoleillé,Voiture,10.0,3.58,47.7,0.01
+Etoile,Cadjehoun,16,Semaine,Pluie Légère,Zem,4.18,1.18,10.6,0.04
+Akpakpa,Zongo,2,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Zongo,Cadjehoun,18,Semaine,Ensoleillé,Voiture,2.81,3.27,12.2,0.01
+Akpakpa,Fidjrosse,23,Weekend,Forte Pluie,Zem,10.0,1.0,34.3,0.16
+Etoile,Cadjehoun,16,Weekend,Pluie Légère,Voiture,4.18,1.0,7.0,0.01
+Cadjehoun,Zongo,20,Semaine,Pluie Légère,Zem,2.81,1.55,9.3,0.04
+Zongo,Akpakpa,18,Semaine,Ensoleillé,Zem,3.38,2.4,13.9,0.04
+Akpakpa,Fidjrosse,1,Semaine,Ensoleillé,Voiture,10.0,1.34,17.8,0.01
+Fidjrosse,Zongo,6,Semaine,Pluie Légère,Zem,6.66,1.48,21.1,0.04
+Cadjehoun,Akpakpa,5,Semaine,Ensoleillé,Zem,6.19,1.41,14.9,0.04
+Akpakpa,Zongo,18,Weekend,Ensoleillé,Bus,3.38,1.0,6.8,0.005
+Calavi,Akpakpa,23,Semaine,Forte Pluie,Voiture,14.46,1.15,44.3,0.02
+Zongo,Akpakpa,5,Semaine,Ensoleillé,Bus,3.38,1.3,8.8,0.005
+Etoile,Cadjehoun,1,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Akpakpa,Zongo,5,Semaine,Ensoleillé,Voiture,3.38,1.35,6.1,0.01
+Zongo,Etoile,22,Semaine,Pluie Légère,Zem,1.45,1.6,5.0,0.04
+Akpakpa,Cadjehoun,4,Semaine,Ensoleillé,Zem,6.19,1.19,12.6,0.04
+Fidjrosse,Akpakpa,18,Semaine,Ensoleillé,Zem,10.0,3.97,68.0,0.04
+Akpakpa,Calavi,19,Semaine,Ensoleillé,Zem,14.46,2.88,71.3,0.04
+Calavi,Akpakpa,3,Semaine,Pluie Légère,Zem,14.46,1.2,37.2,0.04
+Akpakpa,Zongo,16,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Calavi,Zongo,10,Semaine,Ensoleillé,Zem,12.45,1.31,27.9,0.04
+Etoile,Cadjehoun,3,Semaine,Ensoleillé,Zem,4.18,1.41,10.1,0.04
+Akpakpa,Etoile,12,Semaine,Pluie Légère,Voiture,2.12,1.21,4.3,0.01
+Calavi,Cadjehoun,19,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Zongo,Fidjrosse,16,Weekend,Forte Pluie,Zem,6.66,1.0,22.8,0.16
+Fidjrosse,Akpakpa,8,Semaine,Forte Pluie,Zem,10.0,2.72,93.4,0.16
+Fidjrosse,Calavi,3,Semaine,Ensoleillé,Zem,9.53,1.53,24.9,0.04
+Etoile,Akpakpa,13,Semaine,Pluie Légère,Zem,2.12,1.6,7.3,0.04
+Etoile,Cadjehoun,18,Semaine,Pluie Légère,Voiture,4.18,2.77,19.3,0.01
+Zongo,Calavi,2,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Akpakpa,Calavi,13,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Fidjrosse,Calavi,7,Semaine,Ensoleillé,Zem,9.53,2.47,40.3,0.04
+Etoile,Cadjehoun,23,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Etoile,Cadjehoun,9,Semaine,Ensoleillé,Zem,4.18,3.63,26.0,0.04
+Calavi,Zongo,17,Semaine,Ensoleillé,Voiture,12.45,3.28,54.5,0.01
+Etoile,Zongo,15,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Fidjrosse,Cadjehoun,7,Semaine,Ensoleillé,Voiture,3.92,2.38,12.5,0.01
+Cadjehoun,Calavi,0,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Zongo,Akpakpa,11,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Zongo,Cadjehoun,7,Semaine,Forte Pluie,Zem,2.81,3.9,37.6,0.16
+Fidjrosse,Cadjehoun,23,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Etoile,Cadjehoun,15,Weekend,Pluie Légère,Voiture,4.18,1.0,7.0,0.01
+Akpakpa,Fidjrosse,17,Semaine,Ensoleillé,Zem,10.0,2.34,40.1,0.04
+Etoile,Zongo,3,Semaine,Ensoleillé,Voiture,1.45,1.41,2.7,0.01
+Fidjrosse,Calavi,5,Semaine,Pluie Légère,Zem,9.53,1.31,26.8,0.04
+Zongo,Etoile,11,Semaine,Pluie Légère,Bus,1.45,1.38,5.0,0.005
+Etoile,Calavi,8,Semaine,Ensoleillé,Zem,12.72,2.58,56.3,0.04
+Zongo,Etoile,14,Semaine,Forte Pluie,Zem,1.45,1.44,7.2,0.16
+Akpakpa,Fidjrosse,15,Semaine,Forte Pluie,Bus,10.0,1.58,63.2,0.01
+Zongo,Cadjehoun,23,Semaine,Forte Pluie,Zem,2.81,1.33,12.8,0.16
+Zongo,Fidjrosse,11,Weekend,Ensoleillé,Bus,6.66,1.0,13.3,0.005
+Cadjehoun,Fidjrosse,23,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Cadjehoun,Akpakpa,22,Weekend,Pluie Légère,Zem,6.19,1.0,13.3,0.04
+Calavi,Zongo,13,Semaine,Pluie Légère,Voiture,12.45,1.36,28.3,0.01
+Cadjehoun,Etoile,12,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Zongo,Cadjehoun,1,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Fidjrosse,Etoile,2,Semaine,Ensoleillé,Bus,7.91,1.22,19.3,0.005
+Zongo,Calavi,23,Semaine,Ensoleillé,Voiture,12.45,1.55,25.7,0.01
+Fidjrosse,Etoile,21,Semaine,Ensoleillé,Voiture,7.91,1.59,16.7,0.01
+Fidjrosse,Calavi,9,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Cadjehoun,Zongo,8,Semaine,Ensoleillé,Zem,2.81,3.62,17.4,0.04
+Etoile,Calavi,19,Semaine,Pluie Légère,Bus,12.72,3.18,101.0,0.005
+Akpakpa,Etoile,7,Semaine,Ensoleillé,Bus,2.12,3.92,16.6,0.005
+Cadjehoun,Etoile,9,Semaine,Pluie Légère,Zem,4.18,2.48,22.2,0.04
+Cadjehoun,Calavi,18,Semaine,Forte Pluie,Zem,11.27,3.06,118.3,0.16
+Etoile,Fidjrosse,2,Semaine,Pluie Légère,Zem,7.91,1.37,23.2,0.04
+Akpakpa,Zongo,23,Semaine,Forte Pluie,Voiture,3.38,1.35,12.1,0.02
+Zongo,Akpakpa,4,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Calavi,Cadjehoun,2,Semaine,Ensoleillé,Zem,11.27,1.5,29.0,0.04
+Calavi,Etoile,15,Semaine,Ensoleillé,Zem,12.72,1.44,31.3,0.04
+Zongo,Cadjehoun,16,Semaine,Ensoleillé,Voiture,2.81,1.16,4.4,0.01
+Cadjehoun,Akpakpa,14,Semaine,Pluie Légère,Zem,6.19,1.27,16.9,0.04
+Akpakpa,Cadjehoun,2,Semaine,Ensoleillé,Zem,6.19,1.27,13.5,0.04
+Cadjehoun,Akpakpa,11,Semaine,Ensoleillé,Voiture,6.19,1.38,11.4,0.01
+Fidjrosse,Calavi,8,Weekend,Ensoleillé,Voiture,9.53,1.0,12.7,0.01
+Cadjehoun,Fidjrosse,20,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Cadjehoun,Etoile,11,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Zongo,Akpakpa,14,Semaine,Pluie Légère,Voiture,3.38,1.25,7.0,0.01
+Zongo,Cadjehoun,1,Semaine,Ensoleillé,Voiture,2.81,1.16,4.3,0.01
+Zongo,Etoile,22,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Calavi,Fidjrosse,17,Semaine,Pluie Légère,Bus,9.53,3.38,80.4,0.005
+Fidjrosse,Calavi,19,Semaine,Pluie Légère,Voiture,9.53,3.73,59.3,0.01
+Zongo,Etoile,11,Semaine,Ensoleillé,Voiture,1.45,1.57,3.0,0.01
+Calavi,Fidjrosse,3,Semaine,Ensoleillé,Zem,9.53,1.59,25.9,0.04
+Etoile,Cadjehoun,22,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Akpakpa,Fidjrosse,15,Semaine,Ensoleillé,Zem,10.0,1.49,25.6,0.04
+Akpakpa,Fidjrosse,22,Semaine,Ensoleillé,Voiture,10.0,1.17,15.6,0.01
+Etoile,Fidjrosse,0,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Etoile,Fidjrosse,21,Semaine,Ensoleillé,Zem,7.91,1.53,20.7,0.04
+Calavi,Etoile,1,Semaine,Pluie Légère,Zem,12.72,1.3,35.4,0.04
+Etoile,Cadjehoun,2,Weekend,Ensoleillé,Bus,4.18,1.0,8.4,0.005
+Fidjrosse,Etoile,20,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Zongo,Etoile,19,Semaine,Pluie Légère,Zem,1.45,3.51,10.9,0.04
+Etoile,Akpakpa,16,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Calavi,Etoile,19,Semaine,Pluie Légère,Voiture,12.72,3.16,66.9,0.01
+Fidjrosse,Zongo,21,Semaine,Ensoleillé,Zem,6.66,1.51,17.3,0.04
+Cadjehoun,Zongo,20,Semaine,Pluie Légère,Voiture,2.81,1.31,6.1,0.01
+Cadjehoun,Akpakpa,0,Semaine,Ensoleillé,Zem,6.19,1.13,12.0,0.04
+Fidjrosse,Calavi,19,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Calavi,Cadjehoun,5,Semaine,Ensoleillé,Zem,11.27,1.38,26.6,0.04
+Fidjrosse,Cadjehoun,14,Semaine,Pluie Légère,Voiture,3.92,1.19,7.8,0.01
+Zongo,Etoile,13,Semaine,Ensoleillé,Voiture,1.45,1.58,3.1,0.01
+Zongo,Etoile,19,Semaine,Ensoleillé,Voiture,1.45,3.15,6.1,0.01
+Cadjehoun,Calavi,14,Semaine,Ensoleillé,Voiture,11.27,1.38,20.7,0.01
+Calavi,Cadjehoun,20,Semaine,Forte Pluie,Voiture,11.27,1.55,46.7,0.02
+Cadjehoun,Fidjrosse,23,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Etoile,Zongo,4,Semaine,Ensoleillé,Voiture,1.45,1.41,2.7,0.01
+Etoile,Fidjrosse,5,Semaine,Pluie Légère,Zem,7.91,1.25,21.2,0.04
+Zongo,Fidjrosse,16,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Akpakpa,Cadjehoun,10,Semaine,Forte Pluie,Zem,6.19,1.25,26.5,0.16
+Akpakpa,Fidjrosse,15,Semaine,Pluie Légère,Zem,10.0,1.35,28.9,0.04
+Fidjrosse,Calavi,11,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Zongo,Akpakpa,14,Semaine,Ensoleillé,Voiture,3.38,1.53,6.9,0.01
+Calavi,Akpakpa,3,Semaine,Pluie Légère,Zem,14.46,1.5,46.4,0.04
+Akpakpa,Zongo,17,Semaine,Forte Pluie,Voiture,3.38,3.93,35.4,0.02
+Akpakpa,Fidjrosse,2,Semaine,Ensoleillé,Voiture,10.0,1.14,15.1,0.01
+Akpakpa,Zongo,21,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Akpakpa,Etoile,7,Weekend,Ensoleillé,Bus,2.12,1.0,4.2,0.005
+Zongo,Calavi,2,Semaine,Ensoleillé,Zem,12.45,1.23,26.3,0.04
+Cadjehoun,Calavi,17,Semaine,Ensoleillé,Zem,11.27,2.34,45.3,0.04
+Etoile,Fidjrosse,9,Semaine,Ensoleillé,Bus,7.91,3.55,56.2,0.005
+Zongo,Akpakpa,19,Weekend,Forte Pluie,Zem,3.38,1.0,11.6,0.16
+Zongo,Etoile,16,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Zongo,Fidjrosse,7,Semaine,Ensoleillé,Zem,6.66,2.45,28.0,0.04
+Zongo,Calavi,22,Semaine,Ensoleillé,Voiture,12.45,1.15,19.1,0.01
+Calavi,Akpakpa,10,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Fidjrosse,Zongo,12,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Etoile,Zongo,20,Semaine,Pluie Légère,Zem,1.45,1.38,4.3,0.04
+Zongo,Calavi,22,Semaine,Ensoleillé,Zem,12.45,1.31,27.9,0.04
+Etoile,Zongo,4,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Fidjrosse,Cadjehoun,23,Semaine,Ensoleillé,Voiture,3.92,1.46,7.6,0.01
+Fidjrosse,Etoile,12,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Akpakpa,Calavi,4,Semaine,Pluie Légère,Voiture,14.46,1.34,32.4,0.01
+Akpakpa,Fidjrosse,15,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Akpakpa,Fidjrosse,1,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Calavi,Zongo,0,Semaine,Forte Pluie,Zem,12.45,1.31,56.0,0.16
+Zongo,Fidjrosse,18,Semaine,Ensoleillé,Zem,6.66,2.97,33.9,0.04
+Calavi,Akpakpa,10,Semaine,Pluie Légère,Zem,14.46,1.54,47.6,0.04
+Calavi,Etoile,11,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Fidjrosse,Akpakpa,11,Semaine,Forte Pluie,Zem,10.0,1.3,44.5,0.16
+Akpakpa,Etoile,6,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Fidjrosse,Cadjehoun,12,Semaine,Pluie Légère,Zem,3.92,1.27,10.7,0.04
+Etoile,Cadjehoun,7,Semaine,Pluie Légère,Voiture,4.18,2.81,19.6,0.01
+Cadjehoun,Calavi,21,Semaine,Forte Pluie,Zem,11.27,1.2,46.3,0.16
+Etoile,Zongo,6,Semaine,Pluie Légère,Zem,1.45,1.53,4.7,0.04
+Etoile,Fidjrosse,20,Semaine,Pluie Légère,Voiture,7.91,1.17,15.5,0.01
+Cadjehoun,Etoile,14,Semaine,Ensoleillé,Zem,4.18,1.55,11.1,0.04
+Etoile,Zongo,1,Semaine,Pluie Légère,Bus,1.45,1.24,4.5,0.005
+Etoile,Akpakpa,22,Weekend,Forte Pluie,Voiture,2.12,1.0,5.7,0.02
+Cadjehoun,Etoile,19,Semaine,Pluie Légère,Zem,4.18,3.82,34.2,0.04
+Cadjehoun,Calavi,11,Semaine,Forte Pluie,Bus,11.27,1.5,67.4,0.01
+Etoile,Cadjehoun,0,Semaine,Pluie Légère,Zem,4.18,1.39,12.5,0.04
+Cadjehoun,Calavi,22,Semaine,Ensoleillé,Zem,11.27,1.43,27.7,0.04
+Etoile,Fidjrosse,21,Semaine,Ensoleillé,Bus,7.91,1.26,20.0,0.005
+Zongo,Etoile,4,Semaine,Ensoleillé,Voiture,1.45,1.39,2.7,0.01
+Etoile,Fidjrosse,0,Weekend,Forte Pluie,Voiture,7.91,1.0,21.1,0.02
+Fidjrosse,Cadjehoun,0,Semaine,Pluie Légère,Voiture,3.92,1.25,8.2,0.01
+Calavi,Etoile,9,Semaine,Ensoleillé,Bus,12.72,2.92,74.4,0.005
+Akpakpa,Etoile,21,Semaine,Ensoleillé,Voiture,2.12,1.48,4.2,0.01
+Akpakpa,Zongo,20,Semaine,Ensoleillé,Voiture,3.38,1.22,5.5,0.01
+Zongo,Cadjehoun,14,Semaine,Ensoleillé,Zem,2.81,1.52,7.3,0.04
+Etoile,Calavi,16,Semaine,Ensoleillé,Voiture,12.72,1.29,21.8,0.01
+Zongo,Fidjrosse,21,Semaine,Ensoleillé,Voiture,6.66,1.37,12.1,0.01
+Zongo,Etoile,2,Semaine,Forte Pluie,Voiture,1.45,1.57,6.1,0.02
+Zongo,Calavi,12,Semaine,Ensoleillé,Zem,12.45,1.44,30.7,0.04
+Calavi,Cadjehoun,15,Semaine,Ensoleillé,Zem,11.27,1.42,27.5,0.04
+Fidjrosse,Zongo,7,Semaine,Ensoleillé,Zem,6.66,3.48,39.7,0.04
+Zongo,Etoile,14,Semaine,Ensoleillé,Voiture,1.45,1.56,3.0,0.01
+Calavi,Cadjehoun,16,Semaine,Pluie Légère,Zem,11.27,1.22,29.6,0.04
+Cadjehoun,Calavi,16,Semaine,Pluie Légère,Voiture,11.27,1.41,26.4,0.01
+Fidjrosse,Akpakpa,21,Semaine,Ensoleillé,Zem,10.0,1.3,22.3,0.04
+Akpakpa,Fidjrosse,16,Semaine,Ensoleillé,Zem,10.0,1.11,19.0,0.04
+Cadjehoun,Etoile,5,Semaine,Pluie Légère,Voiture,4.18,1.16,8.1,0.01
+Calavi,Akpakpa,15,Semaine,Ensoleillé,Voiture,14.46,1.26,24.3,0.01
+Cadjehoun,Fidjrosse,13,Semaine,Pluie Légère,Zem,3.92,1.38,11.6,0.04
+Fidjrosse,Cadjehoun,12,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Zongo,Cadjehoun,5,Semaine,Pluie Légère,Zem,2.81,1.54,9.3,0.04
+Zongo,Fidjrosse,2,Semaine,Ensoleillé,Voiture,6.66,1.5,13.3,0.01
+Cadjehoun,Zongo,7,Semaine,Ensoleillé,Zem,2.81,3.2,15.4,0.04
+Akpakpa,Etoile,14,Semaine,Ensoleillé,Zem,2.12,1.14,4.1,0.04
+Zongo,Calavi,12,Semaine,Ensoleillé,Zem,12.45,1.24,26.5,0.04
+Cadjehoun,Fidjrosse,16,Semaine,Ensoleillé,Bus,3.92,1.28,10.1,0.005
+Akpakpa,Fidjrosse,20,Semaine,Ensoleillé,Bus,10.0,1.41,28.2,0.005
+Calavi,Akpakpa,23,Weekend,Forte Pluie,Voiture,14.46,1.0,38.6,0.02
+Fidjrosse,Etoile,2,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Fidjrosse,Zongo,5,Semaine,Ensoleillé,Zem,6.66,1.13,12.9,0.04
+Akpakpa,Cadjehoun,4,Semaine,Ensoleillé,Voiture,6.19,1.37,11.3,0.01
+Zongo,Cadjehoun,21,Semaine,Pluie Légère,Zem,2.81,1.55,9.3,0.04
+Akpakpa,Fidjrosse,16,Weekend,Ensoleillé,Bus,10.0,1.0,20.0,0.005
+Cadjehoun,Etoile,22,Semaine,Pluie Légère,Zem,4.18,1.45,13.0,0.04
+Akpakpa,Calavi,1,Semaine,Ensoleillé,Bus,14.46,1.5,43.3,0.005
+Fidjrosse,Akpakpa,14,Semaine,Pluie Légère,Zem,10.0,1.44,30.9,0.04
+Akpakpa,Etoile,4,Semaine,Ensoleillé,Voiture,2.12,1.2,3.4,0.01
+Zongo,Etoile,19,Semaine,Ensoleillé,Zem,1.45,2.4,6.0,0.04
+Calavi,Akpakpa,5,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Etoile,Fidjrosse,5,Semaine,Pluie Légère,Zem,7.91,1.51,25.7,0.04
+Akpakpa,Etoile,17,Semaine,Ensoleillé,Voiture,2.12,3.45,9.8,0.01
+Zongo,Cadjehoun,17,Semaine,Ensoleillé,Voiture,2.81,3.24,12.1,0.01
+Zongo,Akpakpa,3,Semaine,Ensoleillé,Zem,3.38,1.19,6.9,0.04
+Fidjrosse,Zongo,13,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Zongo,Fidjrosse,13,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Zongo,Akpakpa,12,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Cadjehoun,Calavi,22,Semaine,Pluie Légère,Voiture,11.27,1.4,26.3,0.01
+Cadjehoun,Etoile,14,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Fidjrosse,Calavi,18,Semaine,Forte Pluie,Zem,9.53,2.26,73.7,0.16
+Akpakpa,Etoile,10,Semaine,Pluie Légère,Voiture,2.12,1.16,4.1,0.01
+Zongo,Etoile,14,Weekend,Pluie Légère,Voiture,1.45,1.0,2.4,0.01
+Calavi,Akpakpa,11,Semaine,Ensoleillé,Voiture,14.46,1.26,24.2,0.01
+Calavi,Fidjrosse,16,Semaine,Pluie Légère,Zem,9.53,1.32,27.0,0.04
+Akpakpa,Etoile,2,Semaine,Ensoleillé,Voiture,2.12,1.16,3.3,0.01
+Fidjrosse,Zongo,18,Semaine,Ensoleillé,Voiture,6.66,2.42,21.5,0.01
+Zongo,Cadjehoun,19,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Zongo,Fidjrosse,3,Semaine,Pluie Légère,Voiture,6.66,1.46,16.2,0.01
+Etoile,Akpakpa,2,Weekend,Forte Pluie,Zem,2.12,1.0,7.3,0.16
+Akpakpa,Fidjrosse,11,Semaine,Ensoleillé,Voiture,10.0,1.38,18.5,0.01
+Akpakpa,Fidjrosse,7,Weekend,Ensoleillé,Voiture,10.0,1.0,13.3,0.01
+Cadjehoun,Fidjrosse,23,Semaine,Ensoleillé,Zem,3.92,1.37,9.2,0.04
+Etoile,Fidjrosse,16,Semaine,Ensoleillé,Voiture,7.91,1.33,14.0,0.01
+Cadjehoun,Calavi,10,Semaine,Ensoleillé,Voiture,11.27,1.59,23.9,0.01
+Cadjehoun,Calavi,17,Semaine,Ensoleillé,Voiture,11.27,2.29,34.4,0.01
+Calavi,Etoile,2,Semaine,Forte Pluie,Zem,12.72,1.19,51.9,0.16
+Fidjrosse,Zongo,3,Semaine,Pluie Légère,Zem,6.66,1.42,20.3,0.04
+Fidjrosse,Calavi,12,Semaine,Pluie Légère,Voiture,9.53,1.17,18.6,0.01
+Cadjehoun,Fidjrosse,5,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Etoile,Fidjrosse,13,Weekend,Forte Pluie,Zem,7.91,1.0,27.1,0.16
+Akpakpa,Calavi,4,Semaine,Pluie Légère,Zem,14.46,1.39,43.2,0.04
+Etoile,Fidjrosse,14,Semaine,Forte Pluie,Zem,7.91,1.38,37.5,0.16
+Zongo,Etoile,14,Semaine,Forte Pluie,Bus,1.45,1.59,9.2,0.01
+Calavi,Akpakpa,3,Semaine,Ensoleillé,Voiture,14.46,1.54,29.7,0.01
+Calavi,Akpakpa,7,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Fidjrosse,Calavi,15,Weekend,Ensoleillé,Voiture,9.53,1.0,12.7,0.01
+Akpakpa,Cadjehoun,15,Semaine,Ensoleillé,Voiture,6.19,1.57,13.0,0.01
+Akpakpa,Calavi,3,Semaine,Ensoleillé,Voiture,14.46,1.16,22.3,0.01
+Zongo,Calavi,12,Semaine,Ensoleillé,Zem,12.45,1.53,32.7,0.04
+Zongo,Akpakpa,12,Semaine,Ensoleillé,Zem,3.38,1.16,6.7,0.04
+Calavi,Fidjrosse,1,Semaine,Ensoleillé,Zem,9.53,1.42,23.1,0.04
+Cadjehoun,Calavi,2,Weekend,Pluie Légère,Voiture,11.27,1.0,18.8,0.01
+Calavi,Cadjehoun,23,Semaine,Pluie Légère,Zem,11.27,1.46,35.3,0.04
+Etoile,Fidjrosse,14,Semaine,Ensoleillé,Zem,7.91,1.18,16.0,0.04
+Cadjehoun,Akpakpa,10,Semaine,Forte Pluie,Zem,6.19,1.42,30.0,0.16
+Calavi,Etoile,8,Semaine,Ensoleillé,Bus,12.72,2.29,58.4,0.005
+Cadjehoun,Etoile,6,Semaine,Ensoleillé,Zem,4.18,1.25,8.9,0.04
+Cadjehoun,Zongo,12,Semaine,Ensoleillé,Zem,2.81,1.56,7.5,0.04
+Cadjehoun,Calavi,1,Weekend,Ensoleillé,Bus,11.27,1.0,22.5,0.005
+Calavi,Akpakpa,7,Semaine,Ensoleillé,Voiture,14.46,2.51,48.4,0.01
+Fidjrosse,Etoile,23,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Cadjehoun,Akpakpa,11,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Akpakpa,Fidjrosse,6,Semaine,Pluie Légère,Voiture,10.0,1.13,18.9,0.01
+Calavi,Etoile,9,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Akpakpa,Calavi,15,Semaine,Ensoleillé,Zem,14.46,1.32,32.8,0.04
+Etoile,Calavi,2,Semaine,Ensoleillé,Voiture,12.72,1.53,25.9,0.01
+Calavi,Zongo,9,Semaine,Ensoleillé,Voiture,12.45,2.34,38.8,0.01
+Cadjehoun,Zongo,5,Semaine,Ensoleillé,Voiture,2.81,1.28,4.8,0.01
+Fidjrosse,Etoile,17,Semaine,Pluie Légère,Zem,7.91,3.82,64.7,0.04
+Zongo,Calavi,4,Semaine,Pluie Légère,Voiture,12.45,1.16,24.1,0.01
+Zongo,Akpakpa,20,Semaine,Pluie Légère,Voiture,3.38,1.26,7.1,0.01
+Etoile,Akpakpa,6,Semaine,Ensoleillé,Bus,2.12,1.49,6.3,0.005
+Cadjehoun,Etoile,1,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Cadjehoun,Calavi,12,Semaine,Pluie Légère,Voiture,11.27,1.37,25.8,0.01
+Akpakpa,Fidjrosse,22,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Etoile,Zongo,4,Semaine,Pluie Légère,Zem,1.45,1.52,4.7,0.04
+Etoile,Fidjrosse,5,Semaine,Pluie Légère,Zem,7.91,1.16,19.6,0.04
+Zongo,Akpakpa,23,Semaine,Ensoleillé,Zem,3.38,1.56,9.0,0.04
+Cadjehoun,Fidjrosse,13,Semaine,Pluie Légère,Voiture,3.92,1.57,10.3,0.01
+Zongo,Calavi,3,Semaine,Ensoleillé,Voiture,12.45,1.18,19.5,0.01
+Cadjehoun,Akpakpa,22,Semaine,Forte Pluie,Zem,6.19,1.12,23.7,0.16
+Zongo,Etoile,5,Semaine,Pluie Légère,Zem,1.45,1.59,4.9,0.04
+Calavi,Fidjrosse,9,Semaine,Ensoleillé,Zem,9.53,3.07,50.1,0.04
+Fidjrosse,Etoile,17,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Fidjrosse,Etoile,14,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Fidjrosse,Cadjehoun,7,Semaine,Pluie Légère,Voiture,3.92,3.23,21.1,0.01
+Fidjrosse,Akpakpa,8,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Akpakpa,Zongo,4,Semaine,Forte Pluie,Zem,3.38,1.41,16.3,0.16
+Fidjrosse,Calavi,9,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Etoile,Akpakpa,5,Semaine,Ensoleillé,Zem,2.12,1.49,5.4,0.04
+Etoile,Zongo,15,Semaine,Ensoleillé,Voiture,1.45,1.51,2.9,0.01
+Akpakpa,Calavi,23,Semaine,Pluie Légère,Bus,14.46,1.2,43.3,0.005
+Fidjrosse,Akpakpa,2,Semaine,Pluie Légère,Bus,10.0,1.22,30.5,0.005
+Fidjrosse,Calavi,9,Semaine,Ensoleillé,Voiture,9.53,3.78,48.0,0.01
+Fidjrosse,Etoile,10,Semaine,Ensoleillé,Voiture,7.91,1.51,15.9,0.01
+Zongo,Fidjrosse,10,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Cadjehoun,Fidjrosse,16,Semaine,Ensoleillé,Voiture,3.92,1.41,7.4,0.01
+Zongo,Calavi,3,Semaine,Ensoleillé,Zem,12.45,1.6,34.1,0.04
+Fidjrosse,Zongo,16,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Fidjrosse,Zongo,8,Semaine,Ensoleillé,Zem,6.66,3.52,40.2,0.04
+Zongo,Etoile,4,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Cadjehoun,Zongo,21,Semaine,Pluie Légère,Zem,2.81,1.21,7.3,0.04
+Etoile,Fidjrosse,23,Semaine,Ensoleillé,Voiture,7.91,1.52,16.1,0.01
+Cadjehoun,Etoile,5,Semaine,Pluie Légère,Voiture,4.18,1.31,9.1,0.01
+Zongo,Akpakpa,2,Semaine,Pluie Légère,Voiture,3.38,1.12,6.3,0.01
+Calavi,Zongo,21,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Calavi,Akpakpa,19,Semaine,Forte Pluie,Zem,14.46,2.78,137.7,0.16
+Akpakpa,Zongo,21,Semaine,Pluie Légère,Zem,3.38,1.48,10.7,0.04
+Zongo,Akpakpa,15,Weekend,Forte Pluie,Voiture,3.38,1.0,9.0,0.02
+Akpakpa,Etoile,22,Semaine,Pluie Légère,Voiture,2.12,1.58,5.6,0.01
+Etoile,Fidjrosse,10,Semaine,Ensoleillé,Zem,7.91,1.24,16.8,0.04
+Cadjehoun,Akpakpa,12,Semaine,Ensoleillé,Voiture,6.19,1.22,10.1,0.01
+Calavi,Cadjehoun,9,Semaine,Ensoleillé,Zem,11.27,3.21,62.1,0.04
+Cadjehoun,Akpakpa,2,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Akpakpa,Zongo,8,Semaine,Ensoleillé,Zem,3.38,3.66,21.2,0.04
+Calavi,Etoile,11,Semaine,Pluie Légère,Bus,12.72,1.47,46.8,0.005
+Cadjehoun,Calavi,22,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Zongo,Etoile,13,Semaine,Ensoleillé,Voiture,1.45,1.38,2.7,0.01
+Fidjrosse,Calavi,0,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Cadjehoun,Fidjrosse,16,Semaine,Ensoleillé,Zem,3.92,1.42,9.5,0.04
+Akpakpa,Cadjehoun,8,Weekend,Pluie Légère,Zem,6.19,1.0,13.3,0.04
+Akpakpa,Etoile,8,Semaine,Pluie Légère,Zem,2.12,2.64,12.0,0.04
+Calavi,Zongo,22,Semaine,Ensoleillé,Voiture,12.45,1.32,21.9,0.01
+Fidjrosse,Zongo,18,Semaine,Ensoleillé,Zem,6.66,2.66,30.4,0.04
+Zongo,Fidjrosse,14,Semaine,Ensoleillé,Zem,6.66,1.54,17.6,0.04
+Akpakpa,Calavi,4,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Cadjehoun,Etoile,14,Weekend,Forte Pluie,Voiture,4.18,1.0,11.1,0.02
+Etoile,Akpakpa,19,Weekend,Pluie Légère,Zem,2.12,1.0,4.5,0.04
+Akpakpa,Zongo,22,Semaine,Pluie Légère,Zem,3.38,1.16,8.4,0.04
+Akpakpa,Fidjrosse,1,Semaine,Forte Pluie,Voiture,10.0,1.44,38.4,0.02
+Fidjrosse,Etoile,12,Semaine,Pluie Légère,Voiture,7.91,1.23,16.2,0.01
+Zongo,Etoile,23,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Calavi,Etoile,14,Semaine,Pluie Légère,Voiture,12.72,1.34,28.4,0.01
+Cadjehoun,Etoile,13,Semaine,Ensoleillé,Bus,4.18,1.25,10.4,0.005
+Etoile,Zongo,9,Semaine,Pluie Légère,Voiture,1.45,2.78,6.7,0.01
+Calavi,Fidjrosse,13,Weekend,Forte Pluie,Zem,9.53,1.0,32.7,0.16
+Cadjehoun,Calavi,22,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Zongo,Etoile,8,Semaine,Pluie Légère,Zem,1.45,2.67,8.3,0.04
+Calavi,Cadjehoun,2,Weekend,Pluie Légère,Bus,11.27,1.0,28.2,0.005
+Fidjrosse,Akpakpa,15,Semaine,Pluie Légère,Zem,10.0,1.48,31.6,0.04
+Fidjrosse,Akpakpa,1,Semaine,Ensoleillé,Zem,10.0,1.28,22.0,0.04
+Fidjrosse,Calavi,2,Semaine,Ensoleillé,Zem,9.53,1.46,23.9,0.04
+Etoile,Calavi,10,Semaine,Ensoleillé,Voiture,12.72,1.33,22.5,0.01
+Zongo,Akpakpa,10,Semaine,Ensoleillé,Zem,3.38,1.37,7.9,0.04
+Cadjehoun,Akpakpa,20,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Calavi,Zongo,21,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Fidjrosse,Etoile,12,Weekend,Pluie Légère,Voiture,7.91,1.0,13.2,0.01
+Fidjrosse,Calavi,6,Semaine,Pluie Légère,Zem,9.53,1.37,28.0,0.04
+Akpakpa,Cadjehoun,22,Semaine,Ensoleillé,Zem,6.19,1.59,16.8,0.04
+Zongo,Fidjrosse,16,Semaine,Pluie Légère,Zem,6.66,1.28,18.3,0.04
+Etoile,Fidjrosse,1,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Cadjehoun,Etoile,11,Semaine,Ensoleillé,Bus,4.18,1.2,10.1,0.005
+Akpakpa,Cadjehoun,9,Semaine,Ensoleillé,Bus,6.19,3.84,47.5,0.005
+Calavi,Akpakpa,21,Semaine,Ensoleillé,Voiture,14.46,1.19,22.9,0.01
+Cadjehoun,Zongo,10,Semaine,Forte Pluie,Zem,2.81,1.52,14.6,0.16
+Calavi,Zongo,15,Weekend,Ensoleillé,Bus,12.45,1.0,24.9,0.005
+Etoile,Akpakpa,16,Weekend,Ensoleillé,Bus,2.12,1.0,4.2,0.005
+Akpakpa,Fidjrosse,18,Semaine,Ensoleillé,Zem,10.0,2.47,42.3,0.04
+Akpakpa,Calavi,17,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Zongo,Fidjrosse,2,Semaine,Pluie Légère,Voiture,6.66,1.43,15.9,0.01
+Etoile,Zongo,20,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Akpakpa,Etoile,15,Semaine,Forte Pluie,Zem,2.12,1.18,8.5,0.16
+Etoile,Akpakpa,5,Semaine,Forte Pluie,Bus,2.12,1.56,13.2,0.01
+Cadjehoun,Zongo,11,Semaine,Pluie Légère,Bus,2.81,1.38,9.7,0.005
+Fidjrosse,Zongo,10,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Akpakpa,Calavi,14,Semaine,Pluie Légère,Zem,14.46,1.26,39.2,0.04
+Zongo,Akpakpa,14,Semaine,Ensoleillé,Voiture,3.38,1.17,5.3,0.01
+Cadjehoun,Calavi,15,Semaine,Pluie Légère,Voiture,11.27,1.29,24.1,0.01
+Etoile,Akpakpa,9,Weekend,Pluie Légère,Zem,2.12,1.0,4.5,0.04
+Cadjehoun,Fidjrosse,12,Semaine,Ensoleillé,Voiture,3.92,1.45,7.6,0.01
+Akpakpa,Etoile,3,Semaine,Pluie Légère,Bus,2.12,1.29,6.9,0.005
+Fidjrosse,Akpakpa,21,Semaine,Ensoleillé,Zem,10.0,1.22,21.0,0.04
+Akpakpa,Zongo,14,Semaine,Pluie Légère,Zem,3.38,1.39,10.0,0.04
+Calavi,Akpakpa,6,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Etoile,Calavi,14,Semaine,Ensoleillé,Zem,12.72,1.31,28.5,0.04
+Cadjehoun,Fidjrosse,13,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Fidjrosse,Calavi,7,Semaine,Forte Pluie,Bus,9.53,2.5,95.2,0.01
+Fidjrosse,Calavi,11,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Zongo,Akpakpa,12,Semaine,Pluie Légère,Voiture,3.38,1.18,6.6,0.01
+Calavi,Akpakpa,10,Semaine,Ensoleillé,Voiture,14.46,1.45,28.0,0.01
+Zongo,Akpakpa,3,Semaine,Ensoleillé,Voiture,3.38,1.59,7.1,0.01
+Calavi,Zongo,20,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Zongo,Fidjrosse,7,Semaine,Ensoleillé,Zem,6.66,2.62,29.9,0.04
+Calavi,Fidjrosse,4,Semaine,Ensoleillé,Zem,9.53,1.49,24.3,0.04
+Calavi,Akpakpa,15,Semaine,Ensoleillé,Voiture,14.46,1.14,22.0,0.01
+Etoile,Zongo,3,Weekend,Ensoleillé,Bus,1.45,1.0,2.9,0.005
+Calavi,Fidjrosse,21,Semaine,Pluie Légère,Zem,9.53,1.29,26.4,0.04
+Fidjrosse,Calavi,14,Semaine,Ensoleillé,Voiture,9.53,1.35,17.2,0.01
+Calavi,Fidjrosse,11,Semaine,Forte Pluie,Zem,9.53,1.23,40.3,0.16
+Calavi,Fidjrosse,4,Semaine,Ensoleillé,Voiture,9.53,1.36,17.3,0.01
+Calavi,Zongo,22,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Akpakpa,Calavi,15,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Fidjrosse,Zongo,13,Weekend,Forte Pluie,Zem,6.66,1.0,22.8,0.16
+Fidjrosse,Akpakpa,9,Weekend,Pluie Légère,Voiture,10.0,1.0,16.7,0.01
+Zongo,Etoile,6,Semaine,Ensoleillé,Voiture,1.45,1.54,3.0,0.01
+Etoile,Fidjrosse,12,Semaine,Ensoleillé,Voiture,7.91,1.57,16.6,0.01
+Calavi,Etoile,19,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Cadjehoun,Zongo,4,Semaine,Ensoleillé,Voiture,2.81,1.15,4.3,0.01
+Etoile,Zongo,2,Semaine,Ensoleillé,Voiture,1.45,1.24,2.4,0.01
+Etoile,Zongo,14,Weekend,Pluie Légère,Voiture,1.45,1.0,2.4,0.01
+Fidjrosse,Etoile,3,Semaine,Ensoleillé,Bus,7.91,1.59,25.1,0.005
+Etoile,Zongo,14,Weekend,Pluie Légère,Voiture,1.45,1.0,2.4,0.01
+Calavi,Akpakpa,13,Semaine,Forte Pluie,Voiture,14.46,1.24,47.6,0.02
+Calavi,Zongo,19,Semaine,Pluie Légère,Zem,12.45,3.45,92.0,0.04
+Akpakpa,Cadjehoun,18,Semaine,Pluie Légère,Voiture,6.19,2.66,27.4,0.01
+Calavi,Etoile,12,Semaine,Pluie Légère,Zem,12.72,1.28,34.8,0.04
+Calavi,Cadjehoun,9,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Fidjrosse,Zongo,20,Semaine,Ensoleillé,Voiture,6.66,1.2,10.6,0.01
+Calavi,Akpakpa,4,Semaine,Forte Pluie,Bus,14.46,1.53,88.4,0.01
+Akpakpa,Fidjrosse,22,Semaine,Forte Pluie,Zem,10.0,1.54,52.8,0.16
+Cadjehoun,Calavi,19,Semaine,Pluie Légère,Zem,11.27,2.73,66.0,0.04
+Fidjrosse,Calavi,19,Semaine,Ensoleillé,Voiture,9.53,3.68,46.8,0.01
+Cadjehoun,Zongo,5,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Fidjrosse,Akpakpa,3,Semaine,Ensoleillé,Zem,10.0,1.28,21.9,0.04
+Zongo,Etoile,1,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Etoile,Cadjehoun,21,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Zongo,Cadjehoun,15,Semaine,Ensoleillé,Zem,2.81,1.15,5.5,0.04
+Calavi,Cadjehoun,17,Semaine,Ensoleillé,Voiture,11.27,3.56,53.6,0.01
+Cadjehoun,Etoile,4,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Etoile,Akpakpa,3,Semaine,Ensoleillé,Zem,2.12,1.4,5.1,0.04
+Fidjrosse,Etoile,12,Semaine,Pluie Légère,Voiture,7.91,1.24,16.3,0.01
+Etoile,Cadjehoun,18,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Akpakpa,Zongo,22,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Etoile,Fidjrosse,1,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Akpakpa,Etoile,12,Semaine,Pluie Légère,Voiture,2.12,1.23,4.3,0.01
+Cadjehoun,Akpakpa,3,Semaine,Pluie Légère,Voiture,6.19,1.59,16.4,0.01
+Calavi,Etoile,21,Semaine,Forte Pluie,Zem,12.72,1.53,66.8,0.16
+Calavi,Cadjehoun,19,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Zongo,Fidjrosse,19,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Calavi,Akpakpa,14,Semaine,Ensoleillé,Zem,14.46,1.5,37.3,0.04
+Fidjrosse,Cadjehoun,3,Semaine,Ensoleillé,Zem,3.92,1.16,7.8,0.04
+Etoile,Zongo,8,Semaine,Ensoleillé,Zem,1.45,3.56,8.8,0.04
+Zongo,Akpakpa,6,Semaine,Ensoleillé,Zem,3.38,1.21,7.0,0.04
+Fidjrosse,Cadjehoun,18,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Fidjrosse,Cadjehoun,18,Weekend,Forte Pluie,Voiture,3.92,1.0,10.5,0.02
+Akpakpa,Fidjrosse,5,Semaine,Pluie Légère,Zem,10.0,1.59,34.0,0.04
+Calavi,Fidjrosse,5,Semaine,Pluie Légère,Bus,9.53,1.13,26.8,0.005
+Cadjehoun,Zongo,19,Semaine,Pluie Légère,Voiture,2.81,2.83,13.3,0.01
+Zongo,Calavi,14,Semaine,Pluie Légère,Zem,12.45,1.31,35.1,0.04
+Etoile,Fidjrosse,8,Semaine,Ensoleillé,Zem,7.91,3.68,49.9,0.04
+Cadjehoun,Calavi,3,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Zongo,Akpakpa,17,Semaine,Pluie Légère,Zem,3.38,3.58,25.9,0.04
+Cadjehoun,Akpakpa,17,Semaine,Pluie Légère,Voiture,6.19,2.87,29.6,0.01
+Akpakpa,Fidjrosse,19,Semaine,Forte Pluie,Voiture,10.0,3.22,85.8,0.02
+Zongo,Etoile,22,Semaine,Forte Pluie,Voiture,1.45,1.52,5.9,0.02
+Akpakpa,Calavi,10,Semaine,Ensoleillé,Voiture,14.46,1.11,21.4,0.01
+Akpakpa,Fidjrosse,4,Semaine,Ensoleillé,Voiture,10.0,1.5,20.0,0.01
+Akpakpa,Zongo,21,Semaine,Ensoleillé,Zem,3.38,1.57,9.1,0.04
+Fidjrosse,Cadjehoun,3,Weekend,Forte Pluie,Voiture,3.92,1.0,10.5,0.02
+Calavi,Zongo,11,Semaine,Ensoleillé,Zem,12.45,1.12,23.8,0.04
+Fidjrosse,Calavi,1,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Calavi,Fidjrosse,12,Semaine,Ensoleillé,Zem,9.53,1.12,18.3,0.04
+Akpakpa,Calavi,9,Semaine,Ensoleillé,Zem,14.46,2.82,69.9,0.04
+Zongo,Cadjehoun,8,Semaine,Pluie Légère,Zem,2.81,2.36,14.2,0.04
+Calavi,Akpakpa,9,Semaine,Ensoleillé,Zem,14.46,3.06,75.9,0.04
+Etoile,Akpakpa,6,Weekend,Forte Pluie,Zem,2.12,1.0,7.3,0.16
+Etoile,Calavi,3,Weekend,Pluie Légère,Voiture,12.72,1.0,21.2,0.01
+Cadjehoun,Etoile,18,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Calavi,Fidjrosse,9,Weekend,Ensoleillé,Voiture,9.53,1.0,12.7,0.01
+Zongo,Fidjrosse,2,Semaine,Ensoleillé,Zem,6.66,1.46,16.7,0.04
+Fidjrosse,Akpakpa,20,Semaine,Ensoleillé,Zem,10.0,1.38,23.7,0.04
+Akpakpa,Zongo,18,Semaine,Ensoleillé,Zem,3.38,2.55,14.8,0.04
+Etoile,Zongo,1,Weekend,Forte Pluie,Voiture,1.45,1.0,3.9,0.02
+Fidjrosse,Zongo,19,Semaine,Ensoleillé,Zem,6.66,3.38,38.6,0.04
+Fidjrosse,Calavi,9,Weekend,Ensoleillé,Bus,9.53,1.0,19.1,0.005
+Calavi,Akpakpa,1,Semaine,Ensoleillé,Zem,14.46,1.44,35.8,0.04
+Etoile,Akpakpa,23,Semaine,Forte Pluie,Voiture,2.12,1.57,8.9,0.02
+Zongo,Calavi,16,Semaine,Ensoleillé,Zem,12.45,1.17,25.0,0.04
+Fidjrosse,Etoile,15,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Akpakpa,Zongo,15,Semaine,Pluie Légère,Voiture,3.38,1.45,8.1,0.01
+Zongo,Calavi,13,Semaine,Ensoleillé,Zem,12.45,1.56,33.2,0.04
+Calavi,Fidjrosse,6,Semaine,Ensoleillé,Zem,9.53,1.35,22.1,0.04
+Etoile,Cadjehoun,20,Semaine,Ensoleillé,Zem,4.18,1.28,9.2,0.04
+Calavi,Etoile,10,Semaine,Ensoleillé,Zem,12.72,1.19,25.8,0.04
+Zongo,Akpakpa,10,Semaine,Pluie Légère,Zem,3.38,1.53,11.1,0.04
+Fidjrosse,Calavi,20,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Fidjrosse,Cadjehoun,3,Semaine,Pluie Légère,Zem,3.92,1.3,10.9,0.04
+Cadjehoun,Etoile,14,Semaine,Ensoleillé,Voiture,4.18,1.56,8.7,0.01
+Calavi,Etoile,17,Semaine,Ensoleillé,Voiture,12.72,3.73,63.2,0.01
+Etoile,Cadjehoun,11,Semaine,Pluie Légère,Voiture,4.18,1.29,9.0,0.01
+Akpakpa,Fidjrosse,16,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Zongo,Fidjrosse,0,Weekend,Pluie Légère,Zem,6.66,1.0,14.3,0.04
+Cadjehoun,Etoile,10,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Akpakpa,Etoile,0,Semaine,Forte Pluie,Bus,2.12,1.39,11.8,0.01
+Cadjehoun,Akpakpa,14,Semaine,Ensoleillé,Voiture,6.19,1.11,9.2,0.01
+Calavi,Fidjrosse,20,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Fidjrosse,Cadjehoun,9,Semaine,Ensoleillé,Zem,3.92,2.67,18.0,0.04
+Zongo,Fidjrosse,6,Semaine,Ensoleillé,Bus,6.66,1.46,19.4,0.005
+Calavi,Akpakpa,1,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Akpakpa,Calavi,9,Semaine,Pluie Légère,Zem,14.46,3.42,106.0,0.04
+Akpakpa,Etoile,23,Semaine,Pluie Légère,Zem,2.12,1.28,5.8,0.04
+Akpakpa,Etoile,3,Semaine,Pluie Légère,Bus,2.12,1.5,8.0,0.005
+Akpakpa,Cadjehoun,18,Semaine,Pluie Légère,Zem,6.19,2.62,34.8,0.04
+Cadjehoun,Etoile,10,Semaine,Ensoleillé,Voiture,4.18,1.33,7.4,0.01
+Calavi,Zongo,7,Semaine,Ensoleillé,Zem,12.45,3.05,65.1,0.04
+Zongo,Etoile,17,Semaine,Ensoleillé,Voiture,1.45,2.81,5.4,0.01
+Fidjrosse,Zongo,10,Semaine,Ensoleillé,Voiture,6.66,1.58,14.0,0.01
+Fidjrosse,Akpakpa,10,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Calavi,Akpakpa,12,Semaine,Ensoleillé,Voiture,14.46,1.45,27.9,0.01
+Calavi,Etoile,2,Semaine,Ensoleillé,Bus,12.72,1.37,34.8,0.005
+Fidjrosse,Zongo,2,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Zongo,Cadjehoun,21,Semaine,Ensoleillé,Bus,2.81,1.36,7.6,0.005
+Akpakpa,Etoile,1,Weekend,Pluie Légère,Bus,2.12,1.0,5.3,0.005
+Etoile,Fidjrosse,16,Semaine,Ensoleillé,Zem,7.91,1.18,16.0,0.04
+Calavi,Fidjrosse,15,Semaine,Pluie Légère,Bus,9.53,1.29,30.6,0.005
+Etoile,Calavi,21,Semaine,Forte Pluie,Voiture,12.72,1.44,48.7,0.02
+Zongo,Fidjrosse,19,Weekend,Pluie Légère,Zem,6.66,1.0,14.3,0.04
+Calavi,Akpakpa,5,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Akpakpa,Calavi,9,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Zongo,Cadjehoun,0,Semaine,Ensoleillé,Voiture,2.81,1.56,5.9,0.01
+Fidjrosse,Etoile,12,Semaine,Ensoleillé,Zem,7.91,1.51,20.4,0.04
+Akpakpa,Etoile,23,Semaine,Ensoleillé,Voiture,2.12,1.25,3.5,0.01
+Etoile,Akpakpa,21,Semaine,Ensoleillé,Bus,2.12,1.32,5.6,0.005
+Calavi,Etoile,9,Semaine,Forte Pluie,Bus,12.72,2.35,119.5,0.01
+Cadjehoun,Akpakpa,14,Semaine,Pluie Légère,Zem,6.19,1.15,15.3,0.04
+Cadjehoun,Zongo,4,Semaine,Ensoleillé,Zem,2.81,1.34,6.4,0.04
+Zongo,Cadjehoun,21,Semaine,Forte Pluie,Zem,2.81,1.37,13.2,0.16
+Fidjrosse,Zongo,15,Semaine,Ensoleillé,Voiture,6.66,1.23,10.9,0.01
+Cadjehoun,Calavi,12,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Akpakpa,Fidjrosse,21,Semaine,Ensoleillé,Voiture,10.0,1.42,19.0,0.01
+Calavi,Fidjrosse,19,Semaine,Ensoleillé,Zem,9.53,3.47,56.6,0.04
+Calavi,Fidjrosse,17,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Zongo,Cadjehoun,15,Weekend,Ensoleillé,Voiture,2.81,1.0,3.7,0.01
+Etoile,Fidjrosse,1,Semaine,Ensoleillé,Zem,7.91,1.25,16.9,0.04
+Zongo,Calavi,1,Semaine,Forte Pluie,Zem,12.45,1.48,63.1,0.16
+Zongo,Calavi,11,Semaine,Ensoleillé,Zem,12.45,1.2,25.7,0.04
+Zongo,Fidjrosse,7,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Etoile,Fidjrosse,8,Semaine,Pluie Légère,Voiture,7.91,3.18,41.9,0.01
+Etoile,Cadjehoun,11,Semaine,Pluie Légère,Zem,4.18,1.5,13.4,0.04
+Zongo,Fidjrosse,8,Semaine,Forte Pluie,Voiture,6.66,3.17,56.2,0.02
+Fidjrosse,Calavi,1,Semaine,Ensoleillé,Zem,9.53,1.55,25.4,0.04
+Fidjrosse,Zongo,19,Semaine,Ensoleillé,Zem,6.66,2.31,26.3,0.04
+Etoile,Zongo,6,Weekend,Pluie Légère,Voiture,1.45,1.0,2.4,0.01
+Etoile,Calavi,1,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Fidjrosse,Zongo,18,Semaine,Ensoleillé,Zem,6.66,3.26,37.2,0.04
+Fidjrosse,Cadjehoun,3,Weekend,Forte Pluie,Voiture,3.92,1.0,10.5,0.02
+Etoile,Zongo,21,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Fidjrosse,Cadjehoun,1,Weekend,Forte Pluie,Zem,3.92,1.0,13.5,0.16
+Calavi,Etoile,13,Semaine,Forte Pluie,Zem,12.72,1.38,60.2,0.16
+Cadjehoun,Zongo,1,Semaine,Ensoleillé,Voiture,2.81,1.43,5.4,0.01
+Calavi,Fidjrosse,14,Semaine,Ensoleillé,Zem,9.53,1.52,24.8,0.04
+Cadjehoun,Etoile,4,Semaine,Ensoleillé,Voiture,4.18,1.46,8.2,0.01
+Calavi,Cadjehoun,19,Semaine,Ensoleillé,Zem,11.27,3.62,70.0,0.04
+Fidjrosse,Etoile,6,Semaine,Ensoleillé,Voiture,7.91,1.24,13.1,0.01
+Etoile,Akpakpa,23,Semaine,Ensoleillé,Zem,2.12,1.29,4.7,0.04
+Cadjehoun,Akpakpa,20,Semaine,Ensoleillé,Zem,6.19,1.41,15.0,0.04
+Calavi,Zongo,13,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Cadjehoun,Fidjrosse,13,Semaine,Ensoleillé,Zem,3.92,1.38,9.3,0.04
+Akpakpa,Calavi,4,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Akpakpa,Etoile,17,Semaine,Ensoleillé,Zem,2.12,3.93,14.3,0.04
+Etoile,Akpakpa,23,Semaine,Ensoleillé,Zem,2.12,1.19,4.3,0.04
+Fidjrosse,Zongo,13,Weekend,Forte Pluie,Zem,6.66,1.0,22.8,0.16
+Etoile,Calavi,1,Semaine,Forte Pluie,Zem,12.72,1.28,55.6,0.16
+Etoile,Zongo,21,Semaine,Pluie Légère,Voiture,1.45,1.39,3.3,0.01
+Etoile,Zongo,23,Semaine,Ensoleillé,Zem,1.45,1.53,3.8,0.04
+Zongo,Akpakpa,5,Semaine,Pluie Légère,Zem,3.38,1.56,11.3,0.04
+Zongo,Akpakpa,3,Semaine,Ensoleillé,Zem,3.38,1.27,7.3,0.04
+Cadjehoun,Zongo,12,Semaine,Pluie Légère,Voiture,2.81,1.13,5.3,0.01
+Akpakpa,Cadjehoun,3,Semaine,Ensoleillé,Bus,6.19,1.31,16.2,0.005
+Etoile,Zongo,21,Semaine,Pluie Légère,Voiture,1.45,1.3,3.1,0.01
+Cadjehoun,Calavi,13,Semaine,Ensoleillé,Voiture,11.27,1.59,23.9,0.01
+Akpakpa,Zongo,15,Semaine,Ensoleillé,Voiture,3.38,1.32,5.9,0.01
+Calavi,Fidjrosse,3,Semaine,Pluie Légère,Zem,9.53,1.25,25.6,0.04
+Zongo,Fidjrosse,0,Semaine,Ensoleillé,Voiture,6.66,1.28,11.4,0.01
+Calavi,Cadjehoun,12,Semaine,Ensoleillé,Zem,11.27,1.3,25.1,0.04
+Akpakpa,Cadjehoun,3,Semaine,Ensoleillé,Voiture,6.19,1.51,12.5,0.01
+Calavi,Zongo,19,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Akpakpa,Cadjehoun,5,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Calavi,Akpakpa,2,Semaine,Ensoleillé,Voiture,14.46,1.14,22.0,0.01
+Zongo,Calavi,12,Weekend,Pluie Légère,Voiture,12.45,1.0,20.7,0.01
+Cadjehoun,Etoile,15,Semaine,Pluie Légère,Voiture,4.18,1.26,8.8,0.01
+Calavi,Zongo,4,Semaine,Pluie Légère,Bus,12.45,1.58,49.3,0.005
+Calavi,Fidjrosse,20,Weekend,Forte Pluie,Zem,9.53,1.0,32.7,0.16
+Akpakpa,Etoile,7,Semaine,Pluie Légère,Zem,2.12,2.48,11.2,0.04
+Akpakpa,Fidjrosse,18,Semaine,Pluie Légère,Zem,10.0,3.54,75.8,0.04
+Calavi,Akpakpa,13,Weekend,Ensoleillé,Bus,14.46,1.0,28.9,0.005
+Fidjrosse,Etoile,6,Semaine,Pluie Légère,Bus,7.91,1.28,25.3,0.005
+Akpakpa,Fidjrosse,5,Semaine,Pluie Légère,Zem,10.0,1.39,29.8,0.04
+Akpakpa,Cadjehoun,15,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Cadjehoun,Fidjrosse,16,Semaine,Pluie Légère,Zem,3.92,1.15,9.7,0.04
+Akpakpa,Fidjrosse,22,Semaine,Ensoleillé,Zem,10.0,1.25,21.5,0.04
+Cadjehoun,Akpakpa,6,Semaine,Forte Pluie,Bus,6.19,1.35,33.4,0.01
+Akpakpa,Fidjrosse,13,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Fidjrosse,Etoile,14,Semaine,Pluie Légère,Zem,7.91,1.22,20.6,0.04
+Etoile,Cadjehoun,11,Semaine,Pluie Légère,Zem,4.18,1.37,12.3,0.04
+Akpakpa,Calavi,16,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Cadjehoun,Akpakpa,8,Semaine,Forte Pluie,Voiture,6.19,2.6,42.8,0.02
+Fidjrosse,Cadjehoun,21,Semaine,Pluie Légère,Zem,3.92,1.43,12.0,0.04
+Calavi,Fidjrosse,14,Semaine,Pluie Légère,Zem,9.53,1.55,31.7,0.04
+Cadjehoun,Zongo,11,Weekend,Pluie Légère,Voiture,2.81,1.0,4.7,0.01
+Cadjehoun,Zongo,1,Semaine,Ensoleillé,Zem,2.81,1.14,5.5,0.04
+Fidjrosse,Etoile,4,Semaine,Pluie Légère,Voiture,7.91,1.21,15.9,0.01
+Cadjehoun,Zongo,12,Semaine,Ensoleillé,Zem,2.81,1.52,7.3,0.04
+Fidjrosse,Akpakpa,19,Semaine,Ensoleillé,Zem,10.0,3.34,57.2,0.04
+Akpakpa,Zongo,22,Semaine,Pluie Légère,Voiture,3.38,1.14,6.4,0.01
+Fidjrosse,Etoile,7,Semaine,Ensoleillé,Voiture,7.91,3.08,32.4,0.01
+Fidjrosse,Calavi,13,Semaine,Forte Pluie,Voiture,9.53,1.2,30.6,0.02
+Etoile,Fidjrosse,14,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Fidjrosse,Zongo,0,Semaine,Ensoleillé,Zem,6.66,1.2,13.7,0.04
+Calavi,Cadjehoun,20,Semaine,Ensoleillé,Voiture,11.27,1.57,23.6,0.01
+Akpakpa,Fidjrosse,2,Semaine,Ensoleillé,Voiture,10.0,1.48,19.7,0.01
+Etoile,Calavi,16,Semaine,Ensoleillé,Zem,12.72,1.45,31.6,0.04
+Calavi,Zongo,18,Semaine,Ensoleillé,Voiture,12.45,2.63,43.7,0.01
+Zongo,Etoile,13,Semaine,Ensoleillé,Voiture,1.45,1.16,2.2,0.01
+Akpakpa,Calavi,21,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Akpakpa,Zongo,22,Semaine,Pluie Légère,Voiture,3.38,1.54,8.6,0.01
+Zongo,Calavi,7,Semaine,Ensoleillé,Zem,12.45,2.21,47.2,0.04
+Calavi,Etoile,19,Semaine,Pluie Légère,Bus,12.72,2.9,92.2,0.005
+Cadjehoun,Zongo,2,Semaine,Ensoleillé,Zem,2.81,1.24,6.0,0.04
+Etoile,Akpakpa,4,Semaine,Forte Pluie,Zem,2.12,1.39,10.1,0.16
+Cadjehoun,Etoile,8,Semaine,Pluie Légère,Voiture,4.18,2.65,18.5,0.01
+Zongo,Akpakpa,5,Weekend,Pluie Légère,Bus,3.38,1.0,8.4,0.005
+Akpakpa,Calavi,21,Semaine,Ensoleillé,Bus,14.46,1.26,36.3,0.005
+Akpakpa,Cadjehoun,1,Semaine,Pluie Légère,Voiture,6.19,1.53,15.7,0.01
+Akpakpa,Calavi,4,Semaine,Ensoleillé,Bus,14.46,1.4,40.5,0.005
+Etoile,Fidjrosse,22,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Calavi,Fidjrosse,0,Semaine,Pluie Légère,Voiture,9.53,1.17,18.6,0.01
+Calavi,Cadjehoun,19,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Zongo,Etoile,22,Semaine,Ensoleillé,Voiture,1.45,1.46,2.8,0.01
+Akpakpa,Etoile,10,Semaine,Pluie Légère,Voiture,2.12,1.2,4.3,0.01
+Akpakpa,Calavi,6,Semaine,Ensoleillé,Zem,14.46,1.32,32.6,0.04
+Zongo,Cadjehoun,14,Semaine,Ensoleillé,Zem,2.81,1.42,6.9,0.04
+Calavi,Etoile,21,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Fidjrosse,Calavi,23,Semaine,Ensoleillé,Zem,9.53,1.24,20.2,0.04
+Fidjrosse,Akpakpa,21,Semaine,Ensoleillé,Voiture,10.0,1.29,17.2,0.01
+Calavi,Fidjrosse,2,Weekend,Forte Pluie,Voiture,9.53,1.0,25.4,0.02
+Zongo,Fidjrosse,19,Semaine,Pluie Légère,Voiture,6.66,3.52,39.1,0.01
+Zongo,Fidjrosse,2,Semaine,Ensoleillé,Voiture,6.66,1.57,13.9,0.01
+Zongo,Cadjehoun,0,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Calavi,Akpakpa,20,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Cadjehoun,Zongo,0,Semaine,Ensoleillé,Zem,2.81,1.36,6.6,0.04
+Akpakpa,Calavi,16,Semaine,Ensoleillé,Zem,14.46,1.1,27.4,0.04
+Calavi,Fidjrosse,1,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Fidjrosse,Cadjehoun,19,Semaine,Ensoleillé,Zem,3.92,2.81,18.9,0.04
+Cadjehoun,Etoile,5,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Cadjehoun,Fidjrosse,7,Semaine,Ensoleillé,Voiture,3.92,2.92,15.3,0.01
+Calavi,Etoile,15,Semaine,Ensoleillé,Voiture,12.72,1.27,21.5,0.01
+Etoile,Zongo,18,Semaine,Ensoleillé,Voiture,1.45,2.99,5.8,0.01
+Akpakpa,Fidjrosse,0,Semaine,Ensoleillé,Zem,10.0,1.42,24.3,0.04
+Cadjehoun,Akpakpa,2,Semaine,Ensoleillé,Zem,6.19,1.16,12.3,0.04
+Calavi,Etoile,2,Semaine,Ensoleillé,Voiture,12.72,1.24,21.0,0.01
+Calavi,Zongo,4,Semaine,Ensoleillé,Zem,12.45,1.35,28.9,0.04
+Fidjrosse,Akpakpa,11,Semaine,Ensoleillé,Voiture,10.0,1.26,16.8,0.01
+Etoile,Akpakpa,11,Semaine,Ensoleillé,Zem,2.12,1.6,5.8,0.04
+Zongo,Akpakpa,12,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Cadjehoun,Calavi,8,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Cadjehoun,Fidjrosse,6,Semaine,Ensoleillé,Zem,3.92,1.32,8.9,0.04
+Calavi,Zongo,18,Semaine,Ensoleillé,Voiture,12.45,3.77,62.5,0.01
+Cadjehoun,Zongo,21,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Etoile,Calavi,18,Semaine,Ensoleillé,Zem,12.72,3.81,83.2,0.04
+Akpakpa,Zongo,5,Semaine,Pluie Légère,Zem,3.38,1.52,11.0,0.04
+Etoile,Cadjehoun,12,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Cadjehoun,Calavi,10,Semaine,Ensoleillé,Zem,11.27,1.12,21.7,0.04
+Akpakpa,Calavi,12,Semaine,Ensoleillé,Voiture,14.46,1.57,30.3,0.01
+Akpakpa,Fidjrosse,21,Semaine,Pluie Légère,Zem,10.0,1.16,25.0,0.04
+Fidjrosse,Calavi,14,Semaine,Ensoleillé,Bus,9.53,1.12,21.3,0.005
+Zongo,Cadjehoun,20,Semaine,Ensoleillé,Bus,2.81,1.31,7.3,0.005
+Calavi,Cadjehoun,12,Semaine,Ensoleillé,Zem,11.27,1.2,23.1,0.04
+Akpakpa,Calavi,21,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Fidjrosse,Etoile,18,Semaine,Ensoleillé,Zem,7.91,2.53,34.3,0.04
+Fidjrosse,Cadjehoun,7,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Etoile,Fidjrosse,7,Semaine,Ensoleillé,Voiture,7.91,2.72,28.7,0.01
+Cadjehoun,Calavi,9,Semaine,Ensoleillé,Voiture,11.27,2.65,39.8,0.01
+Fidjrosse,Akpakpa,15,Semaine,Pluie Légère,Voiture,10.0,1.44,24.0,0.01
+Calavi,Fidjrosse,22,Semaine,Ensoleillé,Voiture,9.53,1.19,15.2,0.01
+Etoile,Cadjehoun,12,Weekend,Pluie Légère,Voiture,4.18,1.0,7.0,0.01
+Etoile,Cadjehoun,8,Semaine,Ensoleillé,Zem,4.18,3.18,22.8,0.04
+Zongo,Akpakpa,19,Semaine,Forte Pluie,Voiture,3.38,3.98,35.8,0.02
+Zongo,Fidjrosse,18,Semaine,Ensoleillé,Voiture,6.66,2.98,26.5,0.01
+Calavi,Akpakpa,15,Semaine,Ensoleillé,Voiture,14.46,1.42,27.4,0.01
+Cadjehoun,Etoile,6,Semaine,Ensoleillé,Zem,4.18,1.58,11.4,0.04
+Cadjehoun,Akpakpa,18,Semaine,Ensoleillé,Voiture,6.19,2.45,20.2,0.01
+Akpakpa,Zongo,11,Weekend,Pluie Légère,Zem,3.38,1.0,7.2,0.04
+Zongo,Akpakpa,14,Semaine,Ensoleillé,Voiture,3.38,1.31,5.9,0.01
+Fidjrosse,Zongo,22,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Fidjrosse,Zongo,10,Semaine,Ensoleillé,Bus,6.66,1.53,20.3,0.005
+Zongo,Akpakpa,10,Semaine,Pluie Légère,Voiture,3.38,1.57,8.8,0.01
+Etoile,Akpakpa,5,Semaine,Ensoleillé,Zem,2.12,1.4,5.1,0.04
+Cadjehoun,Etoile,1,Semaine,Ensoleillé,Zem,4.18,1.17,8.4,0.04
+Cadjehoun,Fidjrosse,10,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Akpakpa,Cadjehoun,18,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Zongo,Akpakpa,5,Semaine,Ensoleillé,Bus,3.38,1.55,10.5,0.005
+Etoile,Cadjehoun,13,Semaine,Ensoleillé,Voiture,4.18,1.19,6.6,0.01
+Fidjrosse,Calavi,19,Semaine,Ensoleillé,Voiture,9.53,2.84,36.0,0.01
+Cadjehoun,Calavi,5,Semaine,Ensoleillé,Voiture,11.27,1.29,19.4,0.01
+Cadjehoun,Etoile,16,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Fidjrosse,Calavi,9,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Etoile,Calavi,0,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Etoile,Fidjrosse,2,Semaine,Ensoleillé,Zem,7.91,1.32,17.9,0.04
+Zongo,Fidjrosse,7,Semaine,Forte Pluie,Voiture,6.66,3.62,64.3,0.02
+Zongo,Fidjrosse,7,Semaine,Pluie Légère,Voiture,6.66,3.64,40.5,0.01
+Calavi,Etoile,21,Semaine,Ensoleillé,Zem,12.72,1.46,31.8,0.04
+Akpakpa,Zongo,14,Semaine,Ensoleillé,Bus,3.38,1.11,7.5,0.005
+Cadjehoun,Zongo,23,Semaine,Ensoleillé,Zem,2.81,1.38,6.7,0.04
+Zongo,Cadjehoun,6,Weekend,Forte Pluie,Voiture,2.81,1.0,7.5,0.02
+Etoile,Zongo,10,Semaine,Ensoleillé,Zem,1.45,1.47,3.7,0.04
+Fidjrosse,Zongo,6,Semaine,Forte Pluie,Zem,6.66,1.32,30.2,0.16
+Etoile,Fidjrosse,3,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Cadjehoun,Fidjrosse,11,Weekend,Pluie Légère,Bus,3.92,1.0,9.8,0.005
+Etoile,Cadjehoun,13,Semaine,Ensoleillé,Zem,4.18,1.57,11.3,0.04
+Calavi,Cadjehoun,18,Semaine,Pluie Légère,Zem,11.27,3.68,88.9,0.04
+Fidjrosse,Etoile,20,Semaine,Pluie Légère,Voiture,7.91,1.42,18.7,0.01
+Akpakpa,Etoile,13,Weekend,Pluie Légère,Zem,2.12,1.0,4.5,0.04
+Fidjrosse,Cadjehoun,23,Semaine,Ensoleillé,Zem,3.92,1.13,7.6,0.04
+Akpakpa,Cadjehoun,15,Semaine,Pluie Légère,Zem,6.19,1.43,18.9,0.04
+Calavi,Zongo,12,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Akpakpa,Etoile,21,Semaine,Pluie Légère,Voiture,2.12,1.56,5.5,0.01
+Zongo,Fidjrosse,19,Semaine,Ensoleillé,Zem,6.66,2.88,32.9,0.04
+Akpakpa,Calavi,21,Semaine,Forte Pluie,Zem,14.46,1.52,75.3,0.16
+Akpakpa,Calavi,3,Semaine,Ensoleillé,Zem,14.46,1.26,31.1,0.04
+Calavi,Fidjrosse,10,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Fidjrosse,Zongo,6,Weekend,Forte Pluie,Voiture,6.66,1.0,17.8,0.02
+Calavi,Zongo,13,Semaine,Ensoleillé,Voiture,12.45,1.39,23.0,0.01
+Etoile,Akpakpa,10,Semaine,Pluie Légère,Zem,2.12,1.42,6.5,0.04
+Cadjehoun,Akpakpa,21,Semaine,Forte Pluie,Zem,6.19,1.44,30.5,0.16
+Cadjehoun,Akpakpa,8,Semaine,Forte Pluie,Zem,6.19,3.79,80.4,0.16
+Zongo,Calavi,22,Semaine,Forte Pluie,Zem,12.45,1.22,52.0,0.16
+Cadjehoun,Zongo,22,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Calavi,Zongo,14,Semaine,Ensoleillé,Zem,12.45,1.23,26.3,0.04
+Cadjehoun,Fidjrosse,21,Weekend,Ensoleillé,Bus,3.92,1.0,7.8,0.005
+Zongo,Akpakpa,18,Semaine,Ensoleillé,Zem,3.38,3.47,20.1,0.04
+Cadjehoun,Akpakpa,0,Semaine,Ensoleillé,Voiture,6.19,1.19,9.8,0.01
+Etoile,Calavi,3,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Akpakpa,Cadjehoun,16,Semaine,Ensoleillé,Zem,6.19,1.33,14.1,0.04
+Zongo,Etoile,2,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Akpakpa,Calavi,15,Semaine,Forte Pluie,Zem,14.46,1.11,55.0,0.16
+Calavi,Etoile,13,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Cadjehoun,Etoile,19,Semaine,Ensoleillé,Voiture,4.18,2.45,13.7,0.01
+Etoile,Cadjehoun,12,Semaine,Ensoleillé,Bus,4.18,1.44,12.0,0.005
+Zongo,Calavi,14,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Calavi,Etoile,23,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Zongo,Calavi,18,Semaine,Ensoleillé,Voiture,12.45,3.55,58.9,0.01
+Fidjrosse,Etoile,5,Semaine,Pluie Légère,Voiture,7.91,1.16,15.3,0.01
+Akpakpa,Zongo,9,Semaine,Pluie Légère,Zem,3.38,2.61,18.9,0.04
+Fidjrosse,Calavi,20,Semaine,Ensoleillé,Voiture,9.53,1.15,14.6,0.01
+Cadjehoun,Etoile,21,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Etoile,Zongo,19,Semaine,Ensoleillé,Voiture,1.45,2.98,5.8,0.01
+Zongo,Fidjrosse,5,Semaine,Ensoleillé,Zem,6.66,1.16,13.3,0.04
+Akpakpa,Cadjehoun,22,Semaine,Pluie Légère,Voiture,6.19,1.32,13.6,0.01
+Zongo,Etoile,9,Semaine,Ensoleillé,Voiture,1.45,3.52,6.8,0.01
+Cadjehoun,Calavi,6,Semaine,Pluie Légère,Zem,11.27,1.44,34.8,0.04
+Zongo,Cadjehoun,21,Weekend,Ensoleillé,Voiture,2.81,1.0,3.7,0.01
+Akpakpa,Cadjehoun,16,Weekend,Forte Pluie,Voiture,6.19,1.0,16.5,0.02
+Zongo,Fidjrosse,16,Weekend,Pluie Légère,Zem,6.66,1.0,14.3,0.04
+Etoile,Akpakpa,8,Semaine,Ensoleillé,Zem,2.12,2.7,9.8,0.04
+Calavi,Etoile,9,Weekend,Pluie Légère,Voiture,12.72,1.0,21.2,0.01
+Cadjehoun,Akpakpa,9,Semaine,Pluie Légère,Zem,6.19,3.41,45.2,0.04
+Calavi,Akpakpa,6,Semaine,Pluie Légère,Zem,14.46,1.56,48.4,0.04
+Cadjehoun,Akpakpa,15,Semaine,Ensoleillé,Voiture,6.19,1.27,10.5,0.01
+Etoile,Cadjehoun,17,Semaine,Pluie Légère,Zem,4.18,2.79,25.0,0.04
+Calavi,Zongo,5,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Fidjrosse,Cadjehoun,19,Semaine,Ensoleillé,Voiture,3.92,3.23,16.9,0.01
+Akpakpa,Cadjehoun,0,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Fidjrosse,Calavi,0,Semaine,Ensoleillé,Zem,9.53,1.22,20.0,0.04
+Zongo,Calavi,11,Semaine,Ensoleillé,Zem,12.45,1.43,30.4,0.04
+Etoile,Akpakpa,20,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Fidjrosse,Cadjehoun,1,Semaine,Pluie Légère,Voiture,3.92,1.52,9.9,0.01
+Cadjehoun,Akpakpa,3,Semaine,Ensoleillé,Zem,6.19,1.33,14.1,0.04
+Zongo,Calavi,16,Semaine,Ensoleillé,Bus,12.45,1.44,35.8,0.005
+Fidjrosse,Etoile,10,Semaine,Pluie Légère,Voiture,7.91,1.43,18.8,0.01
+Fidjrosse,Akpakpa,21,Semaine,Ensoleillé,Zem,10.0,1.12,19.2,0.04
+Etoile,Zongo,3,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Akpakpa,Etoile,0,Weekend,Ensoleillé,Bus,2.12,1.0,4.2,0.005
+Fidjrosse,Akpakpa,17,Weekend,Forte Pluie,Zem,10.0,1.0,34.3,0.16
+Calavi,Akpakpa,8,Semaine,Ensoleillé,Zem,14.46,2.53,62.7,0.04
+Cadjehoun,Fidjrosse,2,Semaine,Ensoleillé,Bus,3.92,1.55,12.1,0.005
+Calavi,Fidjrosse,7,Semaine,Pluie Légère,Voiture,9.53,3.89,61.8,0.01
+Calavi,Akpakpa,23,Semaine,Ensoleillé,Voiture,14.46,1.49,28.7,0.01
+Zongo,Fidjrosse,18,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Akpakpa,Cadjehoun,3,Semaine,Pluie Légère,Zem,6.19,1.56,20.7,0.04
+Cadjehoun,Etoile,17,Semaine,Forte Pluie,Voiture,4.18,2.75,30.7,0.02
+Fidjrosse,Cadjehoun,13,Semaine,Ensoleillé,Zem,3.92,1.22,8.2,0.04
+Etoile,Zongo,15,Semaine,Pluie Légère,Voiture,1.45,1.29,3.1,0.01
+Fidjrosse,Etoile,4,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Zongo,Fidjrosse,16,Semaine,Ensoleillé,Zem,6.66,1.13,12.9,0.04
+Fidjrosse,Zongo,6,Semaine,Ensoleillé,Voiture,6.66,1.5,13.4,0.01
+Cadjehoun,Akpakpa,15,Weekend,Pluie Légère,Zem,6.19,1.0,13.3,0.04
+Akpakpa,Cadjehoun,13,Semaine,Ensoleillé,Voiture,6.19,1.59,13.1,0.01
+Cadjehoun,Zongo,6,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Zongo,Akpakpa,8,Semaine,Forte Pluie,Zem,3.38,3.68,42.6,0.16
+Akpakpa,Etoile,3,Weekend,Pluie Légère,Bus,2.12,1.0,5.3,0.005
+Akpakpa,Fidjrosse,21,Weekend,Pluie Légère,Voiture,10.0,1.0,16.7,0.01
+Akpakpa,Cadjehoun,1,Semaine,Ensoleillé,Voiture,6.19,1.38,11.4,0.01
+Akpakpa,Zongo,11,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Cadjehoun,Zongo,17,Semaine,Pluie Légère,Zem,2.81,2.73,16.4,0.04
+Akpakpa,Zongo,20,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Fidjrosse,Akpakpa,6,Semaine,Ensoleillé,Voiture,10.0,1.2,16.0,0.01
+Fidjrosse,Etoile,0,Semaine,Ensoleillé,Zem,7.91,1.28,17.4,0.04
+Cadjehoun,Fidjrosse,22,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Zongo,Akpakpa,12,Semaine,Pluie Légère,Bus,3.38,1.43,12.1,0.005
+Etoile,Akpakpa,5,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Fidjrosse,Calavi,11,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Calavi,Akpakpa,7,Semaine,Pluie Légère,Zem,14.46,3.0,93.1,0.04
+Calavi,Zongo,23,Semaine,Pluie Légère,Zem,12.45,1.57,41.8,0.04
+Cadjehoun,Etoile,21,Semaine,Ensoleillé,Zem,4.18,1.53,10.9,0.04
+Etoile,Fidjrosse,18,Weekend,Pluie Légère,Voiture,7.91,1.0,13.2,0.01
+Zongo,Etoile,17,Semaine,Pluie Légère,Voiture,1.45,2.38,5.8,0.01
+Etoile,Zongo,4,Semaine,Pluie Légère,Zem,1.45,1.17,3.6,0.04
+Fidjrosse,Cadjehoun,9,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Fidjrosse,Akpakpa,0,Semaine,Ensoleillé,Bus,10.0,1.44,28.8,0.005
+Akpakpa,Zongo,9,Semaine,Ensoleillé,Voiture,3.38,2.62,11.8,0.01
+Zongo,Calavi,4,Semaine,Pluie Légère,Voiture,12.45,1.5,31.0,0.01
+Akpakpa,Etoile,11,Weekend,Pluie Légère,Bus,2.12,1.0,5.3,0.005
+Cadjehoun,Akpakpa,21,Semaine,Ensoleillé,Voiture,6.19,1.4,11.5,0.01
+Akpakpa,Fidjrosse,6,Semaine,Pluie Légère,Zem,10.0,1.21,26.0,0.04
+Akpakpa,Cadjehoun,8,Semaine,Ensoleillé,Zem,6.19,3.06,32.5,0.04
+Etoile,Calavi,21,Weekend,Forte Pluie,Bus,12.72,1.0,50.9,0.01
+Calavi,Fidjrosse,20,Semaine,Pluie Légère,Zem,9.53,1.3,26.6,0.04
+Fidjrosse,Etoile,11,Semaine,Ensoleillé,Zem,7.91,1.54,20.8,0.04
+Zongo,Akpakpa,22,Semaine,Ensoleillé,Zem,3.38,1.12,6.5,0.04
+Akpakpa,Etoile,0,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Zongo,Akpakpa,10,Semaine,Ensoleillé,Bus,3.38,1.55,10.5,0.005
+Calavi,Zongo,20,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Calavi,Cadjehoun,14,Weekend,Pluie Légère,Voiture,11.27,1.0,18.8,0.01
+Akpakpa,Zongo,1,Semaine,Pluie Légère,Voiture,3.38,1.43,8.0,0.01
+Cadjehoun,Zongo,19,Semaine,Ensoleillé,Zem,2.81,3.53,17.0,0.04
+Akpakpa,Etoile,6,Semaine,Ensoleillé,Zem,2.12,1.1,4.0,0.04
+Etoile,Cadjehoun,20,Semaine,Ensoleillé,Bus,4.18,1.41,11.8,0.005
+Fidjrosse,Akpakpa,11,Semaine,Ensoleillé,Zem,10.0,1.39,23.9,0.04
+Cadjehoun,Akpakpa,21,Semaine,Ensoleillé,Voiture,6.19,1.37,11.3,0.01
+Akpakpa,Calavi,17,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Zongo,Fidjrosse,2,Semaine,Forte Pluie,Zem,6.66,1.49,34.1,0.16
+Cadjehoun,Calavi,6,Weekend,Ensoleillé,Bus,11.27,1.0,22.5,0.005
+Cadjehoun,Calavi,10,Semaine,Pluie Légère,Zem,11.27,1.38,33.3,0.04
+Cadjehoun,Etoile,11,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Calavi,Zongo,4,Weekend,Pluie Légère,Voiture,12.45,1.0,20.7,0.01
+Cadjehoun,Zongo,0,Semaine,Ensoleillé,Voiture,2.81,1.53,5.7,0.01
+Calavi,Cadjehoun,11,Semaine,Ensoleillé,Bus,11.27,1.22,27.4,0.005
+Zongo,Akpakpa,10,Weekend,Pluie Légère,Zem,3.38,1.0,7.2,0.04
+Akpakpa,Etoile,3,Semaine,Pluie Légère,Voiture,2.12,1.5,5.3,0.01
+Fidjrosse,Cadjehoun,17,Semaine,Ensoleillé,Voiture,3.92,2.52,13.2,0.01
+Cadjehoun,Fidjrosse,3,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Fidjrosse,Etoile,16,Semaine,Ensoleillé,Voiture,7.91,1.51,15.9,0.01
+Zongo,Calavi,1,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Cadjehoun,Etoile,23,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Calavi,Etoile,21,Weekend,Pluie Légère,Zem,12.72,1.0,27.3,0.04
+Etoile,Zongo,1,Semaine,Ensoleillé,Voiture,1.45,1.57,3.0,0.01
+Fidjrosse,Etoile,11,Semaine,Ensoleillé,Bus,7.91,1.27,20.1,0.005
+Cadjehoun,Calavi,5,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Fidjrosse,Calavi,9,Semaine,Ensoleillé,Zem,9.53,3.15,51.5,0.04
+Cadjehoun,Akpakpa,22,Semaine,Ensoleillé,Zem,6.19,1.43,15.2,0.04
+Akpakpa,Etoile,20,Semaine,Ensoleillé,Voiture,2.12,1.14,3.2,0.01
+Calavi,Zongo,22,Semaine,Ensoleillé,Zem,12.45,1.35,28.7,0.04
+Fidjrosse,Etoile,15,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Etoile,Fidjrosse,13,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Etoile,Fidjrosse,6,Semaine,Ensoleillé,Voiture,7.91,1.28,13.5,0.01
+Cadjehoun,Akpakpa,22,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Fidjrosse,Akpakpa,16,Semaine,Forte Pluie,Zem,10.0,1.54,52.7,0.16
+Zongo,Calavi,8,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Fidjrosse,Calavi,12,Semaine,Ensoleillé,Zem,9.53,1.54,25.1,0.04
+Etoile,Zongo,4,Semaine,Ensoleillé,Zem,1.45,1.45,3.6,0.04
+Akpakpa,Etoile,22,Weekend,Pluie Légère,Zem,2.12,1.0,4.5,0.04
+Etoile,Zongo,4,Semaine,Ensoleillé,Voiture,1.45,1.43,2.8,0.01
+Zongo,Cadjehoun,9,Semaine,Ensoleillé,Zem,2.81,3.52,17.0,0.04
+Akpakpa,Zongo,9,Weekend,Forte Pluie,Voiture,3.38,1.0,9.0,0.02
+Cadjehoun,Calavi,14,Semaine,Ensoleillé,Voiture,11.27,1.28,19.3,0.01
+Akpakpa,Cadjehoun,6,Semaine,Ensoleillé,Voiture,6.19,1.3,10.7,0.01
+Zongo,Calavi,14,Semaine,Pluie Légère,Zem,12.45,1.38,36.7,0.04
+Cadjehoun,Akpakpa,2,Semaine,Forte Pluie,Voiture,6.19,1.57,25.9,0.02
+Cadjehoun,Akpakpa,5,Semaine,Ensoleillé,Zem,6.19,1.46,15.5,0.04
+Cadjehoun,Fidjrosse,11,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Fidjrosse,Akpakpa,5,Semaine,Pluie Légère,Zem,10.0,1.38,29.5,0.04
+Zongo,Etoile,12,Semaine,Pluie Légère,Zem,1.45,1.49,4.6,0.04
+Zongo,Calavi,18,Semaine,Pluie Légère,Zem,12.45,2.87,76.5,0.04
+Cadjehoun,Etoile,2,Semaine,Ensoleillé,Zem,4.18,1.47,10.5,0.04
+Fidjrosse,Zongo,7,Weekend,Pluie Légère,Zem,6.66,1.0,14.3,0.04
+Calavi,Akpakpa,22,Semaine,Forte Pluie,Zem,14.46,1.31,64.7,0.16
+Zongo,Cadjehoun,14,Weekend,Pluie Légère,Voiture,2.81,1.0,4.7,0.01
+Calavi,Etoile,3,Semaine,Ensoleillé,Voiture,12.72,1.24,21.0,0.01
+Akpakpa,Cadjehoun,18,Semaine,Ensoleillé,Voiture,6.19,3.3,27.2,0.01
+Zongo,Calavi,20,Semaine,Ensoleillé,Zem,12.45,1.44,30.8,0.04
+Calavi,Akpakpa,2,Semaine,Pluie Légère,Zem,14.46,1.33,41.2,0.04
+Zongo,Etoile,12,Weekend,Pluie Légère,Bus,1.45,1.0,3.6,0.005
+Akpakpa,Cadjehoun,12,Weekend,Forte Pluie,Zem,6.19,1.0,21.2,0.16
+Cadjehoun,Etoile,2,Semaine,Pluie Légère,Zem,4.18,1.38,12.4,0.04
+Calavi,Fidjrosse,15,Semaine,Pluie Légère,Voiture,9.53,1.45,23.0,0.01
+Akpakpa,Calavi,8,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Etoile,Zongo,13,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Zongo,Cadjehoun,12,Semaine,Ensoleillé,Voiture,2.81,1.48,5.6,0.01
+Akpakpa,Fidjrosse,20,Semaine,Pluie Légère,Voiture,10.0,1.55,25.8,0.01
+Fidjrosse,Cadjehoun,6,Semaine,Pluie Légère,Voiture,3.92,1.28,8.4,0.01
+Calavi,Zongo,8,Semaine,Ensoleillé,Bus,12.45,3.91,97.4,0.005
+Cadjehoun,Akpakpa,21,Semaine,Ensoleillé,Zem,6.19,1.42,15.0,0.04
+Etoile,Akpakpa,23,Semaine,Pluie Légère,Zem,2.12,1.49,6.8,0.04
+Calavi,Etoile,4,Semaine,Ensoleillé,Voiture,12.72,1.45,24.6,0.01
+Zongo,Akpakpa,11,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Akpakpa,Calavi,0,Semaine,Forte Pluie,Zem,14.46,1.2,59.6,0.16
+Akpakpa,Etoile,9,Weekend,Pluie Légère,Voiture,2.12,1.0,3.5,0.01
+Zongo,Fidjrosse,10,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Calavi,Zongo,15,Semaine,Pluie Légère,Bus,12.45,1.14,35.3,0.005
+Akpakpa,Etoile,13,Semaine,Ensoleillé,Zem,2.12,1.46,5.3,0.04
+Akpakpa,Zongo,7,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Akpakpa,Etoile,23,Semaine,Ensoleillé,Zem,2.12,1.36,4.9,0.04
+Etoile,Fidjrosse,16,Semaine,Ensoleillé,Voiture,7.91,1.45,15.3,0.01
+Etoile,Akpakpa,17,Semaine,Ensoleillé,Voiture,2.12,3.06,8.6,0.01
+Cadjehoun,Akpakpa,16,Weekend,Pluie Légère,Bus,6.19,1.0,15.5,0.005
+Zongo,Akpakpa,13,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Zongo,Calavi,13,Semaine,Ensoleillé,Voiture,12.45,1.26,20.9,0.01
+Calavi,Fidjrosse,22,Semaine,Ensoleillé,Voiture,9.53,1.24,15.8,0.01
+Calavi,Zongo,10,Semaine,Ensoleillé,Zem,12.45,1.47,31.3,0.04
+Fidjrosse,Akpakpa,5,Semaine,Pluie Légère,Zem,10.0,1.24,26.5,0.04
+Calavi,Zongo,14,Semaine,Ensoleillé,Bus,12.45,1.46,36.3,0.005
+Zongo,Cadjehoun,4,Semaine,Ensoleillé,Zem,2.81,1.29,6.2,0.04
+Akpakpa,Etoile,17,Semaine,Ensoleillé,Voiture,2.12,3.59,10.1,0.01
+Etoile,Zongo,12,Semaine,Ensoleillé,Zem,1.45,1.17,2.9,0.04
+Fidjrosse,Etoile,13,Semaine,Ensoleillé,Zem,7.91,1.2,16.3,0.04
+Etoile,Cadjehoun,17,Weekend,Pluie Légère,Voiture,4.18,1.0,7.0,0.01
+Zongo,Etoile,18,Weekend,Forte Pluie,Voiture,1.45,1.0,3.9,0.02
+Calavi,Cadjehoun,23,Weekend,Pluie Légère,Voiture,11.27,1.0,18.8,0.01
+Zongo,Akpakpa,14,Semaine,Pluie Légère,Zem,3.38,1.44,10.4,0.04
+Fidjrosse,Zongo,8,Semaine,Ensoleillé,Zem,6.66,3.21,36.6,0.04
+Zongo,Etoile,7,Semaine,Pluie Légère,Zem,1.45,2.57,8.0,0.04
+Calavi,Cadjehoun,19,Weekend,Forte Pluie,Zem,11.27,1.0,38.6,0.16
+Cadjehoun,Fidjrosse,0,Semaine,Ensoleillé,Voiture,3.92,1.55,8.1,0.01
+Fidjrosse,Etoile,3,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Cadjehoun,Calavi,13,Semaine,Pluie Légère,Zem,11.27,1.24,29.9,0.04
+Cadjehoun,Akpakpa,15,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Akpakpa,Fidjrosse,2,Semaine,Ensoleillé,Zem,10.0,1.31,22.5,0.04
+Akpakpa,Cadjehoun,7,Semaine,Pluie Légère,Voiture,6.19,2.56,26.4,0.01
+Cadjehoun,Etoile,5,Semaine,Ensoleillé,Voiture,4.18,1.29,7.2,0.01
+Fidjrosse,Cadjehoun,15,Semaine,Pluie Légère,Voiture,3.92,1.35,8.8,0.01
+Calavi,Akpakpa,23,Semaine,Ensoleillé,Voiture,14.46,1.25,24.1,0.01
+Zongo,Cadjehoun,15,Semaine,Forte Pluie,Zem,2.81,1.48,14.3,0.16
+Zongo,Akpakpa,6,Semaine,Ensoleillé,Voiture,3.38,1.3,5.8,0.01
+Calavi,Cadjehoun,12,Semaine,Ensoleillé,Voiture,11.27,1.46,22.0,0.01
+Akpakpa,Fidjrosse,12,Semaine,Ensoleillé,Voiture,10.0,1.2,16.0,0.01
+Akpakpa,Zongo,4,Semaine,Ensoleillé,Voiture,3.38,1.29,5.8,0.01
+Etoile,Fidjrosse,21,Semaine,Ensoleillé,Zem,7.91,1.1,15.0,0.04
+Cadjehoun,Zongo,17,Weekend,Ensoleillé,Voiture,2.81,1.0,3.7,0.01
+Akpakpa,Zongo,14,Semaine,Ensoleillé,Voiture,3.38,1.48,6.7,0.01
+Zongo,Etoile,17,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Fidjrosse,Etoile,1,Semaine,Pluie Légère,Zem,7.91,1.41,23.9,0.04
+Cadjehoun,Fidjrosse,9,Semaine,Ensoleillé,Zem,3.92,3.67,24.7,0.04
+Cadjehoun,Akpakpa,12,Semaine,Pluie Légère,Bus,6.19,1.33,20.5,0.005
+Cadjehoun,Akpakpa,17,Semaine,Pluie Légère,Voiture,6.19,3.64,37.5,0.01
+Calavi,Etoile,14,Semaine,Ensoleillé,Zem,12.72,1.42,31.0,0.04
+Akpakpa,Calavi,11,Semaine,Pluie Légère,Zem,14.46,1.1,34.1,0.04
+Fidjrosse,Calavi,14,Semaine,Ensoleillé,Zem,9.53,1.23,20.0,0.04
+Fidjrosse,Etoile,12,Semaine,Ensoleillé,Zem,7.91,1.35,18.3,0.04
+Calavi,Akpakpa,17,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Zongo,Akpakpa,14,Semaine,Ensoleillé,Zem,3.38,1.41,8.2,0.04
+Zongo,Calavi,22,Semaine,Ensoleillé,Voiture,12.45,1.13,18.8,0.01
+Akpakpa,Cadjehoun,10,Weekend,Forte Pluie,Voiture,6.19,1.0,16.5,0.02
+Akpakpa,Cadjehoun,18,Semaine,Ensoleillé,Bus,6.19,3.47,42.9,0.005
+Etoile,Akpakpa,2,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Calavi,Cadjehoun,6,Semaine,Ensoleillé,Zem,11.27,1.37,26.5,0.04
+Cadjehoun,Etoile,13,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Fidjrosse,Etoile,13,Semaine,Ensoleillé,Bus,7.91,1.36,21.6,0.005
+Fidjrosse,Calavi,11,Semaine,Ensoleillé,Voiture,9.53,1.25,15.8,0.01
+Etoile,Akpakpa,23,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Zongo,Cadjehoun,8,Semaine,Pluie Légère,Bus,2.81,3.27,23.0,0.005
+Akpakpa,Calavi,0,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Akpakpa,Cadjehoun,10,Semaine,Ensoleillé,Zem,6.19,1.11,11.8,0.04
+Cadjehoun,Zongo,22,Semaine,Ensoleillé,Zem,2.81,1.13,5.5,0.04
+Etoile,Cadjehoun,21,Weekend,Forte Pluie,Voiture,4.18,1.0,11.1,0.02
+Cadjehoun,Zongo,22,Semaine,Ensoleillé,Zem,2.81,1.47,7.1,0.04
+Akpakpa,Calavi,23,Semaine,Ensoleillé,Zem,14.46,1.26,31.3,0.04
+Akpakpa,Zongo,21,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Zongo,Calavi,18,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Fidjrosse,Calavi,17,Semaine,Ensoleillé,Voiture,9.53,2.82,35.9,0.01
+Fidjrosse,Calavi,11,Semaine,Pluie Légère,Zem,9.53,1.2,24.6,0.04
+Cadjehoun,Calavi,22,Semaine,Ensoleillé,Voiture,11.27,1.32,19.9,0.01
+Etoile,Calavi,0,Semaine,Forte Pluie,Zem,12.72,1.13,49.1,0.16
+Calavi,Cadjehoun,18,Semaine,Ensoleillé,Voiture,11.27,2.74,41.2,0.01
+Fidjrosse,Calavi,19,Semaine,Ensoleillé,Zem,9.53,3.15,51.4,0.04
+Zongo,Cadjehoun,16,Semaine,Forte Pluie,Zem,2.81,1.33,12.8,0.16
+Cadjehoun,Calavi,4,Weekend,Pluie Légère,Voiture,11.27,1.0,18.8,0.01
+Cadjehoun,Zongo,2,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Zongo,Fidjrosse,2,Semaine,Pluie Légère,Voiture,6.66,1.6,17.8,0.01
+Etoile,Calavi,7,Semaine,Ensoleillé,Voiture,12.72,2.9,49.2,0.01
+Zongo,Calavi,15,Semaine,Ensoleillé,Zem,12.45,1.29,27.6,0.04
+Etoile,Zongo,5,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Zongo,Etoile,12,Semaine,Ensoleillé,Zem,1.45,1.35,3.4,0.04
+Akpakpa,Fidjrosse,21,Semaine,Ensoleillé,Bus,10.0,1.2,23.9,0.005
+Cadjehoun,Etoile,21,Semaine,Ensoleillé,Voiture,4.18,1.54,8.6,0.01
+Zongo,Akpakpa,15,Semaine,Pluie Légère,Zem,3.38,1.39,10.0,0.04
+Calavi,Akpakpa,15,Semaine,Ensoleillé,Bus,14.46,1.2,34.6,0.005
+Zongo,Fidjrosse,2,Semaine,Pluie Légère,Voiture,6.66,1.5,16.6,0.01
+Fidjrosse,Zongo,12,Semaine,Ensoleillé,Voiture,6.66,1.12,9.9,0.01
+Cadjehoun,Etoile,11,Semaine,Pluie Légère,Voiture,4.18,1.59,11.1,0.01
+Fidjrosse,Etoile,22,Semaine,Forte Pluie,Zem,7.91,1.53,41.6,0.16
+Zongo,Calavi,22,Semaine,Ensoleillé,Zem,12.45,1.39,29.7,0.04
+Zongo,Akpakpa,21,Semaine,Ensoleillé,Zem,3.38,1.16,6.7,0.04
+Akpakpa,Etoile,20,Semaine,Ensoleillé,Zem,2.12,1.21,4.4,0.04
+Calavi,Fidjrosse,7,Semaine,Pluie Légère,Voiture,9.53,2.7,42.9,0.01
+Fidjrosse,Etoile,20,Semaine,Ensoleillé,Voiture,7.91,1.22,12.9,0.01
+Etoile,Fidjrosse,8,Semaine,Pluie Légère,Zem,7.91,3.1,52.5,0.04
+Akpakpa,Cadjehoun,0,Semaine,Ensoleillé,Zem,6.19,1.57,16.7,0.04
+Fidjrosse,Calavi,5,Semaine,Ensoleillé,Voiture,9.53,1.32,16.8,0.01
+Fidjrosse,Akpakpa,22,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Akpakpa,Etoile,18,Semaine,Ensoleillé,Voiture,2.12,3.39,9.6,0.01
+Zongo,Fidjrosse,22,Semaine,Pluie Légère,Voiture,6.66,1.44,16.0,0.01
+Fidjrosse,Zongo,10,Semaine,Pluie Légère,Zem,6.66,1.54,21.9,0.04
+Zongo,Akpakpa,10,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Akpakpa,Cadjehoun,22,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Zongo,Fidjrosse,12,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Cadjehoun,Calavi,10,Semaine,Pluie Légère,Zem,11.27,1.12,27.0,0.04
+Etoile,Calavi,17,Semaine,Ensoleillé,Bus,12.72,2.93,74.5,0.005
+Fidjrosse,Cadjehoun,22,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Calavi,Cadjehoun,14,Semaine,Ensoleillé,Voiture,11.27,1.49,22.4,0.01
+Etoile,Calavi,0,Semaine,Ensoleillé,Voiture,12.72,1.51,25.6,0.01
+Zongo,Etoile,20,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Fidjrosse,Etoile,6,Semaine,Ensoleillé,Zem,7.91,1.56,21.2,0.04
+Zongo,Fidjrosse,22,Semaine,Ensoleillé,Zem,6.66,1.45,16.6,0.04
+Cadjehoun,Zongo,12,Semaine,Pluie Légère,Zem,2.81,1.22,7.4,0.04
+Akpakpa,Fidjrosse,11,Semaine,Ensoleillé,Voiture,10.0,1.35,18.0,0.01
+Fidjrosse,Zongo,17,Semaine,Ensoleillé,Bus,6.66,2.26,30.1,0.005
+Cadjehoun,Akpakpa,18,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Zongo,Fidjrosse,7,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Calavi,Zongo,18,Semaine,Ensoleillé,Bus,12.45,3.36,83.8,0.005
+Etoile,Cadjehoun,6,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Cadjehoun,Zongo,17,Weekend,Pluie Légère,Voiture,2.81,1.0,4.7,0.01
+Calavi,Cadjehoun,15,Semaine,Ensoleillé,Zem,11.27,1.38,26.6,0.04
+Zongo,Calavi,19,Weekend,Ensoleillé,Bus,12.45,1.0,24.9,0.005
+Zongo,Etoile,5,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Etoile,Calavi,8,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Cadjehoun,Akpakpa,20,Semaine,Ensoleillé,Voiture,6.19,1.43,11.8,0.01
+Zongo,Fidjrosse,12,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Calavi,Akpakpa,20,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Akpakpa,Etoile,15,Semaine,Ensoleillé,Zem,2.12,1.57,5.7,0.04
+Akpakpa,Cadjehoun,12,Semaine,Pluie Légère,Zem,6.19,1.44,19.1,0.04
+Akpakpa,Calavi,12,Semaine,Pluie Légère,Voiture,14.46,1.26,30.4,0.01
+Cadjehoun,Zongo,16,Semaine,Ensoleillé,Voiture,2.81,1.2,4.5,0.01
+Etoile,Calavi,22,Weekend,Pluie Légère,Bus,12.72,1.0,31.8,0.005
+Zongo,Etoile,19,Semaine,Pluie Légère,Voiture,1.45,3.74,9.0,0.01
+Fidjrosse,Akpakpa,4,Semaine,Ensoleillé,Zem,10.0,1.2,20.5,0.04
+Calavi,Zongo,21,Weekend,Forte Pluie,Zem,12.45,1.0,42.7,0.16
+Fidjrosse,Cadjehoun,20,Semaine,Ensoleillé,Bus,3.92,1.18,9.3,0.005
+Calavi,Etoile,16,Semaine,Ensoleillé,Voiture,12.72,1.2,20.4,0.01
+Cadjehoun,Zongo,8,Semaine,Pluie Légère,Zem,2.81,3.12,18.8,0.04
+Akpakpa,Etoile,1,Semaine,Ensoleillé,Voiture,2.12,1.16,3.3,0.01
+Cadjehoun,Etoile,17,Semaine,Ensoleillé,Voiture,4.18,3.89,21.7,0.01
+Etoile,Cadjehoun,8,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Etoile,Fidjrosse,5,Semaine,Pluie Légère,Zem,7.91,1.58,26.8,0.04
+Calavi,Zongo,10,Semaine,Pluie Légère,Voiture,12.45,1.59,32.9,0.01
+Zongo,Cadjehoun,5,Semaine,Ensoleillé,Voiture,2.81,1.12,4.2,0.01
+Zongo,Etoile,5,Semaine,Forte Pluie,Voiture,1.45,1.57,6.1,0.02
+Calavi,Cadjehoun,12,Semaine,Ensoleillé,Bus,11.27,1.6,36.0,0.005
+Etoile,Fidjrosse,10,Semaine,Ensoleillé,Voiture,7.91,1.57,16.6,0.01
+Etoile,Calavi,13,Semaine,Pluie Légère,Voiture,12.72,1.44,30.4,0.01
+Etoile,Zongo,1,Weekend,Pluie Légère,Bus,1.45,1.0,3.6,0.005
+Cadjehoun,Fidjrosse,7,Semaine,Ensoleillé,Zem,3.92,3.46,23.3,0.04
+Etoile,Akpakpa,2,Semaine,Ensoleillé,Zem,2.12,1.16,4.2,0.04
+Fidjrosse,Zongo,22,Weekend,Pluie Légère,Voiture,6.66,1.0,11.1,0.01
+Akpakpa,Fidjrosse,20,Semaine,Forte Pluie,Zem,10.0,1.54,52.7,0.16
+Calavi,Zongo,0,Semaine,Ensoleillé,Zem,12.45,1.13,24.1,0.04
+Akpakpa,Zongo,23,Semaine,Forte Pluie,Zem,3.38,1.26,14.6,0.16
+Calavi,Etoile,17,Semaine,Ensoleillé,Zem,12.72,3.98,86.9,0.04
+Cadjehoun,Fidjrosse,23,Semaine,Forte Pluie,Voiture,3.92,1.31,13.7,0.02
+Fidjrosse,Cadjehoun,12,Semaine,Pluie Légère,Zem,3.92,1.17,9.8,0.04
+Cadjehoun,Fidjrosse,2,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Cadjehoun,Akpakpa,0,Weekend,Pluie Légère,Voiture,6.19,1.0,10.3,0.01
+Calavi,Akpakpa,3,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Etoile,Akpakpa,16,Semaine,Pluie Légère,Zem,2.12,1.58,7.2,0.04
+Etoile,Fidjrosse,10,Semaine,Forte Pluie,Voiture,7.91,1.59,33.6,0.02
+Fidjrosse,Etoile,1,Semaine,Ensoleillé,Voiture,7.91,1.19,12.6,0.01
+Fidjrosse,Etoile,15,Semaine,Ensoleillé,Voiture,7.91,1.53,16.2,0.01
+Etoile,Zongo,1,Semaine,Ensoleillé,Voiture,1.45,1.3,2.5,0.01
+Zongo,Calavi,18,Semaine,Pluie Légère,Zem,12.45,2.89,77.0,0.04
+Etoile,Fidjrosse,22,Semaine,Pluie Légère,Voiture,7.91,1.23,16.2,0.01
+Zongo,Fidjrosse,18,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Fidjrosse,Akpakpa,15,Semaine,Ensoleillé,Voiture,10.0,1.12,15.0,0.01
+Akpakpa,Fidjrosse,21,Semaine,Ensoleillé,Bus,10.0,1.23,24.7,0.005
+Calavi,Cadjehoun,18,Semaine,Ensoleillé,Voiture,11.27,2.3,34.5,0.01
+Fidjrosse,Calavi,8,Semaine,Pluie Légère,Zem,9.53,3.86,78.9,0.04
+Fidjrosse,Akpakpa,0,Semaine,Ensoleillé,Zem,10.0,1.43,24.5,0.04
+Cadjehoun,Zongo,18,Semaine,Ensoleillé,Voiture,2.81,3.8,14.2,0.01
+Cadjehoun,Etoile,0,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Calavi,Zongo,1,Weekend,Pluie Légère,Voiture,12.45,1.0,20.7,0.01
+Cadjehoun,Etoile,15,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Etoile,Fidjrosse,7,Semaine,Ensoleillé,Voiture,7.91,3.49,36.8,0.01
+Akpakpa,Cadjehoun,22,Semaine,Ensoleillé,Bus,6.19,1.17,14.4,0.005
+Fidjrosse,Etoile,17,Semaine,Ensoleillé,Zem,7.91,3.89,52.8,0.04
+Zongo,Akpakpa,1,Semaine,Pluie Légère,Voiture,3.38,1.55,8.7,0.01
+Akpakpa,Cadjehoun,12,Semaine,Ensoleillé,Zem,6.19,1.27,13.5,0.04
+Zongo,Akpakpa,5,Weekend,Forte Pluie,Voiture,3.38,1.0,9.0,0.02
+Zongo,Cadjehoun,20,Semaine,Pluie Légère,Voiture,2.81,1.16,5.4,0.01
+Fidjrosse,Cadjehoun,5,Semaine,Ensoleillé,Zem,3.92,1.45,9.8,0.04
+Etoile,Zongo,8,Semaine,Pluie Légère,Zem,1.45,3.51,10.9,0.04
+Cadjehoun,Etoile,15,Weekend,Forte Pluie,Voiture,4.18,1.0,11.1,0.02
+Calavi,Etoile,10,Semaine,Ensoleillé,Voiture,12.72,1.55,26.3,0.01
+Etoile,Cadjehoun,6,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Calavi,Fidjrosse,9,Weekend,Pluie Légère,Zem,9.53,1.0,20.4,0.04
+Fidjrosse,Akpakpa,19,Weekend,Forte Pluie,Bus,10.0,1.0,40.0,0.01
+Fidjrosse,Akpakpa,17,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Akpakpa,Zongo,23,Semaine,Ensoleillé,Voiture,3.38,1.13,5.1,0.01
+Calavi,Cadjehoun,19,Semaine,Forte Pluie,Zem,11.27,2.46,94.9,0.16
+Etoile,Akpakpa,8,Semaine,Pluie Légère,Zem,2.12,3.28,14.9,0.04
+Etoile,Akpakpa,14,Semaine,Ensoleillé,Zem,2.12,1.41,5.1,0.04
+Zongo,Calavi,3,Weekend,Forte Pluie,Voiture,12.45,1.0,33.2,0.02
+Zongo,Cadjehoun,7,Semaine,Ensoleillé,Zem,2.81,2.26,10.9,0.04
+Fidjrosse,Akpakpa,12,Semaine,Forte Pluie,Zem,10.0,1.3,44.5,0.16
+Etoile,Zongo,8,Semaine,Ensoleillé,Bus,1.45,3.25,9.4,0.005
+Calavi,Etoile,3,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Fidjrosse,Zongo,16,Semaine,Ensoleillé,Voiture,6.66,1.47,13.0,0.01
+Akpakpa,Fidjrosse,15,Semaine,Pluie Légère,Voiture,10.0,1.26,21.0,0.01
+Zongo,Fidjrosse,14,Semaine,Ensoleillé,Voiture,6.66,1.34,11.9,0.01
+Fidjrosse,Zongo,2,Semaine,Ensoleillé,Voiture,6.66,1.51,13.4,0.01
+Akpakpa,Etoile,4,Semaine,Ensoleillé,Zem,2.12,1.58,5.7,0.04
+Etoile,Fidjrosse,4,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Calavi,Fidjrosse,19,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Cadjehoun,Zongo,14,Semaine,Ensoleillé,Voiture,2.81,1.22,4.6,0.01
+Zongo,Etoile,17,Semaine,Ensoleillé,Zem,1.45,2.66,6.6,0.04
+Fidjrosse,Cadjehoun,14,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Akpakpa,Zongo,1,Semaine,Pluie Légère,Zem,3.38,1.57,11.4,0.04
+Akpakpa,Zongo,12,Semaine,Ensoleillé,Bus,3.38,1.3,8.8,0.005
+Etoile,Calavi,3,Semaine,Ensoleillé,Bus,12.72,1.46,37.1,0.005
+Cadjehoun,Etoile,9,Weekend,Ensoleillé,Bus,4.18,1.0,8.4,0.005
+Etoile,Cadjehoun,12,Semaine,Ensoleillé,Zem,4.18,1.41,10.1,0.04
+Fidjrosse,Etoile,9,Semaine,Ensoleillé,Voiture,7.91,2.71,28.6,0.01
+Etoile,Cadjehoun,8,Semaine,Pluie Légère,Bus,4.18,3.38,35.3,0.005
+Calavi,Etoile,7,Semaine,Ensoleillé,Bus,12.72,3.38,86.0,0.005
+Akpakpa,Zongo,2,Semaine,Pluie Légère,Voiture,3.38,1.4,7.9,0.01
+Akpakpa,Zongo,15,Semaine,Ensoleillé,Zem,3.38,1.15,6.7,0.04
+Zongo,Akpakpa,13,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Zongo,Fidjrosse,8,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Fidjrosse,Calavi,20,Semaine,Pluie Légère,Zem,9.53,1.6,32.6,0.04
+Calavi,Etoile,10,Semaine,Ensoleillé,Voiture,12.72,1.3,22.0,0.01
+Cadjehoun,Calavi,2,Semaine,Ensoleillé,Voiture,11.27,1.42,21.3,0.01
+Etoile,Akpakpa,4,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Zongo,Etoile,12,Semaine,Ensoleillé,Voiture,1.45,1.54,3.0,0.01
+Etoile,Cadjehoun,3,Semaine,Ensoleillé,Bus,4.18,1.31,11.0,0.005
+Zongo,Fidjrosse,23,Weekend,Pluie Légère,Voiture,6.66,1.0,11.1,0.01
+Etoile,Zongo,12,Semaine,Pluie Légère,Voiture,1.45,1.49,3.6,0.01
+Cadjehoun,Akpakpa,11,Semaine,Ensoleillé,Voiture,6.19,1.59,13.1,0.01
+Etoile,Fidjrosse,9,Semaine,Ensoleillé,Voiture,7.91,2.85,30.0,0.01
+Calavi,Zongo,23,Semaine,Pluie Légère,Zem,12.45,1.3,34.8,0.04
+Akpakpa,Etoile,8,Weekend,Pluie Légère,Zem,2.12,1.0,4.5,0.04
+Calavi,Cadjehoun,19,Semaine,Ensoleillé,Zem,11.27,3.83,74.0,0.04
+Calavi,Zongo,6,Semaine,Pluie Légère,Zem,12.45,1.18,31.5,0.04
+Akpakpa,Cadjehoun,1,Semaine,Ensoleillé,Zem,6.19,1.11,11.8,0.04
+Calavi,Etoile,21,Semaine,Ensoleillé,Zem,12.72,1.55,33.9,0.04
+Etoile,Fidjrosse,23,Semaine,Pluie Légère,Voiture,7.91,1.51,19.9,0.01
+Etoile,Cadjehoun,22,Semaine,Forte Pluie,Zem,4.18,1.59,22.7,0.16
+Etoile,Akpakpa,6,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Calavi,Zongo,6,Semaine,Ensoleillé,Voiture,12.45,1.13,18.7,0.01
+Akpakpa,Etoile,20,Semaine,Forte Pluie,Zem,2.12,1.18,8.6,0.16
+Etoile,Zongo,22,Semaine,Pluie Légère,Zem,1.45,1.15,3.6,0.04
+Calavi,Zongo,13,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Zongo,Calavi,22,Semaine,Pluie Légère,Bus,12.45,1.44,44.9,0.005
+Cadjehoun,Akpakpa,17,Weekend,Pluie Légère,Zem,6.19,1.0,13.3,0.04
+Fidjrosse,Akpakpa,19,Semaine,Ensoleillé,Voiture,10.0,3.29,43.9,0.01
+Zongo,Etoile,16,Semaine,Pluie Légère,Zem,1.45,1.28,4.0,0.04
+Cadjehoun,Calavi,12,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Cadjehoun,Zongo,12,Semaine,Ensoleillé,Zem,2.81,1.13,5.4,0.04
+Calavi,Akpakpa,6,Semaine,Pluie Légère,Zem,14.46,1.42,44.0,0.04
+Calavi,Cadjehoun,9,Semaine,Ensoleillé,Zem,11.27,3.23,62.3,0.04
+Fidjrosse,Calavi,22,Weekend,Ensoleillé,Voiture,9.53,1.0,12.7,0.01
+Akpakpa,Zongo,2,Semaine,Ensoleillé,Voiture,3.38,1.16,5.2,0.01
+Akpakpa,Etoile,2,Semaine,Ensoleillé,Voiture,2.12,1.55,4.4,0.01
+Etoile,Fidjrosse,17,Weekend,Pluie Légère,Voiture,7.91,1.0,13.2,0.01
+Calavi,Fidjrosse,10,Semaine,Ensoleillé,Zem,9.53,1.2,19.6,0.04
+Akpakpa,Calavi,21,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Fidjrosse,Etoile,19,Weekend,Ensoleillé,Bus,7.91,1.0,15.8,0.005
+Calavi,Etoile,4,Semaine,Ensoleillé,Bus,12.72,1.47,37.4,0.005
+Fidjrosse,Etoile,18,Semaine,Ensoleillé,Voiture,7.91,3.79,40.0,0.01
+Akpakpa,Calavi,21,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Akpakpa,Fidjrosse,18,Semaine,Ensoleillé,Zem,10.0,3.24,55.6,0.04
+Calavi,Zongo,23,Semaine,Ensoleillé,Voiture,12.45,1.22,20.3,0.01
+Calavi,Zongo,8,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Calavi,Cadjehoun,3,Semaine,Ensoleillé,Voiture,11.27,1.25,18.9,0.01
+Etoile,Cadjehoun,14,Semaine,Pluie Légère,Zem,4.18,1.54,13.8,0.04
+Etoile,Calavi,11,Weekend,Pluie Légère,Zem,12.72,1.0,27.3,0.04
+Akpakpa,Calavi,22,Semaine,Pluie Légère,Zem,14.46,1.25,38.7,0.04
+Cadjehoun,Zongo,2,Semaine,Ensoleillé,Voiture,2.81,1.47,5.5,0.01
+Cadjehoun,Akpakpa,22,Semaine,Pluie Légère,Zem,6.19,1.6,21.1,0.04
+Etoile,Fidjrosse,13,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Akpakpa,Fidjrosse,16,Weekend,Ensoleillé,Voiture,10.0,1.0,13.3,0.01
+Cadjehoun,Calavi,18,Semaine,Pluie Légère,Zem,11.27,4.0,96.6,0.04
+Akpakpa,Calavi,3,Weekend,Forte Pluie,Zem,14.46,1.0,49.6,0.16
+Akpakpa,Fidjrosse,6,Semaine,Ensoleillé,Voiture,10.0,1.37,18.2,0.01
+Zongo,Calavi,18,Semaine,Forte Pluie,Zem,12.45,3.69,157.4,0.16
+Calavi,Etoile,16,Semaine,Pluie Légère,Zem,12.72,1.6,43.5,0.04
+Akpakpa,Calavi,15,Semaine,Ensoleillé,Voiture,14.46,1.29,24.8,0.01
+Etoile,Calavi,21,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Cadjehoun,Zongo,7,Semaine,Forte Pluie,Voiture,2.81,2.65,19.9,0.02
+Calavi,Akpakpa,18,Semaine,Ensoleillé,Voiture,14.46,2.41,46.4,0.01
+Cadjehoun,Fidjrosse,7,Semaine,Pluie Légère,Voiture,3.92,2.45,16.0,0.01
+Calavi,Cadjehoun,17,Semaine,Forte Pluie,Zem,11.27,3.74,144.4,0.16
+Calavi,Fidjrosse,19,Semaine,Ensoleillé,Voiture,9.53,3.26,41.4,0.01
+Cadjehoun,Calavi,9,Semaine,Ensoleillé,Voiture,11.27,3.77,56.7,0.01
+Cadjehoun,Akpakpa,16,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Cadjehoun,Akpakpa,12,Semaine,Ensoleillé,Bus,6.19,1.49,18.5,0.005
+Etoile,Fidjrosse,12,Semaine,Ensoleillé,Zem,7.91,1.44,19.5,0.04
+Akpakpa,Cadjehoun,6,Semaine,Pluie Légère,Zem,6.19,1.4,18.6,0.04
+Fidjrosse,Calavi,9,Semaine,Ensoleillé,Zem,9.53,2.29,37.4,0.04
+Zongo,Akpakpa,1,Semaine,Forte Pluie,Voiture,3.38,1.54,13.8,0.02
+Fidjrosse,Akpakpa,3,Semaine,Ensoleillé,Zem,10.0,1.31,22.4,0.04
+Fidjrosse,Etoile,5,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Calavi,Etoile,23,Semaine,Ensoleillé,Zem,12.72,1.38,30.1,0.04
+Calavi,Fidjrosse,22,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Akpakpa,Zongo,5,Weekend,Pluie Légère,Zem,3.38,1.0,7.2,0.04
+Akpakpa,Zongo,22,Semaine,Pluie Légère,Voiture,3.38,1.11,6.3,0.01
+Cadjehoun,Calavi,16,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Etoile,Akpakpa,13,Semaine,Ensoleillé,Zem,2.12,1.57,5.7,0.04
+Cadjehoun,Akpakpa,23,Semaine,Ensoleillé,Voiture,6.19,1.55,12.8,0.01
+Etoile,Akpakpa,10,Weekend,Ensoleillé,Voiture,2.12,1.0,2.8,0.01
+Calavi,Fidjrosse,18,Semaine,Pluie Légère,Zem,9.53,3.18,64.9,0.04
+Calavi,Akpakpa,2,Semaine,Ensoleillé,Voiture,14.46,1.39,26.8,0.01
+Fidjrosse,Akpakpa,10,Semaine,Forte Pluie,Zem,10.0,1.45,49.8,0.16
+Fidjrosse,Cadjehoun,5,Semaine,Ensoleillé,Zem,3.92,1.23,8.3,0.04
+Etoile,Fidjrosse,13,Semaine,Pluie Légère,Zem,7.91,1.21,20.5,0.04
+Etoile,Calavi,18,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Calavi,Akpakpa,15,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Calavi,Zongo,21,Semaine,Ensoleillé,Voiture,12.45,1.44,23.9,0.01
+Cadjehoun,Calavi,23,Semaine,Pluie Légère,Voiture,11.27,1.15,21.6,0.01
+Fidjrosse,Akpakpa,6,Weekend,Pluie Légère,Zem,10.0,1.0,21.4,0.04
+Etoile,Cadjehoun,18,Semaine,Pluie Légère,Zem,4.18,3.02,27.0,0.04
+Cadjehoun,Fidjrosse,19,Semaine,Ensoleillé,Zem,3.92,3.09,20.8,0.04
+Calavi,Akpakpa,15,Semaine,Pluie Légère,Voiture,14.46,1.29,31.1,0.01
+Fidjrosse,Zongo,21,Semaine,Ensoleillé,Voiture,6.66,1.19,10.6,0.01
+Cadjehoun,Akpakpa,6,Semaine,Ensoleillé,Zem,6.19,1.28,13.5,0.04
+Calavi,Zongo,8,Weekend,Ensoleillé,Voiture,12.45,1.0,16.6,0.01
+Etoile,Calavi,12,Semaine,Ensoleillé,Zem,12.72,1.27,27.7,0.04
+Etoile,Calavi,0,Semaine,Pluie Légère,Zem,12.72,1.35,36.8,0.04
+Zongo,Etoile,7,Semaine,Ensoleillé,Zem,1.45,3.41,8.5,0.04
+Akpakpa,Etoile,23,Semaine,Ensoleillé,Voiture,2.12,1.58,4.5,0.01
+Cadjehoun,Akpakpa,2,Semaine,Pluie Légère,Zem,6.19,1.17,15.5,0.04
+Fidjrosse,Akpakpa,2,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Calavi,Etoile,21,Semaine,Ensoleillé,Voiture,12.72,1.54,26.1,0.01
+Etoile,Zongo,12,Semaine,Pluie Légère,Zem,1.45,1.24,3.9,0.04
+Zongo,Akpakpa,7,Semaine,Ensoleillé,Zem,3.38,3.26,18.9,0.04
+Zongo,Akpakpa,6,Weekend,Ensoleillé,Bus,3.38,1.0,6.8,0.005
+Zongo,Fidjrosse,0,Semaine,Ensoleillé,Voiture,6.66,1.37,12.2,0.01
+Fidjrosse,Cadjehoun,15,Weekend,Ensoleillé,Zem,3.92,1.0,6.7,0.04
+Cadjehoun,Etoile,6,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Calavi,Cadjehoun,11,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Cadjehoun,Akpakpa,22,Semaine,Pluie Légère,Voiture,6.19,1.38,14.2,0.01
+Calavi,Fidjrosse,10,Semaine,Pluie Légère,Zem,9.53,1.46,29.8,0.04
+Zongo,Etoile,9,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Akpakpa,Fidjrosse,20,Semaine,Ensoleillé,Bus,10.0,1.29,25.8,0.005
+Fidjrosse,Calavi,0,Semaine,Ensoleillé,Bus,9.53,1.26,24.0,0.005
+Fidjrosse,Cadjehoun,17,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Etoile,Akpakpa,3,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Cadjehoun,Calavi,4,Semaine,Pluie Légère,Voiture,11.27,1.53,28.7,0.01
+Fidjrosse,Cadjehoun,8,Semaine,Ensoleillé,Voiture,3.92,2.6,13.6,0.01
+Fidjrosse,Zongo,16,Semaine,Forte Pluie,Voiture,6.66,1.19,21.1,0.02
+Zongo,Etoile,2,Semaine,Forte Pluie,Voiture,1.45,1.11,4.3,0.02
+Zongo,Fidjrosse,15,Semaine,Ensoleillé,Zem,6.66,1.21,13.8,0.04
+Calavi,Zongo,4,Semaine,Forte Pluie,Zem,12.45,1.36,58.0,0.16
+Akpakpa,Fidjrosse,15,Semaine,Ensoleillé,Zem,10.0,1.37,23.5,0.04
+Etoile,Calavi,2,Weekend,Ensoleillé,Bus,12.72,1.0,25.4,0.005
+Calavi,Akpakpa,14,Semaine,Ensoleillé,Voiture,14.46,1.23,23.7,0.01
+Zongo,Akpakpa,2,Semaine,Ensoleillé,Zem,3.38,1.14,6.6,0.04
+Cadjehoun,Fidjrosse,19,Semaine,Forte Pluie,Bus,3.92,3.54,55.6,0.01
+Etoile,Akpakpa,15,Semaine,Ensoleillé,Zem,2.12,1.48,5.4,0.04
+Etoile,Fidjrosse,23,Semaine,Ensoleillé,Zem,7.91,1.6,21.7,0.04
+Etoile,Calavi,19,Semaine,Ensoleillé,Zem,12.72,3.82,83.3,0.04
+Etoile,Zongo,22,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Etoile,Fidjrosse,17,Weekend,Ensoleillé,Bus,7.91,1.0,15.8,0.005
+Etoile,Fidjrosse,21,Semaine,Ensoleillé,Zem,7.91,1.56,21.2,0.04
+Cadjehoun,Etoile,13,Weekend,Ensoleillé,Voiture,4.18,1.0,5.6,0.01
+Akpakpa,Fidjrosse,17,Semaine,Forte Pluie,Voiture,10.0,3.64,97.0,0.02
+Akpakpa,Cadjehoun,14,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Etoile,Akpakpa,5,Semaine,Ensoleillé,Voiture,2.12,1.41,4.0,0.01
+Cadjehoun,Etoile,14,Semaine,Ensoleillé,Voiture,4.18,1.16,6.5,0.01
+Zongo,Etoile,17,Weekend,Forte Pluie,Zem,1.45,1.0,5.0,0.16
+Cadjehoun,Etoile,3,Semaine,Ensoleillé,Zem,4.18,1.41,10.1,0.04
+Etoile,Cadjehoun,22,Semaine,Ensoleillé,Voiture,4.18,1.13,6.3,0.01
+Cadjehoun,Calavi,7,Semaine,Pluie Légère,Zem,11.27,3.79,91.6,0.04
+Cadjehoun,Fidjrosse,14,Weekend,Forte Pluie,Bus,3.92,1.0,15.7,0.01
+Etoile,Akpakpa,2,Semaine,Ensoleillé,Zem,2.12,1.34,4.9,0.04
+Calavi,Zongo,14,Semaine,Ensoleillé,Bus,12.45,1.45,36.1,0.005
+Cadjehoun,Calavi,12,Semaine,Ensoleillé,Zem,11.27,1.13,21.8,0.04
+Fidjrosse,Cadjehoun,1,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Cadjehoun,Fidjrosse,23,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Calavi,Fidjrosse,7,Semaine,Pluie Légère,Voiture,9.53,3.16,50.2,0.01
+Zongo,Cadjehoun,19,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Fidjrosse,Etoile,12,Semaine,Ensoleillé,Voiture,7.91,1.25,13.2,0.01
+Zongo,Akpakpa,0,Semaine,Ensoleillé,Zem,3.38,1.24,7.2,0.04
+Cadjehoun,Akpakpa,1,Semaine,Pluie Légère,Voiture,6.19,1.29,13.4,0.01
+Zongo,Etoile,14,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Akpakpa,Calavi,11,Semaine,Ensoleillé,Voiture,14.46,1.1,21.2,0.01
+Fidjrosse,Zongo,13,Semaine,Ensoleillé,Voiture,6.66,1.33,11.8,0.01
+Cadjehoun,Fidjrosse,1,Weekend,Ensoleillé,Bus,3.92,1.0,7.8,0.005
+Etoile,Zongo,17,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Calavi,Fidjrosse,21,Semaine,Pluie Légère,Zem,9.53,1.34,27.4,0.04
+Cadjehoun,Etoile,6,Semaine,Ensoleillé,Zem,4.18,1.53,11.0,0.04
+Etoile,Akpakpa,22,Weekend,Pluie Légère,Voiture,2.12,1.0,3.5,0.01
+Calavi,Akpakpa,13,Semaine,Ensoleillé,Voiture,14.46,1.32,25.5,0.01
+Cadjehoun,Zongo,7,Semaine,Forte Pluie,Voiture,2.81,2.85,21.4,0.02
+Zongo,Akpakpa,21,Semaine,Ensoleillé,Voiture,3.38,1.6,7.2,0.01
+Zongo,Etoile,1,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Akpakpa,Calavi,13,Semaine,Pluie Légère,Zem,14.46,1.39,42.9,0.04
+Calavi,Fidjrosse,23,Semaine,Pluie Légère,Voiture,9.53,1.34,21.2,0.01
+Calavi,Akpakpa,19,Semaine,Pluie Légère,Zem,14.46,3.09,95.8,0.04
+Etoile,Calavi,20,Semaine,Ensoleillé,Zem,12.72,1.5,32.8,0.04
+Zongo,Cadjehoun,20,Semaine,Ensoleillé,Zem,2.81,1.27,6.1,0.04
+Calavi,Akpakpa,21,Semaine,Pluie Légère,Zem,14.46,1.29,40.1,0.04
+Akpakpa,Fidjrosse,2,Semaine,Pluie Légère,Zem,10.0,1.48,31.7,0.04
+Etoile,Calavi,4,Semaine,Ensoleillé,Voiture,12.72,1.14,19.3,0.01
+Cadjehoun,Zongo,15,Semaine,Ensoleillé,Zem,2.81,1.53,7.4,0.04
+Calavi,Fidjrosse,17,Semaine,Pluie Légère,Voiture,9.53,2.97,47.2,0.01
+Akpakpa,Cadjehoun,16,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Fidjrosse,Calavi,10,Semaine,Ensoleillé,Bus,9.53,1.39,26.5,0.005
+Akpakpa,Etoile,16,Semaine,Pluie Légère,Zem,2.12,1.48,6.7,0.04
+Etoile,Zongo,22,Weekend,Ensoleillé,Zem,1.45,1.0,2.5,0.04
+Cadjehoun,Etoile,1,Semaine,Pluie Légère,Zem,4.18,1.23,11.0,0.04
+Fidjrosse,Calavi,3,Weekend,Ensoleillé,Bus,9.53,1.0,19.1,0.005
+Zongo,Calavi,20,Semaine,Pluie Légère,Voiture,12.45,1.55,32.1,0.01
+Zongo,Fidjrosse,6,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Akpakpa,Calavi,1,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Etoile,Zongo,5,Semaine,Ensoleillé,Voiture,1.45,1.59,3.1,0.01
+Fidjrosse,Cadjehoun,4,Semaine,Ensoleillé,Voiture,3.92,1.35,7.0,0.01
+Fidjrosse,Akpakpa,19,Semaine,Ensoleillé,Zem,10.0,3.89,66.6,0.04
+Calavi,Akpakpa,15,Semaine,Ensoleillé,Voiture,14.46,1.1,21.2,0.01
+Calavi,Cadjehoun,18,Semaine,Ensoleillé,Zem,11.27,3.81,73.6,0.04
+Cadjehoun,Calavi,8,Semaine,Ensoleillé,Zem,11.27,2.76,53.3,0.04
+Etoile,Akpakpa,8,Weekend,Pluie Légère,Voiture,2.12,1.0,3.5,0.01
+Calavi,Cadjehoun,4,Semaine,Ensoleillé,Voiture,11.27,1.26,18.9,0.01
+Akpakpa,Calavi,9,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Akpakpa,Cadjehoun,1,Semaine,Pluie Légère,Zem,6.19,1.21,16.1,0.04
+Fidjrosse,Calavi,3,Semaine,Forte Pluie,Zem,9.53,1.26,41.1,0.16
+Etoile,Akpakpa,21,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Akpakpa,Zongo,21,Semaine,Ensoleillé,Voiture,3.38,1.21,5.4,0.01
+Akpakpa,Cadjehoun,21,Semaine,Ensoleillé,Zem,6.19,1.55,16.5,0.04
+Calavi,Cadjehoun,1,Weekend,Forte Pluie,Zem,11.27,1.0,38.6,0.16
+Etoile,Akpakpa,5,Weekend,Pluie Légère,Zem,2.12,1.0,4.5,0.04
+Zongo,Akpakpa,17,Semaine,Ensoleillé,Voiture,3.38,3.82,17.2,0.01
+Zongo,Etoile,6,Semaine,Pluie Légère,Zem,1.45,1.15,3.6,0.04
+Etoile,Fidjrosse,0,Semaine,Ensoleillé,Voiture,7.91,1.17,12.4,0.01
+Zongo,Fidjrosse,0,Semaine,Ensoleillé,Zem,6.66,1.53,17.5,0.04
+Akpakpa,Cadjehoun,0,Weekend,Ensoleillé,Bus,6.19,1.0,12.4,0.005
+Akpakpa,Cadjehoun,23,Weekend,Pluie Légère,Bus,6.19,1.0,15.5,0.005
+Etoile,Akpakpa,3,Semaine,Ensoleillé,Voiture,2.12,1.3,3.7,0.01
+Etoile,Fidjrosse,3,Semaine,Ensoleillé,Bus,7.91,1.18,18.7,0.005
+Calavi,Cadjehoun,17,Semaine,Ensoleillé,Voiture,11.27,3.12,46.9,0.01
+Fidjrosse,Cadjehoun,0,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Zongo,Calavi,9,Semaine,Pluie Légère,Zem,12.45,2.95,78.7,0.04
+Etoile,Calavi,8,Semaine,Ensoleillé,Voiture,12.72,2.59,44.0,0.01
+Calavi,Fidjrosse,3,Weekend,Forte Pluie,Voiture,9.53,1.0,25.4,0.02
+Cadjehoun,Fidjrosse,5,Semaine,Ensoleillé,Voiture,3.92,1.46,7.6,0.01
+Akpakpa,Zongo,15,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Zongo,Calavi,1,Semaine,Ensoleillé,Voiture,12.45,1.42,23.5,0.01
+Cadjehoun,Fidjrosse,17,Semaine,Ensoleillé,Zem,3.92,2.38,16.0,0.04
+Zongo,Akpakpa,9,Semaine,Ensoleillé,Voiture,3.38,3.87,17.4,0.01
+Akpakpa,Calavi,23,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Fidjrosse,Etoile,23,Semaine,Ensoleillé,Voiture,7.91,1.38,14.5,0.01
+Calavi,Etoile,16,Semaine,Ensoleillé,Voiture,12.72,1.23,20.8,0.01
+Zongo,Fidjrosse,12,Semaine,Forte Pluie,Zem,6.66,1.2,27.5,0.16
+Zongo,Etoile,23,Weekend,Forte Pluie,Voiture,1.45,1.0,3.9,0.02
+Zongo,Cadjehoun,21,Semaine,Pluie Légère,Zem,2.81,1.17,7.0,0.04
+Akpakpa,Calavi,12,Semaine,Ensoleillé,Zem,14.46,1.31,32.5,0.04
+Akpakpa,Zongo,16,Weekend,Forte Pluie,Voiture,3.38,1.0,9.0,0.02
+Fidjrosse,Cadjehoun,4,Semaine,Ensoleillé,Voiture,3.92,1.17,6.1,0.01
+Etoile,Fidjrosse,6,Semaine,Forte Pluie,Zem,7.91,1.31,35.5,0.16
+Cadjehoun,Calavi,9,Weekend,Pluie Légère,Voiture,11.27,1.0,18.8,0.01
+Etoile,Fidjrosse,16,Weekend,Pluie Légère,Voiture,7.91,1.0,13.2,0.01
+Zongo,Cadjehoun,14,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Cadjehoun,Akpakpa,17,Semaine,Ensoleillé,Voiture,6.19,2.47,20.4,0.01
+Fidjrosse,Akpakpa,22,Semaine,Pluie Légère,Zem,10.0,1.43,30.6,0.04
+Fidjrosse,Calavi,21,Semaine,Ensoleillé,Voiture,9.53,1.49,19.0,0.01
+Calavi,Akpakpa,18,Semaine,Ensoleillé,Zem,14.46,3.19,79.0,0.04
+Cadjehoun,Fidjrosse,1,Semaine,Ensoleillé,Zem,3.92,1.44,9.7,0.04
+Akpakpa,Etoile,3,Semaine,Ensoleillé,Zem,2.12,1.57,5.7,0.04
+Cadjehoun,Fidjrosse,2,Weekend,Pluie Légère,Bus,3.92,1.0,9.8,0.005
+Zongo,Etoile,6,Semaine,Forte Pluie,Voiture,1.45,1.42,5.5,0.02
+Akpakpa,Cadjehoun,23,Semaine,Ensoleillé,Voiture,6.19,1.28,10.6,0.01
+Fidjrosse,Zongo,17,Semaine,Ensoleillé,Voiture,6.66,3.01,26.7,0.01
+Cadjehoun,Etoile,9,Semaine,Ensoleillé,Zem,4.18,3.75,26.9,0.04
+Etoile,Akpakpa,6,Semaine,Forte Pluie,Bus,2.12,1.17,9.9,0.01
+Calavi,Fidjrosse,7,Semaine,Ensoleillé,Zem,9.53,2.79,45.5,0.04
+Etoile,Cadjehoun,5,Weekend,Pluie Légère,Voiture,4.18,1.0,7.0,0.01
+Calavi,Akpakpa,21,Semaine,Forte Pluie,Zem,14.46,1.39,68.8,0.16
+Zongo,Cadjehoun,0,Semaine,Ensoleillé,Zem,2.81,1.44,6.9,0.04
+Etoile,Zongo,3,Semaine,Forte Pluie,Voiture,1.45,1.48,5.7,0.02
+Cadjehoun,Fidjrosse,13,Weekend,Forte Pluie,Voiture,3.92,1.0,10.5,0.02
+Cadjehoun,Calavi,16,Semaine,Forte Pluie,Voiture,11.27,1.26,37.8,0.02
+Etoile,Fidjrosse,19,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Cadjehoun,Zongo,17,Semaine,Ensoleillé,Zem,2.81,2.46,11.9,0.04
+Zongo,Fidjrosse,10,Weekend,Pluie Légère,Bus,6.66,1.0,16.7,0.005
+Akpakpa,Calavi,20,Semaine,Ensoleillé,Zem,14.46,1.58,39.1,0.04
+Zongo,Etoile,13,Semaine,Pluie Légère,Voiture,1.45,1.14,2.7,0.01
+Calavi,Cadjehoun,8,Semaine,Ensoleillé,Voiture,11.27,2.37,35.7,0.01
+Zongo,Calavi,14,Semaine,Ensoleillé,Zem,12.45,1.35,28.8,0.04
+Calavi,Akpakpa,11,Semaine,Ensoleillé,Zem,14.46,1.51,37.4,0.04
+Cadjehoun,Zongo,9,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Akpakpa,Etoile,18,Semaine,Ensoleillé,Zem,2.12,3.59,13.1,0.04
+Cadjehoun,Akpakpa,23,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Fidjrosse,Akpakpa,18,Weekend,Ensoleillé,Zem,10.0,1.0,17.1,0.04
+Cadjehoun,Zongo,5,Semaine,Pluie Légère,Zem,2.81,1.57,9.4,0.04
+Calavi,Etoile,19,Weekend,Pluie Légère,Voiture,12.72,1.0,21.2,0.01
+Cadjehoun,Akpakpa,23,Semaine,Ensoleillé,Voiture,6.19,1.17,9.7,0.01
+Cadjehoun,Akpakpa,5,Semaine,Ensoleillé,Zem,6.19,1.29,13.7,0.04
+Akpakpa,Etoile,7,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Cadjehoun,Fidjrosse,0,Semaine,Ensoleillé,Zem,3.92,1.24,8.3,0.04
+Etoile,Cadjehoun,16,Semaine,Ensoleillé,Voiture,4.18,1.53,8.5,0.01
+Fidjrosse,Etoile,16,Semaine,Ensoleillé,Voiture,7.91,1.34,14.2,0.01
+Calavi,Zongo,14,Semaine,Ensoleillé,Voiture,12.45,1.11,18.5,0.01
+Etoile,Calavi,6,Semaine,Forte Pluie,Voiture,12.72,1.45,49.3,0.02
+Akpakpa,Cadjehoun,18,Semaine,Ensoleillé,Zem,6.19,2.9,30.8,0.04
+Akpakpa,Calavi,21,Semaine,Forte Pluie,Voiture,14.46,1.37,52.6,0.02
+Fidjrosse,Calavi,22,Semaine,Ensoleillé,Bus,9.53,1.55,29.5,0.005
+Calavi,Akpakpa,2,Semaine,Ensoleillé,Voiture,14.46,1.23,23.7,0.01
+Zongo,Cadjehoun,21,Semaine,Ensoleillé,Voiture,2.81,1.22,4.6,0.01
+Zongo,Cadjehoun,10,Semaine,Ensoleillé,Zem,2.81,1.23,5.9,0.04
+Akpakpa,Fidjrosse,19,Weekend,Ensoleillé,Bus,10.0,1.0,20.0,0.005
+Cadjehoun,Calavi,18,Semaine,Ensoleillé,Zem,11.27,2.81,54.3,0.04
+Calavi,Cadjehoun,8,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Etoile,Fidjrosse,9,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Cadjehoun,Etoile,1,Weekend,Pluie Légère,Bus,4.18,1.0,10.4,0.005
+Cadjehoun,Fidjrosse,0,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Calavi,Zongo,15,Semaine,Forte Pluie,Bus,12.45,1.15,57.5,0.01
+Akpakpa,Etoile,22,Semaine,Ensoleillé,Zem,2.12,1.45,5.3,0.04
+Akpakpa,Etoile,16,Semaine,Ensoleillé,Bus,2.12,1.2,5.1,0.005
+Akpakpa,Zongo,5,Weekend,Ensoleillé,Bus,3.38,1.0,6.8,0.005
+Zongo,Fidjrosse,13,Semaine,Ensoleillé,Voiture,6.66,1.56,13.9,0.01
+Zongo,Fidjrosse,14,Semaine,Pluie Légère,Voiture,6.66,1.21,13.4,0.01
+Zongo,Cadjehoun,13,Weekend,Forte Pluie,Bus,2.81,1.0,11.2,0.01
+Akpakpa,Fidjrosse,23,Semaine,Ensoleillé,Voiture,10.0,1.23,16.4,0.01
+Fidjrosse,Etoile,21,Semaine,Forte Pluie,Voiture,7.91,1.25,26.3,0.02
+Etoile,Akpakpa,2,Semaine,Forte Pluie,Bus,2.12,1.48,12.6,0.01
+Cadjehoun,Fidjrosse,23,Weekend,Pluie Légère,Voiture,3.92,1.0,6.5,0.01
+Zongo,Akpakpa,22,Semaine,Ensoleillé,Voiture,3.38,1.31,5.9,0.01
+Calavi,Akpakpa,18,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Calavi,Cadjehoun,11,Weekend,Ensoleillé,Zem,11.27,1.0,19.3,0.04
+Etoile,Cadjehoun,1,Weekend,Pluie Légère,Voiture,4.18,1.0,7.0,0.01
+Calavi,Etoile,2,Semaine,Ensoleillé,Voiture,12.72,1.51,25.6,0.01
+Fidjrosse,Zongo,17,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Calavi,Akpakpa,0,Weekend,Ensoleillé,Zem,14.46,1.0,24.8,0.04
+Cadjehoun,Zongo,19,Semaine,Ensoleillé,Zem,2.81,3.61,17.4,0.04
+Cadjehoun,Etoile,20,Semaine,Pluie Légère,Zem,4.18,1.56,14.0,0.04
+Zongo,Akpakpa,5,Semaine,Ensoleillé,Voiture,3.38,1.48,6.7,0.01
+Fidjrosse,Calavi,0,Semaine,Pluie Légère,Zem,9.53,1.13,23.0,0.04
+Akpakpa,Cadjehoun,20,Semaine,Pluie Légère,Zem,6.19,1.52,20.1,0.04
+Calavi,Fidjrosse,20,Weekend,Ensoleillé,Zem,9.53,1.0,16.3,0.04
+Calavi,Zongo,15,Semaine,Ensoleillé,Zem,12.45,1.57,33.5,0.04
+Akpakpa,Cadjehoun,11,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Zongo,Fidjrosse,21,Semaine,Ensoleillé,Zem,6.66,1.6,18.2,0.04
+Akpakpa,Calavi,7,Semaine,Ensoleillé,Zem,14.46,2.43,60.1,0.04
+Etoile,Cadjehoun,15,Semaine,Ensoleillé,Voiture,4.18,1.41,7.8,0.01
+Cadjehoun,Akpakpa,0,Semaine,Ensoleillé,Zem,6.19,1.2,12.7,0.04
+Zongo,Fidjrosse,3,Semaine,Ensoleillé,Zem,6.66,1.23,14.1,0.04
+Fidjrosse,Cadjehoun,9,Weekend,Pluie Légère,Zem,3.92,1.0,8.4,0.04
+Etoile,Calavi,10,Semaine,Ensoleillé,Zem,12.72,1.47,32.1,0.04
+Zongo,Cadjehoun,16,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Akpakpa,Cadjehoun,22,Semaine,Ensoleillé,Zem,6.19,1.59,16.8,0.04
+Akpakpa,Calavi,6,Semaine,Pluie Légère,Voiture,14.46,1.4,33.7,0.01
+Akpakpa,Fidjrosse,11,Semaine,Ensoleillé,Voiture,10.0,1.53,20.3,0.01
+Akpakpa,Etoile,20,Semaine,Pluie Légère,Voiture,2.12,1.1,3.9,0.01
+Etoile,Zongo,11,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Cadjehoun,Fidjrosse,1,Semaine,Ensoleillé,Zem,3.92,1.12,7.5,0.04
+Fidjrosse,Cadjehoun,13,Semaine,Ensoleillé,Voiture,3.92,1.4,7.3,0.01
+Fidjrosse,Calavi,12,Semaine,Pluie Légère,Zem,9.53,1.29,26.4,0.04
+Calavi,Akpakpa,3,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Calavi,Fidjrosse,13,Semaine,Ensoleillé,Voiture,9.53,1.54,19.6,0.01
+Cadjehoun,Calavi,13,Semaine,Pluie Légère,Zem,11.27,1.25,30.2,0.04
+Cadjehoun,Fidjrosse,15,Semaine,Pluie Légère,Voiture,3.92,1.32,8.6,0.01
+Akpakpa,Cadjehoun,18,Semaine,Pluie Légère,Voiture,6.19,3.15,32.5,0.01
+Fidjrosse,Akpakpa,1,Semaine,Pluie Légère,Voiture,10.0,1.24,20.6,0.01
+Zongo,Akpakpa,9,Weekend,Ensoleillé,Zem,3.38,1.0,5.8,0.04
+Cadjehoun,Zongo,17,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Cadjehoun,Calavi,16,Semaine,Ensoleillé,Zem,11.27,1.55,30.0,0.04
+Calavi,Fidjrosse,4,Semaine,Forte Pluie,Voiture,9.53,1.33,33.9,0.02
+Etoile,Akpakpa,11,Semaine,Ensoleillé,Zem,2.12,1.31,4.8,0.04
+Zongo,Akpakpa,5,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Zongo,Etoile,21,Weekend,Ensoleillé,Bus,1.45,1.0,2.9,0.005
+Cadjehoun,Etoile,8,Weekend,Pluie Légère,Zem,4.18,1.0,9.0,0.04
+Etoile,Calavi,0,Semaine,Ensoleillé,Voiture,12.72,1.52,25.9,0.01
+Cadjehoun,Akpakpa,14,Semaine,Pluie Légère,Zem,6.19,1.26,16.6,0.04
+Zongo,Cadjehoun,20,Semaine,Pluie Légère,Voiture,2.81,1.51,7.1,0.01
+Etoile,Fidjrosse,5,Weekend,Ensoleillé,Zem,7.91,1.0,13.6,0.04
+Etoile,Zongo,18,Semaine,Pluie Légère,Zem,1.45,2.42,7.5,0.04
+Fidjrosse,Cadjehoun,17,Semaine,Ensoleillé,Zem,3.92,2.53,17.0,0.04
+Calavi,Zongo,5,Semaine,Pluie Légère,Voiture,12.45,1.58,32.7,0.01
+Calavi,Cadjehoun,12,Semaine,Ensoleillé,Voiture,11.27,1.52,22.9,0.01
+Cadjehoun,Fidjrosse,0,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Etoile,Fidjrosse,22,Semaine,Pluie Légère,Zem,7.91,1.29,21.9,0.04
+Fidjrosse,Etoile,22,Semaine,Ensoleillé,Voiture,7.91,1.42,15.0,0.01
+Fidjrosse,Calavi,12,Semaine,Ensoleillé,Bus,9.53,1.57,29.9,0.005
+Zongo,Cadjehoun,6,Semaine,Pluie Légère,Zem,2.81,1.21,7.3,0.04
+Zongo,Etoile,14,Semaine,Ensoleillé,Zem,1.45,1.13,2.8,0.04
+Fidjrosse,Cadjehoun,11,Semaine,Ensoleillé,Voiture,3.92,1.37,7.2,0.01
+Zongo,Etoile,0,Semaine,Ensoleillé,Voiture,1.45,1.17,2.3,0.01
+Etoile,Fidjrosse,14,Weekend,Ensoleillé,Voiture,7.91,1.0,10.5,0.01
+Akpakpa,Zongo,3,Weekend,Ensoleillé,Bus,3.38,1.0,6.8,0.005
+Fidjrosse,Cadjehoun,22,Semaine,Forte Pluie,Zem,3.92,1.19,16.1,0.16
+Fidjrosse,Cadjehoun,4,Semaine,Ensoleillé,Voiture,3.92,1.55,8.1,0.01
+Etoile,Calavi,1,Weekend,Ensoleillé,Voiture,12.72,1.0,17.0,0.01
+Zongo,Fidjrosse,22,Semaine,Ensoleillé,Bus,6.66,1.1,14.7,0.005
+Zongo,Cadjehoun,0,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Calavi,Akpakpa,15,Weekend,Pluie Légère,Voiture,14.46,1.0,24.1,0.01
+Fidjrosse,Zongo,22,Weekend,Pluie Légère,Voiture,6.66,1.0,11.1,0.01
+Cadjehoun,Etoile,5,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Etoile,Fidjrosse,13,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Zongo,Calavi,2,Semaine,Ensoleillé,Voiture,12.45,1.51,25.0,0.01
+Calavi,Etoile,2,Semaine,Ensoleillé,Zem,12.72,1.36,29.6,0.04
+Fidjrosse,Akpakpa,22,Semaine,Pluie Légère,Bus,10.0,1.38,34.5,0.005
+Zongo,Fidjrosse,1,Weekend,Pluie Légère,Voiture,6.66,1.0,11.1,0.01
+Etoile,Calavi,0,Semaine,Forte Pluie,Zem,12.72,1.44,62.6,0.16
+Fidjrosse,Calavi,8,Semaine,Ensoleillé,Zem,9.53,2.98,48.6,0.04
+Etoile,Akpakpa,22,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Calavi,Akpakpa,6,Semaine,Pluie Légère,Zem,14.46,1.16,35.9,0.04
+Cadjehoun,Calavi,2,Semaine,Forte Pluie,Zem,11.27,1.15,44.5,0.16
+Cadjehoun,Calavi,17,Semaine,Ensoleillé,Zem,11.27,3.56,68.7,0.04
+Akpakpa,Zongo,10,Semaine,Ensoleillé,Zem,3.38,1.21,7.0,0.04
+Etoile,Zongo,8,Semaine,Ensoleillé,Voiture,1.45,2.25,4.3,0.01
+Cadjehoun,Akpakpa,0,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Akpakpa,Cadjehoun,13,Semaine,Ensoleillé,Zem,6.19,1.59,16.9,0.04
+Calavi,Etoile,19,Semaine,Ensoleillé,Voiture,12.72,3.96,67.2,0.01
+Fidjrosse,Zongo,5,Semaine,Ensoleillé,Zem,6.66,1.29,14.7,0.04
+Etoile,Cadjehoun,6,Semaine,Pluie Légère,Voiture,4.18,1.11,7.7,0.01
+Cadjehoun,Fidjrosse,9,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Akpakpa,Etoile,1,Semaine,Ensoleillé,Zem,2.12,1.46,5.3,0.04
+Cadjehoun,Fidjrosse,3,Semaine,Pluie Légère,Zem,3.92,1.52,12.7,0.04
+Zongo,Fidjrosse,20,Weekend,Pluie Légère,Zem,6.66,1.0,14.3,0.04
+Cadjehoun,Etoile,16,Semaine,Ensoleillé,Zem,4.18,1.16,8.3,0.04
+Etoile,Zongo,0,Semaine,Ensoleillé,Zem,1.45,1.17,2.9,0.04
+Etoile,Akpakpa,9,Semaine,Ensoleillé,Bus,2.12,3.68,15.6,0.005
+Calavi,Etoile,14,Semaine,Pluie Légère,Bus,12.72,1.56,49.6,0.005
+Calavi,Etoile,9,Semaine,Pluie Légère,Voiture,12.72,3.62,76.8,0.01
+Akpakpa,Fidjrosse,18,Semaine,Ensoleillé,Zem,10.0,2.56,43.9,0.04
+Etoile,Cadjehoun,11,Semaine,Forte Pluie,Voiture,4.18,1.31,14.5,0.02
+Zongo,Akpakpa,23,Weekend,Forte Pluie,Zem,3.38,1.0,11.6,0.16
+Cadjehoun,Zongo,15,Weekend,Pluie Légère,Zem,2.81,1.0,6.0,0.04
+Fidjrosse,Zongo,8,Semaine,Ensoleillé,Voiture,6.66,3.28,29.1,0.01
+Zongo,Cadjehoun,14,Semaine,Ensoleillé,Voiture,2.81,1.18,4.4,0.01
+Calavi,Etoile,16,Semaine,Ensoleillé,Voiture,12.72,1.21,20.4,0.01
+Calavi,Akpakpa,13,Semaine,Ensoleillé,Zem,14.46,1.24,30.8,0.04
+Etoile,Zongo,3,Semaine,Pluie Légère,Zem,1.45,1.35,4.2,0.04
+Akpakpa,Etoile,17,Semaine,Forte Pluie,Zem,2.12,3.12,22.7,0.16
+Cadjehoun,Calavi,6,Weekend,Ensoleillé,Voiture,11.27,1.0,15.0,0.01
+Akpakpa,Cadjehoun,12,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Cadjehoun,Akpakpa,14,Weekend,Pluie Légère,Zem,6.19,1.0,13.3,0.04
+Akpakpa,Cadjehoun,21,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Zongo,Akpakpa,0,Semaine,Forte Pluie,Bus,3.38,1.51,20.4,0.01
+Cadjehoun,Akpakpa,10,Semaine,Pluie Légère,Zem,6.19,1.48,19.6,0.04
+Akpakpa,Zongo,9,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Cadjehoun,Zongo,4,Semaine,Pluie Légère,Bus,2.81,1.56,10.9,0.005
+Fidjrosse,Akpakpa,15,Semaine,Pluie Légère,Voiture,10.0,1.52,25.3,0.01
+Zongo,Calavi,10,Semaine,Pluie Légère,Zem,12.45,1.23,32.7,0.04
+Etoile,Fidjrosse,20,Semaine,Pluie Légère,Voiture,7.91,1.27,16.7,0.01
+Cadjehoun,Zongo,5,Semaine,Ensoleillé,Zem,2.81,1.35,6.5,0.04
+Etoile,Calavi,12,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Etoile,Akpakpa,23,Semaine,Ensoleillé,Bus,2.12,1.11,4.7,0.005
+Cadjehoun,Calavi,7,Semaine,Forte Pluie,Bus,11.27,3.83,172.5,0.01
+Akpakpa,Zongo,13,Semaine,Ensoleillé,Zem,3.38,1.12,6.5,0.04
+Fidjrosse,Akpakpa,0,Weekend,Pluie Légère,Bus,10.0,1.0,25.0,0.005
+Cadjehoun,Fidjrosse,23,Semaine,Pluie Légère,Zem,3.92,1.26,10.6,0.04
+Akpakpa,Calavi,4,Semaine,Ensoleillé,Zem,14.46,1.38,34.3,0.04
+Cadjehoun,Akpakpa,1,Weekend,Ensoleillé,Voiture,6.19,1.0,8.2,0.01
+Zongo,Calavi,23,Weekend,Ensoleillé,Zem,12.45,1.0,21.3,0.04
+Fidjrosse,Zongo,3,Semaine,Ensoleillé,Zem,6.66,1.36,15.5,0.04
+Etoile,Zongo,16,Semaine,Ensoleillé,Zem,1.45,1.43,3.5,0.04
+Cadjehoun,Zongo,16,Semaine,Pluie Légère,Zem,2.81,1.36,8.2,0.04
+Akpakpa,Calavi,20,Semaine,Forte Pluie,Zem,14.46,1.21,60.2,0.16
+Zongo,Etoile,17,Weekend,Pluie Légère,Zem,1.45,1.0,3.1,0.04
+Akpakpa,Zongo,15,Semaine,Pluie Légère,Zem,3.38,1.2,8.7,0.04
+Calavi,Akpakpa,7,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Fidjrosse,Cadjehoun,20,Semaine,Ensoleillé,Voiture,3.92,1.55,8.1,0.01
+Etoile,Zongo,20,Semaine,Pluie Légère,Bus,1.45,1.23,4.5,0.005
+Fidjrosse,Calavi,17,Semaine,Ensoleillé,Voiture,9.53,2.71,34.4,0.01
+Cadjehoun,Etoile,22,Semaine,Pluie Légère,Bus,4.18,1.31,13.6,0.005
+Akpakpa,Cadjehoun,23,Semaine,Ensoleillé,Voiture,6.19,1.17,9.6,0.01
+Zongo,Calavi,12,Semaine,Ensoleillé,Bus,12.45,1.35,33.7,0.005
+Zongo,Calavi,16,Semaine,Ensoleillé,Voiture,12.45,1.43,23.8,0.01
+Cadjehoun,Calavi,19,Semaine,Ensoleillé,Zem,11.27,3.61,69.8,0.04
+Zongo,Cadjehoun,12,Weekend,Ensoleillé,Zem,2.81,1.0,4.8,0.04
+Cadjehoun,Fidjrosse,17,Weekend,Forte Pluie,Zem,3.92,1.0,13.5,0.16
+Fidjrosse,Calavi,16,Semaine,Ensoleillé,Voiture,9.53,1.46,18.5,0.01
+Calavi,Cadjehoun,13,Semaine,Ensoleillé,Zem,11.27,1.17,22.7,0.04
+Zongo,Etoile,16,Weekend,Ensoleillé,Voiture,1.45,1.0,1.9,0.01
+Akpakpa,Fidjrosse,3,Semaine,Ensoleillé,Voiture,10.0,1.33,17.7,0.01
+Akpakpa,Etoile,17,Semaine,Ensoleillé,Voiture,2.12,2.27,6.4,0.01
+Fidjrosse,Cadjehoun,19,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Etoile,Akpakpa,23,Semaine,Ensoleillé,Bus,2.12,1.11,4.7,0.005
+Calavi,Cadjehoun,23,Semaine,Forte Pluie,Zem,11.27,1.32,51.0,0.16
+Fidjrosse,Etoile,14,Semaine,Pluie Légère,Voiture,7.91,1.23,16.2,0.01
+Etoile,Fidjrosse,10,Semaine,Pluie Légère,Zem,7.91,1.44,24.4,0.04
+Cadjehoun,Calavi,11,Weekend,Pluie Légère,Zem,11.27,1.0,24.2,0.04
+Cadjehoun,Fidjrosse,12,Semaine,Ensoleillé,Voiture,3.92,1.46,7.7,0.01
+Zongo,Calavi,14,Semaine,Ensoleillé,Zem,12.45,1.55,33.0,0.04
+Zongo,Fidjrosse,22,Semaine,Ensoleillé,Voiture,6.66,1.48,13.1,0.01
+Akpakpa,Zongo,18,Semaine,Ensoleillé,Voiture,3.38,2.29,10.3,0.01
+Etoile,Akpakpa,19,Semaine,Ensoleillé,Zem,2.12,2.87,10.4,0.04
+Fidjrosse,Akpakpa,13,Semaine,Forte Pluie,Voiture,10.0,1.24,33.0,0.02
+Akpakpa,Calavi,16,Semaine,Ensoleillé,Zem,14.46,1.29,32.0,0.04
+Calavi,Fidjrosse,2,Semaine,Pluie Légère,Voiture,9.53,1.18,18.7,0.01
+Akpakpa,Cadjehoun,1,Semaine,Ensoleillé,Zem,6.19,1.15,12.2,0.04
+Etoile,Cadjehoun,0,Semaine,Ensoleillé,Zem,4.18,1.36,9.7,0.04
+Zongo,Akpakpa,9,Semaine,Ensoleillé,Voiture,3.38,3.5,15.7,0.01
+Akpakpa,Zongo,18,Semaine,Ensoleillé,Zem,3.38,3.46,20.0,0.04
+Etoile,Cadjehoun,16,Semaine,Pluie Légère,Zem,4.18,1.33,11.9,0.04
+Etoile,Fidjrosse,0,Semaine,Ensoleillé,Zem,7.91,1.36,18.5,0.04
+Etoile,Calavi,16,Semaine,Forte Pluie,Voiture,12.72,1.36,46.1,0.02
+Fidjrosse,Akpakpa,23,Semaine,Ensoleillé,Voiture,10.0,1.45,19.3,0.01
+Zongo,Cadjehoun,2,Semaine,Forte Pluie,Voiture,2.81,1.12,8.4,0.02
+Calavi,Zongo,10,Semaine,Ensoleillé,Voiture,12.45,1.45,24.2,0.01
+Cadjehoun,Zongo,16,Semaine,Ensoleillé,Voiture,2.81,1.39,5.2,0.01
+Fidjrosse,Akpakpa,22,Semaine,Ensoleillé,Bus,10.0,1.2,24.0,0.005
+Calavi,Zongo,2,Semaine,Ensoleillé,Voiture,12.45,1.12,18.7,0.01
+Etoile,Zongo,7,Semaine,Pluie Légère,Zem,1.45,2.4,7.4,0.04
+Fidjrosse,Akpakpa,20,Weekend,Pluie Légère,Voiture,10.0,1.0,16.7,0.01
+Calavi,Zongo,21,Semaine,Pluie Légère,Voiture,12.45,1.36,28.3,0.01
+Calavi,Zongo,6,Weekend,Pluie Légère,Voiture,12.45,1.0,20.7,0.01
+Etoile,Akpakpa,13,Semaine,Ensoleillé,Zem,2.12,1.48,5.4,0.04
+Cadjehoun,Fidjrosse,3,Semaine,Forte Pluie,Zem,3.92,1.27,17.1,0.16
+Calavi,Cadjehoun,15,Semaine,Pluie Légère,Zem,11.27,1.29,31.1,0.04
+Fidjrosse,Zongo,21,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Cadjehoun,Akpakpa,0,Semaine,Pluie Légère,Zem,6.19,1.57,20.8,0.04
+Calavi,Akpakpa,16,Weekend,Pluie Légère,Zem,14.46,1.0,31.0,0.04
+Etoile,Calavi,9,Semaine,Ensoleillé,Bus,12.72,2.58,65.7,0.005
+Calavi,Akpakpa,21,Semaine,Pluie Légère,Zem,14.46,1.15,35.7,0.04
+Etoile,Fidjrosse,15,Weekend,Pluie Légère,Zem,7.91,1.0,16.9,0.04
+Cadjehoun,Akpakpa,15,Weekend,Ensoleillé,Zem,6.19,1.0,10.6,0.04
+Etoile,Fidjrosse,7,Semaine,Ensoleillé,Voiture,7.91,2.82,29.7,0.01
+Zongo,Fidjrosse,5,Weekend,Ensoleillé,Voiture,6.66,1.0,8.9,0.01
+Akpakpa,Zongo,19,Weekend,Ensoleillé,Voiture,3.38,1.0,4.5,0.01
+Cadjehoun,Fidjrosse,15,Weekend,Ensoleillé,Voiture,3.92,1.0,5.2,0.01
+Calavi,Cadjehoun,6,Semaine,Forte Pluie,Zem,11.27,1.47,56.9,0.16
+Calavi,Etoile,8,Weekend,Ensoleillé,Zem,12.72,1.0,21.8,0.04
+Etoile,Calavi,10,Weekend,Forte Pluie,Voiture,12.72,1.0,33.9,0.02
+Akpakpa,Etoile,13,Semaine,Ensoleillé,Zem,2.12,1.41,5.1,0.04
+Etoile,Akpakpa,6,Semaine,Ensoleillé,Voiture,2.12,1.31,3.7,0.01
+Etoile,Akpakpa,0,Semaine,Pluie Légère,Voiture,2.12,1.58,5.6,0.01
+Fidjrosse,Zongo,12,Semaine,Ensoleillé,Voiture,6.66,1.47,13.0,0.01
+Calavi,Akpakpa,19,Semaine,Ensoleillé,Zem,14.46,2.31,57.3,0.04
+Zongo,Calavi,2,Weekend,Pluie Légère,Zem,12.45,1.0,26.7,0.04
+Etoile,Akpakpa,19,Weekend,Pluie Légère,Voiture,2.12,1.0,3.5,0.01
+Calavi,Etoile,10,Weekend,Forte Pluie,Bus,12.72,1.0,50.9,0.01
+Zongo,Fidjrosse,1,Weekend,Pluie Légère,Bus,6.66,1.0,16.7,0.005
+Etoile,Calavi,13,Semaine,Pluie Légère,Voiture,12.72,1.47,31.2,0.01
+Etoile,Akpakpa,11,Semaine,Pluie Légère,Voiture,2.12,1.11,3.9,0.01
+Akpakpa,Calavi,16,Weekend,Ensoleillé,Voiture,14.46,1.0,19.3,0.01
+Akpakpa,Zongo,11,Semaine,Ensoleillé,Zem,3.38,1.43,8.2,0.04
+Calavi,Fidjrosse,11,Weekend,Pluie Légère,Voiture,9.53,1.0,15.9,0.01
+Zongo,Fidjrosse,0,Weekend,Ensoleillé,Zem,6.66,1.0,11.4,0.04
+Etoile,Cadjehoun,12,Weekend,Ensoleillé,Zem,4.18,1.0,7.2,0.04
+Calavi,Akpakpa,13,Semaine,Ensoleillé,Voiture,14.46,1.21,23.2,0.01
+Calavi,Zongo,23,Semaine,Ensoleillé,Zem,12.45,1.45,30.9,0.04
+Cadjehoun,Fidjrosse,1,Semaine,Ensoleillé,Zem,3.92,1.25,8.4,0.04
+Akpakpa,Fidjrosse,11,Semaine,Pluie Légère,Zem,10.0,1.54,32.9,0.04
+Etoile,Calavi,15,Semaine,Pluie Légère,Voiture,12.72,1.27,26.9,0.01
+Etoile,Akpakpa,7,Weekend,Ensoleillé,Zem,2.12,1.0,3.6,0.04
+Zongo,Fidjrosse,9,Semaine,Ensoleillé,Zem,6.66,3.32,37.9,0.04
+Calavi,Cadjehoun,8,Semaine,Pluie Légère,Zem,11.27,2.71,65.6,0.04
+Etoile,Calavi,22,Semaine,Ensoleillé,Voiture,12.72,1.56,26.4,0.01
+Akpakpa,Calavi,14,Semaine,Ensoleillé,Zem,14.46,1.49,36.9,0.04
